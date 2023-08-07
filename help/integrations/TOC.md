@@ -3,7 +3,7 @@ user-guide-title: Experience Cloud整合教學課程
 breadcrumb-title: Experience Cloud 整合
 user-guide-description: 整合學習。
 mini-toc-levels: 1
-source-git-commit: 510253b9fbf510ebdfb7e0cc51b854fa4c4bc07d
+source-git-commit: b11b179bfc87a44387cf4d331386e729f0ce8b71
 workflow-type: tm+mt
 source-wordcount: '92'
 ht-degree: 26%
@@ -23,7 +23,7 @@ ht-degree: 26%
    + [客戶歷程](./solution-categories/customer-journeys.md)
    + [資料深入解析與啟用](./solution-categories/data-insights.md)
    + [大規模個人化](./solution-categories/personalization.md)
-+ 應用程式整合{#integrations-between-applications}
++ 產品整合{#integrations-between-applications}
    + [概觀](./integrations-between-applications/overview.md)
    + [!DNL Acrobat Sign]{#acrobat-sign}
       + [[!DNL Experience Manager]](./integrations-between-applications/acrobat-sign/acrobat-sign-experience-manager.md)
