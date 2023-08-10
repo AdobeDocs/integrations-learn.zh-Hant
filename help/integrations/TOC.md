@@ -1,12 +1,12 @@
 ---
-user-guide-title: Experience Cloud整合教學課程
+user-guide-title: Experience Cloud 整合教學課程
 breadcrumb-title: Experience Cloud 整合
 user-guide-description: 整合學習。
 mini-toc-levels: 1
 source-git-commit: b11b179bfc87a44387cf4d331386e729f0ce8b71
 workflow-type: tm+mt
 source-wordcount: '92'
-ht-degree: 26%
+ht-degree: 32%
 
 ---
 

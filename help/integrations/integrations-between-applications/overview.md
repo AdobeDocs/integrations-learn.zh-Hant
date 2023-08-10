@@ -1,10 +1,10 @@
 ---
 title: Adobe Experience Cloud應用程式的整合設定 — 依產品
-description: 依產品組織的Adobe Experience Cloud應用程式的常見整合設定。
+description: 按產品組織的 Adobe Experience Cloud 應用程式的常見整合設定。
 source-git-commit: 594e0c2e79a401c872c8f9a4eafdda82572b37a3
 workflow-type: tm+mt
 source-wordcount: '119'
-ht-degree: 0%
+ht-degree: 9%
 
 ---
 
