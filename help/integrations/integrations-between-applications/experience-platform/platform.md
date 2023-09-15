@@ -1,5 +1,5 @@
 ---
-title: 整合Adobe Experience [!DNL Platform] 與其他Adobe應用程式
+title: 整合Adobe體驗 [!DNL Platform] 與其他Adobe應用程式
 description: 瞭解如何整合體驗 [!DNL Platform] 與其他Adobe應用程式整合。
 solution: Experience [!DNL Platform]
 feature: Integrations
@@ -7,9 +7,9 @@ topic: Integrations
 role: Architect, Admin, Developer
 level: Beginner
 jira: null
-thumbnail: null
+thumbnail: experience-platform.png
 last-substantial-update: 2023-07-19T00:00:00Z
-source-git-commit: 94b074c17e976e4f4acbb1ff41aacfc9bf74744c
+source-git-commit: 7ed617ac0ba6b340ff94cdee47914645e0ec6615
 workflow-type: tm+mt
 source-wordcount: '120'
 ht-degree: 7%
@@ -19,7 +19,7 @@ ht-degree: 7%
 
 # 整合體驗 [!DNL Platform] 與其他Adobe應用程式
 
-Adobe Experience [!DNL Platform] 是市面上功能最強大、最靈活、最開放的系統，可建置和管理可提升客戶體驗的完整解決方案。 許多新的Adobe應用程式都是以Experience為基礎所建置 [!DNL Platform]，包括：
+Adobe體驗 [!DNL Platform] 是市面上功能最強大、最靈活、最開放的系統，可建置和管理可提升客戶體驗的完整解決方案。 許多新的Adobe應用程式都是以Experience為基礎所建置 [!DNL Platform]，包括：
 
 * 客戶歷程 [!DNL Analytics]
 * Journey Optimizer
