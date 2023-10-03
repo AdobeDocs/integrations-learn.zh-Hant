@@ -1,17 +1,19 @@
 ---
-title: Adobe Experience Cloud應用程式的整合設定 — 依產品
-description: 按產品組織的 Adobe Experience Cloud 應用程式的常見整合設定。
-source-git-commit: 7ed617ac0ba6b340ff94cdee47914645e0ec6615
+title: 整合設定 — 依應用程式
+description: 瞭解按應用程式組織的Experience Cloud常見整合設定。
+exl-id: 80c75142-aa73-4bac-8bed-22e0af50ec50
+source-git-commit: 8bcf161013259850165418dccd18ebd7f4ea3c93
 workflow-type: tm+mt
-source-wordcount: '119'
-ht-degree: 9%
+source-wordcount: '105'
+ht-degree: 0%
 
 ---
 
+# Experience Cloud的整合設定 — 由應用程式組織
 
-# Adobe Experience Cloud產品的整合設定 — 依產品
+若您熟悉Adobe應用程式，且想要整合多個Adobe應用程式以創造商業價值，本節將協助您。 我們為Adobe企業應用程式組織了許多常見的整合設定，並將其對應至實際使用案例。
 
-本節將協助任何熟悉Adobe產品且想整合多個Adobe產品以創造商業價值的人。  我們已針對Adobe企業產品組織了許多常見的整合設定，並將其對應至實際使用案例。  根據您的環境，有許多方式可設定Adobe產品。  本節旨在提供可依原樣部署或修改的指引，以滿足您環境的需求。
+設定Adobe應用程式的方法有很多種，視您的環境而定。 本節提供相關指引，協助您按原樣部署或修改內容，以符合您環境的需求。
 
 >[!NOTE]
 >
