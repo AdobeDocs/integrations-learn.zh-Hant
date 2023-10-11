@@ -1,11 +1,11 @@
 ---
 title: 整合設定 — 依應用程式
-description: 瞭解按應用程式組織的Experience Cloud常見整合設定。
+description: 了解依據應用程式所組織之 Experience Cloud 的常見整合設定。
 exl-id: 80c75142-aa73-4bac-8bed-22e0af50ec50
 source-git-commit: 8bcf161013259850165418dccd18ebd7f4ea3c93
 workflow-type: tm+mt
 source-wordcount: '105'
-ht-degree: 0%
+ht-degree: 10%
 
 ---
 

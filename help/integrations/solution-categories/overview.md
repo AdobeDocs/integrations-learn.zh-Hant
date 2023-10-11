@@ -1,11 +1,11 @@
 ---
 title: 應用程式整合設定 — 依企業解決方案
-description: 瞭解按業務解決方案組織的Experience Cloud應用程式的常見整合設定。
+description: 了解依據業務解決方案所組織之 Experience Cloud 應用程式的常見整合設定。
 exl-id: eb460a4e-924f-4dcf-a2e2-5fa5a7bc9fdf
 source-git-commit: 8bcf161013259850165418dccd18ebd7f4ea3c93
 workflow-type: tm+mt
 source-wordcount: '183'
-ht-degree: 2%
+ht-degree: 9%
 
 ---
 
