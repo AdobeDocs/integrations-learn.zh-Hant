@@ -1,13 +1,13 @@
 ---
-title: 大規模個人化
+title: 大規模個人化的應用程式整合
 description: 將個人化體驗融入每個時刻。
-source-git-commit: 94b074c17e976e4f4acbb1ff41aacfc9bf74744c
+exl-id: 6d18813d-950c-40ae-8d5b-80bf389358fc
+source-git-commit: 509b227f360718e81fb19d3a4d30aebf9de49e5a
 workflow-type: tm+mt
-source-wordcount: '513'
+source-wordcount: '516'
 ht-degree: 1%
 
 ---
-
 
 # 大規模個人化
 
@@ -56,7 +56,7 @@ ht-degree: 1%
           <li>分析頂端/底部轉換路徑</li>
           <li>分析管道參與和轉換</li>
           <li>瞭解最常檢視的內容</li>
-          <li>瞭解最受歡迎的產品類別與產品</li>
+          <li>瞭解主要產品類別和產品</li>
           <li>
             執行工具使用分析以最佳化自助服務體驗
           </li>

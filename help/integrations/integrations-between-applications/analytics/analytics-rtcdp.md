@@ -1,5 +1,5 @@
 ---
-title: 整合 [!DNL Analytics] 使用即時客戶資料 [!DNL Platform]
+title: 整合 [!DNL Analytics] 替換為 [!DNL Real-Time Customer Data Platform]
 description: 瞭解如何整合 [!DNL Analytics] 使用即時客戶資料 [!DNL Platform].
 solution: Analytics, Real-Time Customer Data Platform
 feature: Integrations
@@ -11,13 +11,13 @@ thumbnail: analytics-rtcdp.png
 index: false
 badgeIntegration: label="整合" type="positive"
 last-substantial-update: 2023-06-29T00:00:00Z
-source-git-commit: 7ed617ac0ba6b340ff94cdee47914645e0ec6615
+exl-id: 2923b6a3-7133-475e-a896-b4c64ea47ade
+source-git-commit: 509b227f360718e81fb19d3a4d30aebf9de49e5a
 workflow-type: tm+mt
-source-wordcount: '20'
+source-wordcount: '17'
 ht-degree: 5%
 
 ---
-
 
 # 整合 [!DNL Analytics] 使用即時客戶資料 [!DNL Platform]
 

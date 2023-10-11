@@ -1,13 +1,13 @@
 ---
-title: B2B行銷
+title: B2B行銷的應用程式整合
 description: 根據統一的客戶設定檔和資料，跨管道大規模協調銷售機會管理、ABM和歸因。
-source-git-commit: 94b074c17e976e4f4acbb1ff41aacfc9bf74744c
+exl-id: ed4fb791-7883-4f42-80a0-12ab4e3c80ab
+source-git-commit: 509b227f360718e81fb19d3a4d30aebf9de49e5a
 workflow-type: tm+mt
-source-wordcount: '216'
+source-wordcount: '219'
 ht-degree: 2%
 
 ---
-
 
 # B2B行銷
 

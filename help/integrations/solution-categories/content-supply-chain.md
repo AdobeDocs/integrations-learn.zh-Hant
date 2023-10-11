@@ -1,17 +1,18 @@
 ---
-title: 內容供應鏈
+title: 內容供應鏈的應用程式整合
 description: 規劃、建立、個人化和發佈內容。
-source-git-commit: 94b074c17e976e4f4acbb1ff41aacfc9bf74744c
+exl-id: 00a15be9-612e-4210-8b2a-77274aa5713c
+source-git-commit: 509b227f360718e81fb19d3a4d30aebf9de49e5a
 workflow-type: tm+mt
-source-wordcount: '283'
+source-wordcount: '286'
 ht-degree: 3%
 
 ---
 
-
 # 內容供應鏈
 
 針對每位客戶規劃、建立、個人化和發佈令人難忘的內容 — 立即掌握。
+
 滿足客戶對個人化體驗的即時期望需要比以往更多的數位內容。 透過Adobe的創意工作流程和資產管理解決方案，您的團隊可以規劃、建立並大規模提供個人化內容，以支援每個接觸點的客戶歷程。
 
 <table>
@@ -83,7 +84,7 @@ ht-degree: 3%
 </tr>
 <tr>
   <td><strong>擷取客戶資料</strong><br/></td>
-  <td>增強原生 [!DNL Campaign] 擷取客戶資料，以定位行銷活動並個人化行銷活動的功能。
+  <td>增強原生 [!DNL Campaign] 擷取客戶資料的功能，用於行銷活動的目標定位和個人化。
   </td>
   <td>
     <ul>

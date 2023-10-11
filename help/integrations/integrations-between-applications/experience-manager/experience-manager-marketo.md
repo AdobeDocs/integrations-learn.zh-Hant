@@ -1,5 +1,5 @@
 ---
-title: 如何將AEM Forms與Marketo Engage整合
+title: 將AEM Forms與Marketo Engage整合
 description: 將Adobe Experience Manager Forms (AEM Forms)與Marketo Engage整合可簡化銷售機會的產生。
 solution: Experience Manager, Experience Manager Forms, Marketo Engage
 feature: Integrations
@@ -11,13 +11,13 @@ kt: null
 thumbnail: experience-manager-marketo.png
 badgeIntegration: label="整合" type="positive"
 last-substantial-update: 2023-07-31T00:00:00Z
-source-git-commit: 7ed617ac0ba6b340ff94cdee47914645e0ec6615
+exl-id: c943b334-19b7-4dc8-962a-aacc18bbd9f2
+source-git-commit: 509b227f360718e81fb19d3a4d30aebf9de49e5a
 workflow-type: tm+mt
-source-wordcount: '28'
+source-wordcount: '26'
 ht-degree: 3%
 
 ---
-
 
 # 將Experience Manager與Marketo Engage整合
 

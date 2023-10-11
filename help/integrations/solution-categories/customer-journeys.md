@@ -1,13 +1,13 @@
 ---
-title: 客戶歷程
+title: 客戶歷程的應用程式整合
 description: 透過從所有來源提取資料來開發即時客戶設定檔，以建立個人化的跨管道歷程。
-source-git-commit: 94b074c17e976e4f4acbb1ff41aacfc9bf74744c
+exl-id: eb653b89-db0f-433a-8641-bbeb32197096
+source-git-commit: 509b227f360718e81fb19d3a4d30aebf9de49e5a
 workflow-type: tm+mt
-source-wordcount: '282'
+source-wordcount: '286'
 ht-degree: 2%
 
 ---
-
 
 # 客戶歷程
 
@@ -37,7 +37,7 @@ ht-degree: 2%
 
 <tr>
   <td><strong>擷取客戶資料</strong><br></td>
- <td>增強原生 [!DNL Campaign] 擷取客戶資料，以定位行銷活動並個人化行銷活動的功能。</td>
+ <td>增強原生 [!DNL Campaign] 擷取客戶資料的功能，用於行銷活動的目標定位和個人化。</td>
   <td>
     <ul style="margin-top: 0;">
       <li>建立設定檔並收集其他資訊。 </li>
@@ -118,4 +118,3 @@ ht-degree: 2%
 </tr>
 </tbody>
 </table>
-

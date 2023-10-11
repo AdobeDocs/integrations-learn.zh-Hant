@@ -1,6 +1,6 @@
 ---
-title: 將Audience Manager與即時客戶資料整合 [!DNL Platform]
-description: 瞭解如何將Audience Manager與即時客戶資料整合 [!DNL Platform].
+title: 整合 [!DNL Audience Manager] 替換為 [!DNL Real-Time Customer Data Platform]
+description: 瞭解如何整合 [!DNL Audience Manager] 替換為 [!DNL Real-Time Customer Data Platform].
 solution: Audience Manager, Real-Time Customer Data [!DNL Platform]
 feature: Integrations
 topic: Integrations
@@ -11,14 +11,14 @@ thumbnail: aam-rtcdp.png
 index: false
 badgeIntegration: label="整合" type="positive"
 last-substantial-update: 2023-04-14T00:00:00Z
-source-git-commit: 7ed617ac0ba6b340ff94cdee47914645e0ec6615
+exl-id: 771deecf-53b0-4a0e-b342-e178edd64ecc
+source-git-commit: 509b227f360718e81fb19d3a4d30aebf9de49e5a
 workflow-type: tm+mt
-source-wordcount: '25'
-ht-degree: 4%
+source-wordcount: '10'
+ht-degree: 10%
 
 ---
 
-
-# 將Audience Manager與即時客戶資料整合 [!DNL Platform]
+# 整合 [!DNL Audience Manager] 替換為 [!DNL Real-Time Customer Data Platform]
 
 {{$include /help/_includes/integrations-between-applications/aam-rtcdp.md}}
