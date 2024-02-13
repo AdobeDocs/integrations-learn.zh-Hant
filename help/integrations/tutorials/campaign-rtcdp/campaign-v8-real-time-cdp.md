@@ -1,7 +1,7 @@
 ---
 title: 整合 [!DNL Campaign] 使用Real-Time CDP教學課程的v8
 description: 瞭解如何整合 [!DNL Campaign] v8搭配Real-Time CDP。
-solution: Campaign, Campaign v8, Real-Time Customer Data Platform
+solution: Campaign, Campaign v8 Client Console, Campaign v8 Web User Interface, Real-Time Customer Data Platform
 feature: Integrations
 topic: Integrations
 role: Leader, Architect, Admin, Developer
@@ -12,13 +12,13 @@ kt: null
 thumbnail: null
 last-substantial-update: 2023-04-11T00:00:00Z
 badgeIntegration: label="整合" type="positive"
-source-git-commit: 94b074c17e976e4f4acbb1ff41aacfc9bf74744c
+exl-id: 5d9d82d0-7416-4b0a-895f-909058cd9a80
+source-git-commit: cb7b3dd4776f7a475519ae7b8ed9c3209f9d9917
 workflow-type: tm+mt
 source-wordcount: '85'
 ht-degree: 1%
 
 ---
-
 
 # 整合 [!DNL Campaign] 使用Real-Time CDP的v8
 
