@@ -1,6 +1,6 @@
 ---
-title: 整合 [!DNL Analytics] 使用客戶歷程 [!DNL Analytics]
-description: 瞭解如何整合 [!DNL Analytics] 使用客戶歷程 [!DNL Analytics].
+title: 將 [!DNL Analytics] 與客戶歷程 [!DNL Analytics]整合
+description: 瞭解如何將 [!DNL Analytics] 與客戶歷程 [!DNL Analytics]整合。
 solution: Analytics, Customer Journey Analytics
 feature: Integrations
 topic: Integrations
@@ -11,14 +11,14 @@ thumbnail: analytics-customer-journey-analytics.png
 index: false
 badgeIntegration: label="整合" type="positive"
 last-substantial-update: 2023-06-29T00:00:00Z
-source-git-commit: 7ed617ac0ba6b340ff94cdee47914645e0ec6615
+exl-id: 5b1b224f-3f0d-453b-b68d-77711d6acddc
+source-git-commit: d35dc06c56c117cffe70542b6713f275877e4879
 workflow-type: tm+mt
 source-wordcount: '16'
 ht-degree: 6%
 
 ---
 
-
-# 整合 [!DNL Analytics] 使用客戶歷程 [!DNL Analytics]
+# 將[!DNL Analytics]與客戶歷程[!DNL Analytics]整合
 
 {{$include /help/_includes/integrations-between-applications/analytics-customer-journey-analytics.md}}

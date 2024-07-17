@@ -1,8 +1,8 @@
 ---
 source-git-commit: 838a4dc4cc89da5d9b3798dc62d518dac22e1d3a
 workflow-type: tm+mt
-source-wordcount: '116'
-ht-degree: 5%
+source-wordcount: '109'
+ht-degree: 2%
 
 ---
 
@@ -15,9 +15,9 @@ ht-degree: 5%
 
 整合Adobe Workfront和Adobe Creative Cloud的主要優點包括：
 
-+ **創意工作流程**：整合可簡化工作、意見回饋，以及Creative Cloud應用程式的登入時間。
-+ **高效率的協同合作**：Workfront有助於創意工作審查、核准和團隊共同作業。
-+ **提升生產力**：順暢的環境偏好設定可改善內容建立速度和品質。
++ **創意工作流程**：整合可簡化Creative Cloud應用程式中的工作、意見反應和時間記錄。
++ **有效率的共同作業**： Workfront有助於創意工作稽核、核准和團隊共同作業。
++ **增強的生產力**：順暢的環境喜好設定可提升內容建立的速度和品質。
 
 ## 常見整合
 
@@ -26,7 +26,7 @@ ht-degree: 5%
         <tr>
             <th>Experience Cloud應用程式</th>
             <th>整合，使用</th>
-            <th>何時使用</th>
+            <th>使用時機</th>
             <th>常見使用實例</th>
         </tr>
     </thead>

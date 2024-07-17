@@ -1,6 +1,6 @@
 ---
-title: 整合Adobe [!DNL Target] 使用Adobe Real-time Customer Data Platform
-description: 瞭解如何整合Adobe [!DNL Target] 與Adobe Real-time Customer Data Platform整合。
+title: 將Adobe [!DNL Target] 與Adobe Real-time Customer Data Platform整合
+description: 瞭解如何將Adobe [!DNL Target] 與Adobe Real-time Customer Data Platform整合。
 solution: Target, Real-Time Customer Data Platform
 feature-set: Experience [!DNL Platform], [!DNL Target]
 feature: Integrations, Audiences, Segments, Profiles
@@ -19,6 +19,6 @@ ht-degree: 3%
 
 ---
 
-# 整合Adobe [!DNL Target] 使用Adobe Real-time Customer Data Platform
+# 將Adobe[!DNL Target]與Adobe Real-time Customer Data Platform整合
 
 {{$include /help/_includes/integrations-between-applications/rtcdp-target.md}}

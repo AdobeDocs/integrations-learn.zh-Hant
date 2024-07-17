@@ -1,8 +1,8 @@
 ---
 source-git-commit: 838a4dc4cc89da5d9b3798dc62d518dac22e1d3a
 workflow-type: tm+mt
-source-wordcount: '153'
-ht-degree: 3%
+source-wordcount: '147'
+ht-degree: 2%
 
 ---
 
@@ -15,11 +15,11 @@ ht-degree: 3%
 
 整合Adobe Audience Manager和Adobe Real-Time CDP具備下列優點：
 
-+ **全面的客戶分析** 結合第一方和第三方資料，更深入地瞭解客戶的偏好和行為。
-+ **即時個人化** 可讓行銷人員提供相關的體驗，提升客戶參與度和滿意度。
-+ **精確的受眾細分** 最佳化行銷工作，實現更有效率的行銷活動並改善ROI。
-+ **順暢的跨頻道體驗** 確保訊息一致，並提高客戶忠誠度。
-+ **增強資料隱私權與合規性** 遵守法規與客戶建立信任，並降低合規風險。
++ **完整的客戶深入分析**&#x200B;結合第一方和第三方資料，讓您更深入地瞭解客戶的偏好和行為。
++ **即時個人化**&#x200B;可讓行銷人員提供相關體驗，提升客戶參與度和滿意度。
++ **精確的受眾細分**&#x200B;可最佳化行銷工作，提供更有效率的行銷活動並改善ROI。
++ **順暢的跨管道體驗**&#x200B;可確保訊息的一致性，並提升客戶忠誠度。
++ **加強資料隱私權與法規遵循**&#x200B;與客戶建立信任，並降低法規遵循風險。
 
 ## 常見整合
 
@@ -28,14 +28,14 @@ ht-degree: 3%
         <tr>
             <th>Experience Cloud應用程式</th>
             <th>整合，使用</th>
-            <th>何時使用</th>
+            <th>使用時機</th>
             <th>常見使用實例</th>
         </tr>
     </thead>
     <tbody>
         <tr>
             <td>
-                <a href="https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-aam.html" target="_blank" rel="noreferrer">Audience Manager與Real-Time CDP</a>
+                <a href="https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-aam.html" target="_blank" rel="noreferrer">Audience Manager和Real-Time CDP</a>
             </td>
             <td>Adobe Audience Manager資料聯結器</td>
             <td>

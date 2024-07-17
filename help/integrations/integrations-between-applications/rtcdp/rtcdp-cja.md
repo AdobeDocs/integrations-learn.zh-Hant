@@ -1,6 +1,6 @@
 ---
-title: 將Real-time Customer Data Platform與整合 [!DNL Customer Journey Analytics]
-description: 瞭解如何整合 [!DNL Real-Time Customer Data  Platform] 替換為 [!DNL Customer Journey Analytics].
+title: 將Real-time Customer Data Platform與 [!DNL Customer Journey Analytics]整合
+description: 瞭解如何整合 [!DNL Real-Time Customer Data  Platform] 與 [!DNL Customer Journey Analytics]。
 solution: Real-Time Customer Data [!DNL Platform], Customer Journey [!DNL Analytics]
 feature: Integrations
 topic: Integrations
@@ -18,6 +18,6 @@ ht-degree: 5%
 
 ---
 
-# 整合即時客戶資料 [!DNL Platform] 使用客戶歷程 [!DNL Analytics]
+# 將即時客戶資料[!DNL Platform]與客戶歷程[!DNL Analytics]整合
 
 {{$include /help/_includes/integrations-between-applications/cja-rtcdp.md}}

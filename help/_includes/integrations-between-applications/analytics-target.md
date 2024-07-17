@@ -1,31 +1,31 @@
 ---
 source-git-commit: 94b074c17e976e4f4acbb1ff41aacfc9bf74744c
 workflow-type: tm+mt
-source-wordcount: '134'
-ht-degree: 8%
+source-wordcount: '126'
+ht-degree: 6%
 
 ---
 
 
-# [!DNL Analytics] 和 [!DNL Target] 整合
+# [!DNL Analytics]與[!DNL Target]整合
 
 {{analytics-description}}
 
 {{target-description}}
 
-整合Adobe的主要優點 [!DNL Analytics] 和Adobe [!DNL Target] (A4T)包括：
+整合Adobe[!DNL Analytics]與Adobe[!DNL Target] (A4T)的主要優點如下：
 
-+ **資料導向個人化**：使用 [!DNL Analytics] 針對Adobe中的目標活動 [!DNL Target]，提升個人化策略。
-+ **統一報告**： A4T整合結合 [!DNL Target] 和 [!DNL Analytics] 報表，以進行全面分析。
-+ **最佳化目標定位**：決策依據 [!DNL Analytics] 精確受眾細分和內容最佳化的資料。
-+ **共用受眾**：使用 [!DNL Analytics] 以建立詳細區段並共用至 [!DNL Target] 以用作測試的對象。
++ **資料驅動的個人化**：將[!DNL Analytics]用於Adobe[!DNL Target]中的目標活動，以強化個人化策略。
++ **整合式報告**： A4T整合結合了[!DNL Target]和[!DNL Analytics]報告，以進行全面分析。
++ **已最佳化目標**：根據[!DNL Analytics]資料進行決策，以實現精確的對象細分和內容最佳化。
++ **共用對象**：使用[!DNL Analytics]建立詳細的區段，並共用給[!DNL Target]做為測試的對象。
 
 <table>
     <thead>
             <tr>
                 <th>Experience Cloud應用程式</th>
                 <th>整合，使用</th>
-                <th>何時使用</th>
+                <th>使用時機</th>
                 <th>常見使用實例</th>
             </tr>
     </thead>
@@ -34,12 +34,12 @@ ht-degree: 8%
             <td rowspan="2">[!DNL Analytics] 和 [!DNL Target]</td>
             <td>
                 <ul style="margin-top: 0;">
-                    <li><a href="../../integrations/tutorials/analytics-target/analytics-target.md" target="_blank" rel="noreferrer">at.js資料庫 [!DNL Target] 和appmeasurement.js程式庫 [!DNL Analytics]</a></li>
+                    <li><a href="../../integrations/tutorials/analytics-target/analytics-target.md" target="_blank" rel="noreferrer">適用於[!DNL Target]的at.js程式庫和適用於的appmeasurement.js程式庫 [!DNL Analytics]</a></li>
                 </ul>
             </td>
             <td>
                 <ul style="margin-top: 0;">
-                    <li>您想要使用Adobe [!DNL Analytics] 豐富的報表功能可供顯示和分析 [!DNL Target] 活動結果。</li>
+                    <li>您想要使用Adobe[!DNL Analytics]豐富報告功能來顯示和分析[!DNL Target]活動結果。</li>
                 </ul>
             </td>
             <td>
@@ -57,7 +57,7 @@ ht-degree: 8%
             </td>
             <td>
                 <ul style="margin-top: 0;">
-                    <li>您想要共用 [!DNL Analytics] 區段至 [!DNL Target] 對象。</li>
+                    <li>您想要將[!DNL Analytics]區段共用給[!DNL Target]個對象。</li>
                 </ul>
             </td>
             <td>

@@ -1,6 +1,6 @@
 ---
-title: 將Experience Manager與整合 [!DNL Target]
-description: 將Adobe Experience Manager (AEM)與整合 [!DNL Target] 以提供個人化體驗。
+title: 將Experience Manager與 [!DNL Target]整合
+description: 將Adobe Experience Manager (AEM)與 [!DNL Target] 整合，以提供個人化體驗。
 solution: Experience Manager, Experience Manager Sites, [!DNL Target]
 feature: Integrations
 topic: Integrations
@@ -19,6 +19,6 @@ ht-degree: 5%
 
 ---
 
-# 將Experience Manager與整合 [!DNL Target]
+# 將Experience Manager與[!DNL Target]整合
 
 {{$include /help/_includes/integrations-between-applications/experience-manager-target.md}}

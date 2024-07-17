@@ -4,8 +4,8 @@ description: 了解依據業務解決方案所組織之 Experience Cloud 應用�
 exl-id: eb460a4e-924f-4dcf-a2e2-5fa5a7bc9fdf
 source-git-commit: 8bcf161013259850165418dccd18ebd7f4ea3c93
 workflow-type: tm+mt
-source-wordcount: '183'
-ht-degree: 9%
+source-wordcount: '178'
+ht-degree: 11%
 
 ---
 
@@ -56,16 +56,16 @@ ht-degree: 9%
     </td>
    <td>
       <a  href="./data-insights.md"><img alt="資料深入解析和啟用" src="https://cdn.experienceleague.adobe.com/thumb/data-insights.png"/></a>
-      <div><strong><a href="./data-insights.md"> 資料深入解析與啟用</a></strong></div>
+      <div><strong><a href="./data-insights.md">資料深入分析和啟用</a></strong></div>
       <p>
-        [!DNL Analytics] 和受眾管理
+        [!DNL Analytics]和對象管理
       </p>
    </td>  
 </tr>
 <tr>
    <td>
-      <a  href="./personalization.md"><img alt="大規模個人化" src="https://cdn.experienceleague.adobe.com/thumb/personalization.png"/></a>
-      <div><strong><a href="./personalization.md">依規模個人化</a></strong></div>
+      <a  href="./personalization.md"><img alt="大規模Personalization" src="https://cdn.experienceleague.adobe.com/thumb/personalization.png"/></a>
+      <div><strong><a href="./personalization.md">Personalization做為比例</a></strong></div>
       <p>
         如何讓每個連線都成為個人的
       </p>

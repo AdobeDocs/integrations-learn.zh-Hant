@@ -9,14 +9,14 @@ ht-degree: 1%
 
 ---
 
-# 大規模個人化
+# 大規模Personalization
 
 在當今高度競爭和數位化的環境內，客戶期待能根據自己獨特的偏好和需求量身打造的體驗。 運用Adobe Experience Cloud的功能，我們得以收集和分析廣泛的客戶資料，針對行為、興趣和偏好提供寶貴的見解。 這種深入的瞭解有助於在各種接觸點之間傳遞個人化體驗，確保有意義且吸引人的互動。 運用Adobe Experience Cloud的強大功能，釋放個人化的全部潛力，建立更強大的客戶連線，培養忠誠度，並帶動業務增長。
 
 <table>
  <thead>
     <tr>
-      <th>使用案例</th>
+      <th>使用實例</th>
       <th>說明</th>
       <th>範例</th>
       <th>應用程式</th>
@@ -26,12 +26,14 @@ ht-degree: 1%
     <tr>
       <td><strong>建立個人化PDF檔案</strong></td>
       <td>
-        根據使用者選擇/偏好設定產生通訊檔案以供簽署。
+        根據使用者產生通訊檔案以供簽署
+        選取/偏好設定。
       </td>
       <td>
         <ul style="margin-top: 0;">
           <li>
-            根據AEM Forms提交的資料呈現動態產生的NDA以供簽署
+            根據AEM的資料呈現動態產生的NDA
+            Forms提交以進行簽署
           </li>
         </ul>
       </td>
@@ -40,16 +42,16 @@ ht-degree: 1%
           href="../integrations-between-applications/experience-manager/experience-manager-acrobat-sign.md"
           target="_blank"
           rel="noopener noreferrer"
-          >AEM Forms和Sign</a
+          >AEM Forms和簽署</a
         >
       </td>
     </tr>
     <tr>
       <td rowspan="2"><strong>資料分析和報告</strong></td>
       <td>
-        分析數位體驗中的行為資料 <br />使用Adobe
-        [!DNL Analytics] Customer Journey中Analysis Workspace的行為資料
-        [!DNL Analytics].
+        分析數位體驗中的行為資料<br />使用Adobe
+        Customer Journey中Analysis Workspace的[!DNL Analytics]行為資料
+        [!DNL Analytics]。
       </td>
       <td>
         <ul style="margin-top: 0;">
@@ -67,13 +69,15 @@ ht-degree: 1%
           href="../integrations-between-applications/analytics/analytics-customer-journey-analytics.md"
           target="_blank"
           rel="noopener noreferrer"
-          >[!DNL Analytics] 和客戶歷程 [!DNL Analytics]</a
+          >[!DNL Analytics]和客戶歷程[!DNL Analytics]</a
         >
       </td>
     </tr>
     <tr>
       <td>
-        個人化活動的報表<br />利用Adobe分析最佳化測試結果，包括A/B測試 [!DNL Target] 以及透過Adobe產生完整的報告 [!DNL Analytics].
+        個人化活動的報表<br />分析最佳化
+        利用Adobe[!DNL Target]和測試結果，包括A/B測試
+        透過Adobe[!DNL Analytics]產生完整的報告。
       </td>
       <td>
         <ul style="margin-top: 0;">
@@ -92,7 +96,8 @@ ht-degree: 1%
     <tr>
       <td><strong>個人化電子郵件傳遞</strong></td>
       <td>
-        運用Adobe的功能，使用動態內容個人化電子郵件傳遞 [!DNL Target].
+        運用動態內容個人化電子郵件傳遞
+        Adobe[!DNL Target]的功能。
       </td>
       <td>
         <ul style="margin-top: 0;">
@@ -113,18 +118,22 @@ ht-degree: 1%
         <strong>展開個人化和廣告平台的對象</strong>
       </td>
       <td>
-        使用Audience Manager區段在Real-Time CDP中建立受眾，以用於個人化和再行銷策略。
+        使用Audience Manager區段在Real-Time CDP中建立受眾，以
+        用於個人化和再行銷策略。
       </td>
       <td>
         <ul style="margin-top: 0;">
           <li>
-            在網站、行動應用程式或支援的廣告頻道上，執行匿名數位對象目標定位和個人化
+            在上執行匿名數位受眾目標定位和個人化
+            網站、行動應用程式或支援的廣告頻道上的
           </li>
           <li>
-            根據已知裝置和行為特性最佳化登入頁面和預先驗證體驗
+            根據以下專案最佳化登入頁面和預先驗證體驗：
+            已知裝置和行為特性
           </li>
           <li>
-            運用Audience Manager第三方資料網路，進一步調整及擴大目標定位對象
+            利用Audience Manager第三方資料網路進一步拓展
+            調整並擴大目標定位對象
           </li>
           <li>將Audience Manager區段共用至RTCDP</li>
         </ul>
@@ -134,21 +143,24 @@ ht-degree: 1%
           href="../integrations-between-applications/aam/aam-rtcdp.md"
           target="_blank"
           rel="noopener noreferrer"
-          >Audience Manager和即時客戶資料 [!DNL Platform]</a
+          >Audience Manager和即時客戶資料[!DNL Platform]</a
         >
       </td>
     </tr>
     <tr>
       <td>
-        使用 [!DNL Analytics] 用於建立受眾以用於個人化或再行銷策略的資料。
+        使用[!DNL Analytics]資料來建立對象，以用於個人化或
+        再行銷策略。
       </td>
       <td>
         <ul style="margin-top: 0;">
           <li>
-            在裝置或支援的廣告頻道上執行數位對象目標定位和個人化。
+            在裝置上執行數位對象目標定位和個人化，或
+            支援的廣告頻道。
           </li>
           <li>
-            根據裝置和行為屬性最佳化已知的客戶登陸頁面和匿名體驗。
+            最佳化已知的客戶登陸頁面和匿名體驗
+            根據裝置和行為屬性。
           </li>
           <li>對已知管道啟用對象，例如電子郵件和簡訊。</li>
         </ul>
@@ -158,14 +170,15 @@ ht-degree: 1%
           href="../integrations-between-applications/analytics/analytics-customer-journey-analytics.md"
           target="_blank"
           rel="noopener noreferrer"
-          >[!DNL Analytics] 和即時客戶資料 [!DNL Platform]</a
+          >[!DNL Analytics]和即時客戶資料[!DNL Platform]</a
         >
       </td>
     </tr>
     <tr>
       <td rowspan="2"><strong>個人化網站體驗</strong></td>
       <td>
-        有效利用SPA Headless並結合Adobe，自訂單頁應用程式(AEM)體驗 [!DNL Target].
+        有效率地自訂單頁應用程式(SPA)體驗
+        搭配Adobe[!DNL Target]使用AEM Headless。
       </td>
       <td>
         <ul style="margin-top: 0;">
@@ -180,13 +193,14 @@ ht-degree: 1%
           href="../integrations-between-applications/experience-manager/experience-manager-target.md"
           target="_blank"
           rel="noopener noreferrer"
-          >AEM Headless和 [!DNL Target]</a
+          >AEM Headless和[!DNL Target]</a
         >
       </td>
     </tr>
     <tr>
       <td>
-        有效利用AEM Sites和Adobe，提供量身打造的網站體驗 [!DNL Target] 進行個人化。
+        有效利用AEM Sites，提供量身打造的網站體驗
+        和Adobe[!DNL Target]以進行個人化。
       </td>
       <td>
         <ul style="margin-top: 0;">
@@ -201,14 +215,15 @@ ht-degree: 1%
           href="../integrations-between-applications/experience-manager/experience-manager-target.md"
           target="_blank"
           rel="noopener noreferrer"
-          >AEM Sites和 [!DNL Target]</a
+          >AEM Sites和[!DNL Target]</a
         >
       </td>
     </tr>
     <tr>
       <td><strong>個人化數位體驗</strong></td>
       <td>
-        使用即時客戶設定檔並集中管理 [!DNL Platform] 區段，用於個人化網頁、行動裝置和其他數位頻道上的訊息
+        使用即時客戶設定檔和集中管理的[!DNL Platform]區段
+        個人化網頁、行動裝置和其他數位頻道上的訊息
       </td>
       <td>
         <ul style="margin-top: 0;">
@@ -223,14 +238,15 @@ ht-degree: 1%
           href="../integrations-between-applications/rtcdp/rtcdp-target.md"
           target="_blank"
           rel="noopener noreferrer"
-          >即時客戶資料 [!DNL Platform] 和 [!DNL Target]</a
+          >即時客戶資料[!DNL Platform]和[!DNL Target]</a
         >
       </td>
     </tr>
     <tr>
       <td><strong>提升銷售機會開發</strong></td>
       <td>
-        使用即時客戶設定檔並集中管理 [!DNL Platform] 區段，用於個人化網頁、行動裝置和其他數位頻道上的訊息
+        使用即時客戶設定檔和集中管理的[!DNL Platform]區段
+        個人化網頁、行動裝置和其他數位頻道上的訊息
       </td>
       <td>
         <ul style="margin-top: 0;">
@@ -242,7 +258,7 @@ ht-degree: 1%
           href="../integrations-between-applications/rtcdp/rtcdp-target.md"
           target="_blank"
           rel="noopener noreferrer"
-          >即時客戶資料 [!DNL Platform] 和 [!DNL Target]</a
+          >即時客戶資料[!DNL Platform]和[!DNL Target]</a
         >
       </td>
     </tr>

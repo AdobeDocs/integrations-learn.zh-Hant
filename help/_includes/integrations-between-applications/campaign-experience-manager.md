@@ -1,22 +1,22 @@
 ---
 source-git-commit: 94b074c17e976e4f4acbb1ff41aacfc9bf74744c
 workflow-type: tm+mt
-source-wordcount: '131'
-ht-degree: 4%
+source-wordcount: '126'
+ht-degree: 2%
 
 ---
 
 
-# [!DNL Campaign] 和Experience Manager整合
+# [!DNL Campaign]與Experience Manager整合
 
 {{campaign-description}}
 
 {{experience-manager-description}}
 
-整合Adobe的主要優點 [!DNL Campaign] 和AEMExperience Manager為：
+整合Adobe[!DNL Campaign]與AEMExperience Manager的主要優點包括：
 
-+ **管理電子郵件傳遞的內容** 和您的表單直接在Adobe Experience Manager中建立。
-+ **編輯電子郵件或登入頁面時使用品牌資產** 在Adobe中 [!DNL Campaign]，來自Adobe Experience Manager資產。
++ **直接在Adobe Experience Manager中管理您的電子郵件傳遞內容**&#x200B;和您的表單。
++ **編輯來自Adobe Experience Manager Assets的Adobe[!DNL Campaign]中的電子郵件或登陸頁面**&#x200B;時使用品牌資產。
 
 ## 常見整合
 
@@ -25,7 +25,7 @@ ht-degree: 4%
         <tr>
             <th>Experience Cloud應用程式</th>
             <th>整合，使用</th>
-            <th>何時使用</th>
+            <th>使用時機</th>
             <th>常見使用實例</th>
         </tr>
     </thead>

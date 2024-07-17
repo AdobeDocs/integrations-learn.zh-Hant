@@ -1,6 +1,6 @@
 ---
-title: 整合 [!DNL Real-Time Customer Data Platform] 替換為 [!DNL Analytics]
-description: 瞭解如何整合 [!DNL Real-Time Customer Data Platform] 替換為 [!DNL Analytics].
+title: 整合 [!DNL Real-Time Customer Data Platform] 與 [!DNL Analytics]
+description: 瞭解如何將 [!DNL Real-Time Customer Data Platform] 與 [!DNL Analytics]整合。
 solution: Real-Time Customer Data Platform, [!DNL Analytics]
 feature: Integrations
 topic: Integrations
@@ -18,6 +18,6 @@ ht-degree: 6%
 
 ---
 
-# 將Real-time Customer Data Platform與整合 [!DNL Analytics]
+# 將Real-time Customer Data Platform與[!DNL Analytics]整合
 
 {{$include /help/_includes/integrations-between-applications/analytics-rtcdp.md}}

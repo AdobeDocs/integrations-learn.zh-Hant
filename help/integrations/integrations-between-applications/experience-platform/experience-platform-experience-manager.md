@@ -1,6 +1,6 @@
 ---
-title: 整合Adobe [!DNL Experience Platform] 使用AEM
-description: 瞭解如何將Adobe Experience Manager (AEM)與Experience整合 [!DNL Platform].
+title: 將Adobe [!DNL Experience Platform] 與AEM整合
+description: 瞭解如何將Adobe Experience Manager (AEM)與Experience [!DNL Platform]整合。
 solution: Experience [!DNL Platform], Experience Manager, Experience Manager Sites
 feature: Integrations
 topic: Integrations
@@ -18,6 +18,6 @@ ht-degree: 5%
 ---
 
 
-# 整合體驗 [!DNL Platform] 具有Experience Manager
+# 將體驗[!DNL Platform]與Experience Manager整合
 
 {{$include /help/_includes/integrations-between-applications/experience-manager-platform.md}}

@@ -5,16 +5,16 @@ user-guide-description: 整合學習。
 mini-toc-levels: 1
 source-git-commit: b11b179bfc87a44387cf4d331386e729f0ce8b71
 workflow-type: tm+mt
-source-wordcount: '92'
-ht-degree: 32%
+source-wordcount: '91'
+ht-degree: 17%
 
 ---
 
 
-# [!DNL Experience Cloud] 整合教學課程 {#experience-cloud}
+# [!DNL Experience Cloud]整合教學課程 {#experience-cloud}
 
-+ [[!DNL Experience Cloud] 整合](./overview.md)
-+ 解決方案類別{#solution-categories}
++ [[!DNL Experience Cloud]整合](./overview.md)
++ 方案類別{#solution-categories}
    + [概觀](./solution-categories/overview.md)
    + [B2B行銷](./solution-categories/b2b.md)
    + [Commerce](./solution-categories/commerce.md)
@@ -22,7 +22,7 @@ ht-degree: 32%
    + [內容供應鏈](./solution-categories/content-supply-chain.md)
    + [客戶歷程](./solution-categories/customer-journeys.md)
    + [資料深入解析與啟用](./solution-categories/data-insights.md)
-   + [大規模個人化](./solution-categories/personalization.md)
+   + [大規模Personalization](./solution-categories/personalization.md)
 + 產品整合{#integrations-between-applications}
    + [概觀](./integrations-between-applications/overview.md)
    + [!DNL Acrobat Sign]{#acrobat-sign}
@@ -60,7 +60,7 @@ ht-degree: 32%
       + [[!DNL Marketo Engage]](./integrations-between-applications/experience-manager/experience-manager-marketo.md)
       + [[!DNL Target]](./integrations-between-applications/experience-manager/experience-manager-target.md)
       + [[!DNL Workfront]](./integrations-between-applications/experience-manager/experience-manager-workfront.md)
-   + 體驗 [!DNL Platform]{#experience-platform}
+   + 體驗[!DNL Platform]{#experience-platform}
       + [概觀](./integrations-between-applications/experience-platform/platform.md)
    + Journey Optimizer{#journey-optimizer}
       + [[!DNL Experience Manager]](./integrations-between-applications/journey-optimizer/journey-optimizer-experience-manager.md)
@@ -82,20 +82,20 @@ ht-degree: 32%
       + [[!DNL Experience Manager]](./integrations-between-applications/workfront/workfront-experience-manager.md)
 + 教學課程{#tutorials}
    + [!DNL Analytics] 和 [!DNL Commerce]{#analytics-commerce}
-      + [[!DNL Analytics] 和 [!DNL Commerce]](./tutorials/analytics-commerce/analytics-commerce.md)
-   + [!DNL Analytics] 和 CJA{#analytics-cja}
-      + [[!DNL Analytics] 和 CJA](./tutorials/analytics-cja/experience-platform-edge.md)
-      + [[!DNL Analytics] 和 CJA](./tutorials/analytics-cja/experience-platform-source-connector.md)
-   + [!DNL Analytics] 和Real-Time CDP{#analytics-real-time-cdp}
-      + [[!DNL Analytics] 和Real-Time CDP](./tutorials/analytics-rtcdp/experience-platform-edge.md)
-      + [[!DNL Analytics] 和Real-Time CDP](./tutorials/analytics-rtcdp/experience-platform-source-connector.md)
+      + [[!DNL Analytics]和 [!DNL Commerce]](./tutorials/analytics-commerce/analytics-commerce.md)
+   + [!DNL Analytics]與CJA{#analytics-cja}
+      + [[!DNL Analytics]和CJA](./tutorials/analytics-cja/experience-platform-edge.md)
+      + [[!DNL Analytics]和CJA](./tutorials/analytics-cja/experience-platform-source-connector.md)
+   + [!DNL Analytics]與Real-Time CDP{#analytics-real-time-cdp}
+      + [[!DNL Analytics]與Real-Time CDP](./tutorials/analytics-rtcdp/experience-platform-edge.md)
+      + [[!DNL Analytics]與Real-Time CDP](./tutorials/analytics-rtcdp/experience-platform-source-connector.md)
    + [!DNL Analytics] 和 [!DNL Target]{#analytics-target}
-      + [[!DNL Analytics] 和 [!DNL Target]](./tutorials/analytics-target/analytics-target.md)
+      + [[!DNL Analytics]和 [!DNL Target]](./tutorials/analytics-target/analytics-target.md)
    + [!DNL Campaign] 和 [!DNL Analytics]{#campaign-analytics}
-      + [整合 [!DNL Campaign] 標準搭配 [!DNL Analytics] 使用觸發器教學課程](./tutorials/campaign-analytics/campaign-analytics-trigger.md)
-   + [!DNL Campaign] 和Experience Manager {#campaign-experience-manager}
+      + [使用Triggers教學課程整合 [!DNL Campaign] Standard與 [!DNL Analytics] ](./tutorials/campaign-analytics/campaign-analytics-trigger.md)
+   + [!DNL Campaign]和Experience Manager{#campaign-experience-manager}
       + [[!DNL Campaign] v8和Experience Manager](./tutorials/campaign-aem/campaign-v8-with-experience-manager.md)
-   + [!DNL Campaign] 和Real-Time CDP{#campaign-real-time-cdp}
+   + [!DNL Campaign]與Real-Time CDP{#campaign-real-time-cdp}
       + [[!DNL Campaign] v8和Real-Time CDP](./tutorials/campaign-rtcdp/campaign-v8-real-time-cdp.md)
    + Real-Team CDP{#rtcdp-target}
       + [Real-Time CDP和 [!DNL Target]](./tutorials/rtcdp-target/web-sdk-and-target-destination.md)

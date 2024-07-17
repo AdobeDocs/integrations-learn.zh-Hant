@@ -5,7 +5,7 @@ exl-id: 00a15be9-612e-4210-8b2a-77274aa5713c
 source-git-commit: 509b227f360718e81fb19d3a4d30aebf9de49e5a
 workflow-type: tm+mt
 source-wordcount: '286'
-ht-degree: 3%
+ht-degree: 2%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 3%
 <table>
  <thead>
     <tr>
-      <th>使用案例</th>
+      <th>使用實例</th>
       <th>說明</th>
       <th>範例</th>
       <th>應用程式</th>
@@ -27,7 +27,7 @@ ht-degree: 3%
   <tbody>
 <tr>
   <td><strong>使用品牌資產建立行銷宣傳品</strong><br/></td>
-  <td>使用AEM和Adobe建立並監督電子郵件行銷內容和範本 [!DNL Campaign].</td>
+  <td>使用AEM和Adobe[!DNL Campaign]建置並監督電子郵件行銷內容和範本。</td>
   <td>
     <ul>
       <li>傳送使用AEM建立的行銷電子郵件</li>
@@ -46,7 +46,7 @@ ht-degree: 3%
       <li>改善專案管理</li>
     </ul>    
   </td>
-  <td><a href="../integrations-between-applications/experience-manager/experience-manager-workfront.md">AEM Assets 和 Workfront</a></td>
+  <td><a href="../integrations-between-applications/experience-manager/experience-manager-workfront.md">AEM Assets和Workfront</a></td>
 </tr>
 <tr>
   <td>透過整合AEM Assets Essentials和Workfront，協調並測量部門中資產的建立與使用。</td>
@@ -84,7 +84,7 @@ ht-degree: 3%
 </tr>
 <tr>
   <td><strong>擷取客戶資料</strong><br/></td>
-  <td>增強原生 [!DNL Campaign] 擷取客戶資料的功能，用於行銷活動的目標定位和個人化。
+  <td>增強原生[!DNL Campaign]功能，擷取客戶資料，以針對行銷活動進行目標定位和個人化。
   </td>
   <td>
     <ul>
@@ -92,7 +92,7 @@ ht-degree: 3%
       <li>訂閱</li>
     </ul>
   </td>
-  <td><a href="../integrations-between-applications/experience-manager/experience-manager-campaign.md">AEM Forms和 [!DNL Campaign] 標準</a></td>
+  <td><a href="../integrations-between-applications/experience-manager/experience-manager-campaign.md">AEM Forms和[!DNL Campaign] Standard</a></td>
 </tr>
 </tbody>
 </table>

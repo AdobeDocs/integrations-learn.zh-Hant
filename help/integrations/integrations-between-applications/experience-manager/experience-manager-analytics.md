@@ -1,6 +1,6 @@
 ---
-title: 將AEM與整合 [!DNL Analytics]
-description: 將Adobe Experience Manager (AEM)與整合 [!DNL Analytics] 以追蹤和分析您網站上的使用者行為。
+title: 將AEM與 [!DNL Analytics]整合
+description: 將Adobe Experience Manager (AEM)與 [!DNL Analytics] 整合，以追蹤和分析您網站上的使用者行為。
 solution: Experience Manager, Experience Manager Sites, [!DNL Analytics]
 feature: Integrations
 topic: Integrations
@@ -18,6 +18,6 @@ ht-degree: 4%
 
 ---
 
-# 將Experience Manager與整合 [!DNL Analytics]
+# 將Experience Manager與[!DNL Analytics]整合
 
 {{$include /help/_includes/integrations-between-applications/analytics-experience-manager.md}}

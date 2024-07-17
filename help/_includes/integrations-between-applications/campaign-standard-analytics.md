@@ -1,23 +1,23 @@
 ---
 source-git-commit: 94b074c17e976e4f4acbb1ff41aacfc9bf74744c
 workflow-type: tm+mt
-source-wordcount: '139'
-ht-degree: 5%
+source-wordcount: '133'
+ht-degree: 3%
 
 ---
 
 
-# [!DNL Campaign] 和 [!DNL Analytics] 整合
+# [!DNL Campaign]與[!DNL Analytics]整合
 
 {{campaign-description}}
 
 {{analytics-description}}
 
-Adobe [!DNL Analytics] 與Adobe整合 [!DNL Campaign] 實現順暢的資料共用和電子郵件追蹤：
+Adobe[!DNL Analytics]與Adobe[!DNL Campaign]的整合可啟用順暢的資料共用和電子郵件追蹤：
 
-+ **共用KPI資料** 從Adobe [!DNL Campaign] 至Adobe [!DNL Analytics].
-+ **豐富追蹤公式** 具有Adobe [!DNL Analytics] 引數。
-+ 使用觸發程式 **傳送個人化電子郵件** 根據特定的追蹤行為。
++ 從Adobe[!DNL Campaign]共用KPI資料&#x200B;**至Adobe[!DNL Analytics]。**
++ **使用Adobe[!DNL Analytics]引數擴充追蹤公式**。
++ 使用觸發器，根據特定追蹤行為&#x200B;**傳送個人化電子郵件**。
 
 ## 常見整合
 
@@ -26,23 +26,23 @@ Adobe [!DNL Analytics] 與Adobe整合 [!DNL Campaign] 實現順暢的資料共�
         <tr>
             <th>Experience Cloud應用程式</th>
             <th>整合，使用</th>
-            <th>何時使用</th>
+            <th>使用時機</th>
             <th>常見使用實例</th>
         </tr>
     </thead>
      <tbody>
         <tr>
             <td rowspan="2">[!DNL Campaign] 標準搭配 [!DNL Analytics]</td>
-            <td><a href="https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/integrations/track-the-success-of-your-deliveries-in-analytics.html" target="_blank" rel="noreferrer">外部 [!DNL Campaign] 連結至Adobe的帳戶 [!DNL Analytics] 和管理員設定 [!DNL Analytics]</a></td>
+            <td><a href="https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/integrations/track-the-success-of-your-deliveries-in-analytics.html" target="_blank" rel="noreferrer">連結至Adobe[!DNL Analytics]的外部[!DNL Campaign]帳戶以及中的管理員設定 [!DNL Analytics]</a></td>
             <td>
                 <ul style="margin-top: 0;">
-                    <li>當您想要從追蹤電子郵件傳送成功時 [!DNL Campaign] 直接在Adobe中 [!DNL Analytics].</li>
+                    <li>當您想要直接在Adobe[!DNL Analytics]中從[!DNL Campaign]追蹤電子郵件傳送的成功時。</li>
                 </ul>
             </td>
             <td>
               <ul style="margin-top: 0;">
-                <li>使用增強您的分析報表 [!DNL Campaign] 傳遞資料，包括已傳送的電子郵件、已點按的電子郵件、已開啟的電子郵件、已傳遞的電子郵件、取消訂閱和退信。</li>
-                <li>分析下游轉換事件 [!DNL Campaign] 點按可將流量引導至您的數位屬性，例如表單銷售機會、線上訂單或中擷取的其他事件 [!DNL Analytics].</li>
+                <li>使用[!DNL Campaign]傳遞資料（包括已傳送的電子郵件、已點按的電子郵件、已開啟的電子郵件、已傳送的電子郵件、取消訂閱和退信）增強您的分析報表。</li>
+                <li>分析[!DNL Campaign]次點按的下游轉換事件，以推動您的數位財產流量，例如表單銷售機會、線上訂單，或其他在[!DNL Analytics]中擷取的事件。</li>
               </ul>
             </td>
         </tr>

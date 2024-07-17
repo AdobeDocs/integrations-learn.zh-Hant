@@ -1,6 +1,6 @@
 ---
-title: 整合Adobe [!DNL Commerce] 使用AEM
-description: 將Adobe Experience Manager (AEM)與Adobe整合 [!DNL Commerce] 打造引人入勝的購物體驗。
+title: 將Adobe [!DNL Commerce] 與AEM整合
+description: 將Adobe Experience Manager (AEM)與Adobe [!DNL Commerce] 整合，建置吸引人的購物體驗。
 solution: Commerce, Experience Manager, Experience Manager Sites
 feature: Integrations
 topic: Integrations
@@ -18,6 +18,6 @@ ht-degree: 4%
 
 ---
 
-# 將Experience Manager與整合 [!DNL Commerce]
+# 將Experience Manager與[!DNL Commerce]整合
 
 {{$include /help/_includes/integrations-between-applications/experience-manager-commerce.md}}

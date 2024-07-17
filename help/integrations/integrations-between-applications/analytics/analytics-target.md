@@ -1,6 +1,6 @@
 ---
-title: 整合 [!DNL Analytics] 替換為 [!DNL Target]
-description: 瞭解如何整合Adobe [!DNL Analytics] 與Adobe Target整合。
+title: 整合 [!DNL Analytics] 與 [!DNL Target]
+description: 瞭解如何將Adobe [!DNL Analytics] 與Adobe Target整合。
 solution: Analytics, Target
 feature: Integrations
 topic: Integrations
@@ -19,6 +19,6 @@ ht-degree: 7%
 
 ---
 
-# 整合 [!DNL Analytics] 替換為 [!DNL Target]
+# 將[!DNL Analytics]與[!DNL Target]整合
 
 {{$include /help/_includes/integrations-between-applications/analytics-target.md}}

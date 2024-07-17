@@ -18,7 +18,7 @@ ht-degree: 1%
 <table>
  <thead>
     <tr>
-      <th>使用案例</th>
+      <th>使用實例</th>
       <th>說明</th>
       <th>範例</th>
       <th>應用程式</th>
@@ -28,7 +28,8 @@ ht-degree: 1%
     <tr>
       <td><strong>使用品牌資產建立行銷宣傳品</strong></td>
       <td>
-        使用AEM和Adobe建立並監督電子郵件行銷內容和範本 [!DNL Campaign].
+        使用AEM和建立並監督電子郵件行銷內容和範本
+        Adobe[!DNL Campaign]。
       </td>
       <td>
         <ul style="margin-top: 0;">
@@ -40,14 +41,15 @@ ht-degree: 1%
           href="../integrations-between-applications/campaign/campaign-experience-manager.md"
           target="_blank"
           rel="noopener noreferrer"
-          >[!DNL Campaign] 和AEM</a
+          >[!DNL Campaign]和AEM</a
         >
       </td>
     </tr>
     <tr>
       <td><strong>測量行銷影像使用情況和效能</strong></td>
       <td>
-        透過整合AEM Assets和Adobe來追蹤和分析行銷影像的成效 [!DNL Analytics].
+        透過整合來追蹤和分析行銷影像的成效
+        AEM Assets和Adobe[!DNL Analytics]。
       </td>
       <td>
         <ul style="margin-top: 0;">
@@ -61,14 +63,15 @@ ht-degree: 1%
           href="../integrations-between-applications/experience-manager/experience-manager-analytics.md"
           target="_blank"
           rel="noopener noreferrer"
-          >AEM Assets和 [!DNL Analytics]</a
+          >AEM Assets和[!DNL Analytics]</a
         >
       </td>
     </tr>
     <tr>
       <td rowspan="3"><strong>管理資產建立</strong></td>
       <td>
-        透過整合AEM Assets和Workfront，協調並測量企業中的資產建立作業。
+        協調並測量企業中資產的建立
+        整合AEM Assets和Workfront。
       </td>
       <td>
         <ul style="margin-top: 0;">
@@ -89,7 +92,8 @@ ht-degree: 1%
     </tr>
     <tr>
       <td>
-        透過整合AEM Assets Essentials和Workfront，協調並測量部門中資產的建立。
+        透過以下方式協調並測量部門中資產的建立
+        整合AEM Assets Essentials和Workfront。
       </td>
       <td>
         <ul style="margin-top: 0;">
@@ -109,7 +113,8 @@ ht-degree: 1%
     </tr>
     <tr>
       <td>
-        跨Creative Cloud和Workfront應用程式建立和管理資產更新
+        在Creative Cloud和Workfront中建立和管理資產更新
+        應用計畫
       </td>
       <td>
         <ul style="margin-top: 0;">
@@ -123,14 +128,15 @@ ht-degree: 1%
           href="../integrations-between-applications/workfront/workfront-creative-cloud.md"
           target="_blank"
           rel="noopener noreferrer"
-          >Creative Cloud與Workfront</a
+          >Creative Cloud和Workfront</a
         >
       </td>
     </tr>
     <tr>
       <td><strong>擷取客戶資料</strong></td>
       <td>
-        增強原生 [!DNL Campaign] 擷取客戶資料的功能，用於行銷活動的目標定位和個人化。
+        增強原生[!DNL Campaign]功能以擷取客戶資料
+        行銷活動的目標定位和個人化。
       </td>
       <td>
         <ul style="margin-top: 0;">
@@ -143,19 +149,21 @@ ht-degree: 1%
           href="../integrations-between-applications/experience-manager/experience-manager-campaign.md"
           target="_blank"
           rel="noopener noreferrer"
-          >AEM Forms和 [!DNL Campaign] 標準</a
+          >AEM Forms和[!DNL Campaign] Standard</a
         >
       </td>
     </tr>
     <tr>
       <td><strong>建立個人化PDF檔案</strong></td>
       <td>
-        根據使用者選擇/偏好設定產生通訊檔案以供簽署。
+        根據使用者產生通訊檔案以供簽署
+        選取/偏好設定。
       </td>
       <td>
         <ul style="margin-top: 0;">
           <li>
-            根據AEM Forms提交的資料呈現動態產生的NDA以供簽署
+            根據AEM的資料呈現動態產生的NDA
+            Forms提交以進行簽署
           </li>
         </ul>
       </td>
@@ -171,12 +179,14 @@ ht-degree: 1%
     <tr>
       <td><strong>產生銷售機會</strong></td>
       <td>
-        使用從表單提交內容擷取的資料，用於潛在客戶產生、客戶細分和個人化行銷活動。
+        使用從表單提交中擷取的資料來產生潛在客戶，
+        客戶細分和個人化的行銷活動。
       </td>
       <td>
         <ul style="margin-top: 0;">
           <li>
-            針對網頁和行動裝置設計並發佈動態和互動式表單，以發掘潛在客戶。
+            為網頁和行動裝置設計與發佈動態與互動式表單
+            用於潛在客戶產生的裝置。
           </li>
         </ul>
       </td>
@@ -192,7 +202,8 @@ ht-degree: 1%
     <tr>
       <td><strong>個人化電子郵件傳遞</strong></td>
       <td>
-        運用Adobe的功能，使用動態內容個人化電子郵件傳遞 [!DNL Target].
+        運用動態內容個人化電子郵件傳遞
+        Adobe[!DNL Target]的功能。
       </td>
       <td>
         <ul style="margin-top: 0;">
@@ -211,18 +222,22 @@ ht-degree: 1%
     <tr>
       <td rowspan="2"><strong>展開個人化和廣告平台的對象</strong></td>
       <td>
-        使用Audience Manager區段在Real-Time CDP中建立受眾，用於個人化和再行銷策略。
+        使用Audience Manager區段在Real-Time CDP中建立受眾以使用
+        個人化及再行銷策略方面。
       </td>
       <td>
         <ul style="margin-top: 0;">
           <li>
-            在網站、行動應用程式或支援的廣告頻道上，執行匿名數位對象目標定位和個人化
+            在上執行匿名數位受眾目標定位和個人化
+            網站、行動應用程式或支援的廣告頻道上的
           </li>
           <li>
-            根據已知裝置和行為特性最佳化登入頁面和預先驗證體驗
+            根據以下專案最佳化登入頁面和預先驗證體驗：
+            已知裝置和行為特性
           </li>
           <li>
-            運用Audience Manager第三方資料網路，進一步調整及擴大目標定位對象
+            善用Audience Manager第三方資料網路以進一步提升
+            調整並擴大目標定位對象
           </li>
           <li>將Audience Manager區段共用至RTCDP</li>
         </ul>
@@ -232,21 +247,24 @@ ht-degree: 1%
           href="../integrations-between-applications/aam/aam-rtcdp.md"
           target="_blank"
           rel="noopener noreferrer"
-          >Audience Manager和即時客戶資料 [!DNL Platform]</a
+          >Audience Manager和即時客戶資料[!DNL Platform]</a
         >
       </td>
     </tr>
     <tr>
       <td>
-        使用 [!DNL Analytics] 用於建立受眾以用於個人化或再行銷策略的資料。
+        使用[!DNL Analytics]資料來建立對象，以用於個人化或
+        再行銷策略。
       </td>
       <td>
         <ul style="margin-top: 0;">
           <li>
-            在裝置或支援的廣告頻道上執行數位對象目標定位和個人化。
+            在裝置上執行數位對象目標定位和個人化，或
+            支援的廣告頻道。
           </li>
           <li>
-            根據裝置和行為屬性最佳化已知的客戶登陸頁面和匿名體驗。
+            最佳化已知的客戶登陸頁面和匿名體驗
+            根據裝置和行為屬性。
           </li>
           <li>對已知管道啟用對象，例如電子郵件和簡訊。</li>
         </ul>
@@ -256,14 +274,15 @@ ht-degree: 1%
           href="../integrations-between-applications/analytics/analytics-rtcdp.md"
           target="_blank"
           rel="noopener noreferrer"
-          >[!DNL Analytics] 和即時客戶資料 [!DNL Platform]</a
+          >[!DNL Analytics]和即時客戶資料[!DNL Platform]</a
         >
       </td>
     </tr>    
     <tr>
       <td rowspan="2"><strong>個人化網站體驗</strong></td>
       <td>
-        有效利用SPA Headless並結合Adobe，自訂單頁應用程式(AEM)體驗 [!DNL Target].
+        有效率地自訂單頁應用程式(SPA)體驗
+        搭配Adobe[!DNL Target]使用AEM Headless。
       </td>
       <td>
         <ul style="margin-top: 0;">
@@ -277,13 +296,14 @@ ht-degree: 1%
           href="../integrations-between-applications/experience-manager/experience-manager-target.md"
           target="_blank"
           rel="noopener noreferrer"
-          >AEM Headless和 [!DNL Target]</a
+          >AEM Headless和[!DNL Target]</a
         >
       </td>
     </tr>
     <tr>
       <td>
-        有效利用AEM Sites和Adobe，提供量身打造的網站體驗 [!DNL Target] 進行個人化。
+        有效利用AEM Sites，提供量身打造的網站體驗
+        和Adobe[!DNL Target]以進行個人化。
       </td>
       <td>
         <ul style="margin-top: 0;">
@@ -297,14 +317,15 @@ ht-degree: 1%
           href="../integrations-between-applications/experience-manager/experience-manager-target.md"
           target="_blank"
           rel="noopener noreferrer"
-          >AEM Sites和 [!DNL Target]</a
+          >AEM Sites和[!DNL Target]</a
         >
       </td>
     </tr>
     <tr>
       <td><strong>個人化數位體驗</strong></td>
       <td>
-        使用即時客戶設定檔並集中管理 [!DNL Platform] 區段，用於個人化網頁、行動裝置和其他數位頻道上的訊息
+        使用即時客戶設定檔和集中管理的[!DNL Platform]區段
+        個人化網頁、行動裝置和其他數位頻道上的訊息
       </td>
       <td>
         <ul style="margin-top: 0;">
@@ -319,14 +340,15 @@ ht-degree: 1%
           href="../integrations-between-applications/rtcdp/rtcdp-target.md"
           target="_blank"
           rel="noopener noreferrer"
-          >即時客戶資料 [!DNL Platform] 和 [!DNL Target]</a
+          >即時客戶資料[!DNL Platform]和[!DNL Target]</a
         >
       </td>
     </tr>     
     <tr>
       <td><strong>提升銷售機會開發</strong></td>
       <td>
-        使用即時客戶設定檔並集中管理 [!DNL Platform] 區段，用於個人化網頁、行動裝置和其他數位頻道上的訊息
+        使用即時客戶設定檔和集中管理的[!DNL Platform]區段
+        個人化網頁、行動裝置和其他數位頻道上的訊息
       </td>
       <td>
         <ul style="margin-top: 0;">
@@ -338,7 +360,7 @@ ht-degree: 1%
           href="../integrations-between-applications/rtcdp/rtcdp-target.md"
           target="_blank"
           rel="noopener noreferrer"
-          >即時客戶資料 [!DNL Platform] 和 [!DNL Target]</a
+          >即時客戶資料[!DNL Platform]和[!DNL Target]</a
         >
       </td>
     </tr>

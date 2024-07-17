@@ -1,6 +1,6 @@
 ---
-title: 整合 [!DNL Campaign] 替換為 [!DNL Real-Time Customer Data Platform]
-description: 瞭解如何整合 [!DNL Campaign] 替換為 [!DNL Real-Time Customer Data Platform].
+title: 整合 [!DNL Campaign] 與 [!DNL Real-Time Customer Data Platform]
+description: 瞭解如何整合 [!DNL Campaign] 與 [!DNL Real-Time Customer Data Platform]。
 solution: Campaign, Campaign v8 Client Console, Campaign v8 Web User Interface, Real-Time Customer Data Platform
 feature: Integrations
 topic: Integrations
@@ -17,6 +17,6 @@ ht-degree: 7%
 
 ---
 
-# 整合 [!DNL Campaign] 使用即時客戶資料 [!DNL Platform]
+# 將[!DNL Campaign]與即時客戶資料[!DNL Platform]整合
 
 {{$include /help/_includes/integrations-between-applications/campaign-rtcdp.md}}

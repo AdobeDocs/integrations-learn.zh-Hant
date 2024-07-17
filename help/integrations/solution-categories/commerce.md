@@ -17,7 +17,7 @@ ht-degree: 3%
 
 <thead>
     <tr>
-      <th>使用案例</th>
+      <th>使用實例</th>
       <th>說明</th>
       <th>範例</th>
       <th>應用程式</th>
@@ -40,7 +40,7 @@ ht-degree: 3%
           <li>實作複雜的多重存放區設定。</li>
           <li>跨網站順暢的內容管理。</li>
           <li>高效率的全球內容協調。</li>
-          <li>Adobe的多環境支援 [!DNL Commerce].</li>
+          <li>Adobe[!DNL Commerce]的多環境支援。</li>
           <li>簡化商務內容的建立。</li>
           <li>一致且有效的店面管理。</li>
       </ul>
@@ -50,7 +50,7 @@ ht-degree: 3%
  <tr>
    <td><strong>資料分析和報告<strong></td>
    <td>評估Commerce商店轉換漏斗、訂購、收入以及造訪和訪客量度。</td>
-   <td><ul style="margin-top: 0;"><li>商業活動的資料分析和報表。</li><li>獲得Adobe的完整深入分析 [!DNL Commerce] 使用您選取的關鍵量度和維度來儲存效能。</li></ul></td>
+   <td><ul style="margin-top: 0;"><li>商業活動的資料分析和報表。</li><li>使用您選取的關鍵量度和維度，取得有關Adobe[!DNL Commerce]存放區效能的全面深入分析。</li></ul></td>
    <td><a href="/help/integrations/integrations-between-applications/commerce/commerce-analytics.md">[!DNL Commerce] 和 [!DNL Analytics]</a></td>
  </tr>
  </tbody>

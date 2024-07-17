@@ -2,39 +2,39 @@
 source-git-commit: 94b074c17e976e4f4acbb1ff41aacfc9bf74744c
 workflow-type: tm+mt
 source-wordcount: '129'
-ht-degree: 4%
+ht-degree: 2%
 
 ---
 
 
-# Adobe即時客戶資料 [!DNL Platform] 和Adobe [!DNL Target] 整合
+# Adobe即時客戶資料[!DNL Platform]與Adobe[!DNL Target]整合
 
 {{real-time-cdp-description}}
 
 {{target-description}}
 
-將Real-Time CDP與整合 [!DNL Target] 可讓您使用已知的客戶資料個人化內容。 此外，Real-Time CDP的資料控管和同意功能可協助確保您負責任地使用已知的客戶資料，並遵守法律、合約和法規限制，以及尊重客戶偏好設定。 整合Real-Time CDP與的主要優點 [!DNL Target] 包括：
+將Real-Time CDP與[!DNL Target]整合可讓您使用已知的客戶資料個人化內容。 此外，Real-Time CDP的資料控管和同意功能可協助確保您負責任地使用已知的客戶資料，並遵守法律、合約和法規限制，以及尊重客戶偏好設定。 整合Real-Time CDP和[!DNL Target]的主要優點包括：
 
-+ **提供個人化體驗** 在您網站和行動應用程式上。
-+ **共用區段和設定檔屬性** 從Adobe Real-Time CDP到Adobe [!DNL Target].
-+ **[!DNL Target]內容** 至區段並顯示屬性值。
++ 在您的網站和行動應用程式上&#x200B;**提供個人化體驗**。
++ **從Adobe Real-Time CDP將區段和設定檔屬性**&#x200B;共用至Adobe[!DNL Target]。
++ **[!DNL Target]內容**&#x200B;至區段並顯示屬性值。
 
 <table>
     <thead>
         <tr>
             <th>Experience Cloud應用程式</th>
             <th>整合，使用</th>
-            <th>何時使用</th>
+            <th>使用時機</th>
             <th>常見使用實例</th>
         </tr>
     </thead>
     <tbody>
     <tr>
         <td><a href="../../integrations/tutorials/rtcdp-target/web-sdk-and-target-destination.md" target="_blank" rel="noreferrer">Real-Time CDP和 [!DNL Target]</a></td>
-        <td>Web SDK和 [!DNL Target] 目的地</td>
+        <td>Web SDK和[!DNL Target]目的地</td>
         <td>
             <ul style="margin-top: 0;">
-                <li>當您想要以最快的速度從Real-Time CDP分享資料到 [!DNL Target] 您的網站。</li>
+                <li>當您想要以最快的速度將網站資料從Real-Time CDP分享到[!DNL Target]時。</li>
             </ul>
         </td>
         <td>
