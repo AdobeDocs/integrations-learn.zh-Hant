@@ -3,7 +3,7 @@ title: GenStudio Academy
 description: GenStudio Academy登陸
 index: false
 hidefromtoc: true
-source-git-commit: 56161e27aecff07b0d93bf85edb994c477d9e586
+source-git-commit: 969f6489b79a84079c542c008b8f7dd372afcd60
 workflow-type: tm+mt
 source-wordcount: '176'
 ht-degree: 1%
@@ -22,12 +22,7 @@ ht-degree: 1%
 <table>
  <tr style= "border: 0;">
   <td align="center">
-    <strong style= "font-size: 2em">主要產生AI。 轉換您的工作流程。</strong>
-  </td>
- </tr>
- <tr style= "border: 0;">
-  <td align="center">
-    瞭解在行銷工作流程中使用創作AI的核心技能。 隨處。 免費。
+    <strong style= "font-size: 2em">主要產生AI。 轉換您的工作流程。</strong><p>瞭解在行銷工作流程中使用創作AI的核心技能。 隨處。 免費。
   </td>
  </tr>
 </table>
