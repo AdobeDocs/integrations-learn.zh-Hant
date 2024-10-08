@@ -3,7 +3,7 @@ title: GenStudio Academy
 description: GenStudio Academy登陸
 index: false
 hidefromtoc: true
-source-git-commit: 969f6489b79a84079c542c008b8f7dd372afcd60
+source-git-commit: f017dd85636403d698d92077c48be4a8a00a556e
 workflow-type: tm+mt
 source-wordcount: '176'
 ht-degree: 1%
@@ -47,8 +47,8 @@ ht-degree: 1%
 
 
 <table>
- <tr style= "border: 0;colspan: 2;">
-  <td> <strong style= "font-size: 2em">即將加入Genstudio Academy</strong></td>
+ <tr style= "border: 0;">
+  <td> <strong style= "font-size: 2em;colspan: 2;">即將加入Genstudio Academy</strong></td>
  </tr> 
  <tr style= "border: 0;colspan: 2;"> 
     <td align="left"><img src="https://video.tv.adobe.com/v/3434938?format=jpeg"></td>
