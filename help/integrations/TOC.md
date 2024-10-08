@@ -3,9 +3,9 @@ user-guide-title: Experience Cloud 整合教學課程
 breadcrumb-title: Experience Cloud 整合
 user-guide-description: 整合學習。
 mini-toc-levels: 1
-source-git-commit: b11b179bfc87a44387cf4d331386e729f0ce8b71
+source-git-commit: 055180c634e028a208d1def883288441e76f87c3
 workflow-type: tm+mt
-source-wordcount: '91'
+source-wordcount: '93'
 ht-degree: 17%
 
 ---
@@ -23,6 +23,7 @@ ht-degree: 17%
    + [客戶歷程](./solution-categories/customer-journeys.md)
    + [資料深入解析與啟用](./solution-categories/data-insights.md)
    + [大規模Personalization](./solution-categories/personalization.md)
+   + [GenStudio Academy](./tutorials/genstudio-academy.md)
 + 產品整合{#integrations-between-applications}
    + [概觀](./integrations-between-applications/overview.md)
    + [!DNL Acrobat Sign]{#acrobat-sign}
