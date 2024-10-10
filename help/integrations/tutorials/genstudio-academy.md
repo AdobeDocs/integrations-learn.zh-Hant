@@ -3,7 +3,7 @@ title: GenStudio Academy
 description: GenStudio Academy登陸
 index: false
 hidefromtoc: true
-source-git-commit: c9395bb9f75f00a816757fc76cb137de1a7bbc63
+source-git-commit: e14b1f5e7a01a9e55aee6be31f9d4d262efe9140
 workflow-type: tm+mt
 source-wordcount: '194'
 ht-degree: 1%
@@ -78,7 +78,7 @@ ht-degree: 1%
     <tr></tr>
  <tr style= "border: 0;">
  <td><img src="./assets/put-your-learnings-into-practice.png"></td>
-  <td> <strong style= "font-size: 2em">將您的學習付諸實踐</strong><p>探索GenStudio for Performance Marketing這項創作AI優先的應用程式，讓行銷團隊建立自己的廣告和電子郵件，以推動具影響力的個人化行銷活動。<p><a href="https://business.adobe.com" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap">一探究竟</span></a></td>
+  <td> <strong style= "font-size: 2em">將您的學習付諸實踐</strong><p>探索GenStudio for Performance Marketing這項創作AI優先的應用程式，讓行銷團隊建立自己的廣告和電子郵件，以推動具影響力的個人化行銷活動。<p><a href="https://business.adobe.com/products/genstudio-for-performance-marketing.html" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap">一探究竟</span></a></td>
  </tr>
     <tr></tr>
 </table>
