@@ -3,9 +3,9 @@ title: GenStudio Academy
 description: GenStudio Academy登陸
 index: false
 hidefromtoc: true
-source-git-commit: 7a3346e4808f5e748f8272d537646370bf7b6fea
+source-git-commit: b8360aa54a2c925203b43bc9ac2b787ecb1519b4
 workflow-type: tm+mt
-source-wordcount: '202'
+source-wordcount: '207'
 ht-degree: 1%
 
 ---
@@ -66,7 +66,7 @@ ht-degree: 1%
       <strong>社交學習</strong>
       </div>
       <p>
-      向同儕學習與知識
+      向同儕學習，並在整個組織內輕鬆分享知識。
       </p>
    </td>
    <td align="Center">
