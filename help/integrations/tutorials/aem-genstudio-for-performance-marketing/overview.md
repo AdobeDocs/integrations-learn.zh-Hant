@@ -11,7 +11,7 @@ doc-type: Value Video
 duration: 133
 last-substantial-update: 2024-11-19T00:00:00Z
 jira: KT-16480
-source-git-commit: f3dfc96926bbff3fec05435a4d6f6783ae42ad6a
+source-git-commit: a542f8a0f230b2a2fb3eaedf503e2b801f26aa9b
 workflow-type: tm+mt
 source-wordcount: '203'
 ht-degree: 0%
@@ -40,9 +40,7 @@ ht-degree: 0%
 
 -->
 
-
 ## 使用案例
-
 
 探索實務使用案例，說明此整合如何增強您的工作流程。 從簡化資產核准程式，到建立及使用自訂內容變體，您都能瞭解AEM Assets as a Cloud Service和GenStudio for Performance Marketing如何搭配運作，以有效率且一致的績效行銷活動。
 

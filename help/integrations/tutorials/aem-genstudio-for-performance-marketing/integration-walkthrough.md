@@ -1,5 +1,5 @@
 ---
-title: AEM Assets與GenStudio for Performance Marketing整合逐步說明
+title: AEM Assets與GenStudio for Performance Marketing整合逐步解說
 description: 瞭解使用AEM Assets和GenStudio for Performance Marketing整合、將資產上傳至AEM Assets、在AEM Assets中核准資產，以及在GenStudio for Performance Marketing中使用核准資產的基本知識。
 solution: Experience Manager, GenStudio for Performance Marketing
 version: Cloud Service
@@ -11,7 +11,7 @@ doc-type: Feature Video
 duration: 296
 last-substantial-update: 2024-11-19T00:00:00Z
 jira: KT-16482
-source-git-commit: 07fdec0741cacacf9950058d1c3674aa950681aa
+source-git-commit: a542f8a0f230b2a2fb3eaedf503e2b801f26aa9b
 workflow-type: tm+mt
 source-wordcount: '83'
 ht-degree: 0%
