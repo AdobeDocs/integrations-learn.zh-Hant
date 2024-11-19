@@ -2,10 +2,10 @@
 title: 內容供應鏈的應用程式整合
 description: 規劃、建立、個人化和發佈內容。
 exl-id: 00a15be9-612e-4210-8b2a-77274aa5713c
-source-git-commit: 509b227f360718e81fb19d3a4d30aebf9de49e5a
+source-git-commit: edde4b8b98a1e8b7eaff592f458cfaa9aa53b346
 workflow-type: tm+mt
-source-wordcount: '286'
-ht-degree: 2%
+source-wordcount: '327'
+ht-degree: 1%
 
 ---
 
@@ -26,7 +26,7 @@ ht-degree: 2%
   </thead>
   <tbody>
 <tr>
-  <td><strong>使用品牌資產建立行銷宣傳品</strong><br/></td>
+  <td rowspan="2"><strong>使用品牌資產建立行銷宣傳品</strong><br/></td>
   <td>使用AEM和Adobe[!DNL Campaign]建置並監督電子郵件行銷內容和範本。</td>
   <td>
     <ul>
@@ -34,6 +34,16 @@ ht-degree: 2%
     </ul>    
   </td>
   <td><a href="../integrations-between-applications/experience-manager/experience-manager-campaign.md">[!DNL Campaign] 和AEM</a></td>
+</tr>
+<tr>
+  <td>建立品牌上個人化的行銷體驗。</td>
+  <td>
+    <ul>
+      <li>傳送在GenStudio for Performance Marketing中建立的行銷電子郵件，內含來自AEM Assets的品牌上影像。</li>
+      <li>使用AEM Assets中的品牌上影像在GenStudio for Performance Marketing中建立品牌上中繼廣告。</li>
+    </ul>    
+  </td>
+  <td><a href="../integrations-between-applications/experience-manager/experience-manager-genstudio-for-performance-marketing.md">GenStudio for Performance Marketing和AEM</a></td>
 </tr>
 <tr>
   <td rowspan="3"><strong>管理資產建立</strong><br/></td>

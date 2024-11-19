@@ -3,10 +3,10 @@ user-guide-title: Experience Cloud 整合教學課程
 breadcrumb-title: Experience Cloud 整合
 user-guide-description: 整合學習。
 mini-toc-levels: 1
-source-git-commit: bb2658916a519c651ebcd350dcc72e3a8593180f
+source-git-commit: edde4b8b98a1e8b7eaff592f458cfaa9aa53b346
 workflow-type: tm+mt
-source-wordcount: '91'
-ht-degree: 17%
+source-wordcount: '113'
+ht-degree: 20%
 
 ---
 
@@ -56,6 +56,7 @@ ht-degree: 17%
       + [[!DNL Analytics]](./integrations-between-applications/experience-manager/experience-manager-analytics.md)
       + [[!DNL Campaign]](./integrations-between-applications/experience-manager/experience-manager-campaign.md)
       + [[!DNL Commerce]](./integrations-between-applications/experience-manager/experience-manager-commerce.md)
+      + [GenStudio for Performance Marketing](./integrations-between-applications/experience-manager/experience-manager-genstudio-for-performance-marketing.md)
       + [[!DNL Journey Optimizer]](./integrations-between-applications/experience-manager/experience-manager-journey-optimizer.md)
       + [[!DNL Marketo Engage]](./integrations-between-applications/experience-manager/experience-manager-marketo.md)
       + [[!DNL Target]](./integrations-between-applications/experience-manager/experience-manager-target.md)
@@ -101,3 +102,9 @@ ht-degree: 17%
       + [Real-Time CDP和 [!DNL Target]](./tutorials/rtcdp-target/web-sdk-and-target-destination.md)
       + [Real-Time CDP和 [!DNL Target]](./tutorials/rtcdp-target/mobile-sdk-and-target-destination.md)
       + [Real-Time CDP和 [!DNL Target]](./tutorials/rtcdp-target/atjs-and-target-destination.md)
+   + GenStudio for Performance Marketing與Experience Manager{#genstudio-for-performance-marketing-experience-manager}
+      + [概觀](./tutorials/aem-genstudio-for-performance-marketing/overview.md)
+      + [設定](./tutorials/aem-genstudio-for-performance-marketing/setup.md)
+      + [整合逐步說明](./tutorials/aem-genstudio-for-performance-marketing/integration-walk-through.md)
+      + [使用案例#1](./tutorials/aem-genstudio-for-performance-marketing/use-case-1.md)
+      + [使用案例#2](./tutorials/aem-genstudio-for-performance-marketing/use-case-2.md)
