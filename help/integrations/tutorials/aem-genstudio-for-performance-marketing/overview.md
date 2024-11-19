@@ -11,7 +11,7 @@ doc-type: Value Video
 duration: 133
 last-substantial-update: 2024-11-19T00:00:00Z
 jira: KT-16480
-source-git-commit: 9624caa4307c31f94c5439b99ac48278dd9a67da
+source-git-commit: ba8d90c256356ccf806484a5b791d5c4ad54ab9f
 workflow-type: tm+mt
 source-wordcount: '385'
 ht-degree: 2%
@@ -23,9 +23,7 @@ ht-degree: 2%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3439263/?learn=on)
 
-
 解鎖Adobe GenStudio和AEM Assetsas a Cloud Service的強大功能，轉換您的績效行銷工作流程。 透過順暢整合，從集中式存放庫存取品牌核准的資產，為每個行銷活動和頻道建立一致、高品質的內容。 瞭解這些工具如何簡化您的內容供應鏈，提升您的行銷影響力。
-
 
 ## 逐步解說
 
