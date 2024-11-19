@@ -3,10 +3,10 @@ user-guide-title: Experience Cloud 整合教學課程
 breadcrumb-title: Experience Cloud 整合
 user-guide-description: 整合學習。
 mini-toc-levels: 1
-source-git-commit: f3dfc96926bbff3fec05435a4d6f6783ae42ad6a
+source-git-commit: 1ef94353ffe1be605df8e575edac3e2a9ef69afb
 workflow-type: tm+mt
-source-wordcount: '117'
-ht-degree: 17%
+source-wordcount: '113'
+ht-degree: 20%
 
 ---
 
@@ -105,11 +105,6 @@ ht-degree: 17%
    + GenStudio for Performance Marketing與Experience Manager{#genstudio-for-performance-marketing-experience-manager}
       + [概觀](./tutorials/aem-genstudio-for-performance-marketing/overview.md)
       + [設定](./tutorials/aem-genstudio-for-performance-marketing/setup.md)
-&lt;&lt;&lt;&lt;&lt;&lt;&lt;HEAD
       + [整合逐步說明](./tutorials/aem-genstudio-for-performance-marketing/integration-walkthrough.md)
-=======
-      + [整合逐步說明](./tutorials/aem-genstudio-for-performance-marketing/integration-walk-through.md)
->>>>>>>>>>edde4b8b98a1e8b7eaff592f458cfaa9aa53b346
-+ [使用案例#1](./tutorials/aem-genstudio-for-performance-marketing/use-case-1.md)
-+ [使用案例#2](./tutorials/aem-genstudio-for-performance-marketing/use-case-2.md)
-> 
+      + [使用案例#1](./tutorials/aem-genstudio-for-performance-marketing/use-case-1.md)
+      + [使用案例#2](./tutorials/aem-genstudio-for-performance-marketing/use-case-2.md)
