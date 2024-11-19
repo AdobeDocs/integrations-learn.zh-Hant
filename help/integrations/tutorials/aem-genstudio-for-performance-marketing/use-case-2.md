@@ -11,15 +11,17 @@ doc-type: Feature Video
 duration: 416
 last-substantial-update: 2024-11-19T00:00:00Z
 jira: KT-16484
-source-git-commit: edde4b8b98a1e8b7eaff592f458cfaa9aa53b346
+source-git-commit: 3a3d2542604a870efbe84fe3b7f1012483df3232
 workflow-type: tm+mt
-source-wordcount: '89'
+source-wordcount: '93'
 ht-degree: 0%
 
 ---
 
 
 # 使用Adobe GenStudio建立變體
+
+[&#39;返回整合概述](./overview.md)
 
 瞭解AEM Assetsas a Cloud Service和Adobe Express如何搭配GenStudio for Performance Marketing使用，快速建立量身打造的資產變數，以執行具凝聚力的行銷活動。 輕鬆產生並調整電子郵件促銷和中繼廣告的視覺效果，確保一致性，同時針對相同行銷體驗鎖定不同對象。
 
