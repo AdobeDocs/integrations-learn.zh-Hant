@@ -11,17 +11,20 @@ doc-type: Feature Video
 duration: 295
 last-substantial-update: 2024-11-20T00:00:00Z
 jira: KT-16483
+index: true
+hidefromtoc: true
+badgeIntegration: label="AEM資產與GenStudio for Performance Marketing" type="positive"
 exl-id: 635c1a73-4abe-4e22-8755-f3fbc8f0b46e
-source-git-commit: 6b108fc5a24d8949417a2ef14fa0d5a376f0b1aa
+source-git-commit: ed6dd016008f48eab117f2b1597c0a1b42590c82
 workflow-type: tm+mt
-source-wordcount: '82'
+source-wordcount: '95'
 ht-degree: 0%
 
 ---
 
 # Adobe GenStudio中的輕量級稽核和核准
 
-[&#39;返回整合概述](./overview.md)
+[&#39;返回AEM資產和GenStudio for Performance Marketing概覽](./overview.md)
 
 瞭解如何在AEM Assets as a Cloud Service中上傳、稽核及核准資產，以簡化您的內容工作流程。 在核准後，這些資產會順暢地整合到GenStudio for Performance Marketing中，以確保您的行銷活動可以輕鬆存取品牌核准的材料。
 
