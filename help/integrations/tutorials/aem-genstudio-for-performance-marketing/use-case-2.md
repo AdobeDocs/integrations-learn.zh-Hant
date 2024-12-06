@@ -15,7 +15,7 @@ index: true
 hidefromtoc: true
 badgeIntegration: label="AEM資產與GenStudio for Performance Marketing" type="positive"
 exl-id: 338762f2-179a-47ab-8ca8-d22921a0354d
-source-git-commit: ed6dd016008f48eab117f2b1597c0a1b42590c82
+source-git-commit: 2bbf8feb6eb83c7bd3f8d36ca821713e86dd8b4f
 workflow-type: tm+mt
 source-wordcount: '106'
 ht-degree: 0%
@@ -28,4 +28,4 @@ ht-degree: 0%
 
 瞭解AEM Assetsas a Cloud Service和Adobe Express如何搭配GenStudio for Performance Marketing使用，快速建立量身打造的資產變數，以執行具凝聚力的行銷活動。 輕鬆產生並調整電子郵件促銷和中繼廣告的視覺效果，確保一致性，同時針對相同行銷體驗鎖定不同對象。
 
->[!VIDEO](https://video.tv.adobe.com/v/3439266/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3439266/?learn=on&enablevpops)
