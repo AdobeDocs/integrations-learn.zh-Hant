@@ -1,6 +1,6 @@
 ---
-title: 使用GenStudio for Performance Marketing和AEM Assets進行Adobe GenStudio
-description: 本影片說明如何將AEM Assets與GenStudio for Performance Marketing整合，讓團隊可存取品牌核准資產的集中式存放庫，確保所有管道和行銷活動中的內容一致。
+title: 使用Adobe GenStudio for Performance Marketing和AEM Assets
+description: 解鎖Adobe GenStudio以簡化行銷。 存取品牌核准的資產並建立跨管道一致的高品質內容。
 solution: Experience Manager, GenStudio for Performance Marketing
 version: Cloud Service
 feature-set: Experience Manager Assets, GenStudio for Performance Marketing
@@ -15,31 +15,31 @@ index: true
 hidefromtoc: true
 badgeIntegration: label="AEM資產與GenStudio for Performance Marketing" type="positive"
 exl-id: 091852ef-cce4-40dd-97bf-f0deee2c99c3
-source-git-commit: ad3d8d090434b1c1a2cbcf024223db9fb6bb9fef
+source-git-commit: 7ffb3102086df5d7ca7b6593fd94bec9518d227e
 workflow-type: tm+mt
-source-wordcount: '512'
+source-wordcount: '498'
 ht-degree: 0%
 
 ---
 
-# 使用AEM Assets和GenStudio for Performance Marketing進行Adobe GenStudio
+# 使用AEM Assets和GenStudio for Performance Marketing的Adobe GenStudio
 
 >[!VIDEO](https://video.tv.adobe.com/v/3439263/?learn=on)
 
-解鎖Adobe GenStudio和AEM Assetsas a Cloud Service的強大功能，轉換您的績效行銷工作流程。 透過順暢整合，從集中式存放庫存取品牌核准的資產，為每個行銷活動和頻道建立一致、高品質的內容。 瞭解這些工具如何簡化您的內容供應鏈，提升您的行銷影響力。
+解鎖Adobe GenStudio和AEM Assets as a Cloud Service的強大功能，轉換您的績效行銷工作流程。 透過順暢整合，從集中式存放庫存取品牌核准的資產，為每個行銷活動和頻道建立一致、高品質的內容。 瞭解這些工具如何簡化您的內容供應鏈，提升您的行銷影響力。
 
 ## 先決條件
 
 AEM Assets與GenStudio for Performance Marketing之間的整合需要您從根本上瞭解：
 
-* Adobe GenStudio for Performance Marketing
-* AEM Assetsas a Cloud Service
+* [Adobe GenStudio for Performance Marketing](https://experienceleague.adobe.com/en/browse/genstudio-for-performance-marketing)
+* [AEM Assets as a Cloud Service](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-cloud-service/content/assets/overview)
 
 開始設定和工作流程前，請確定您擁有AEM Assets和GenStudio for Performance Marketing的必要存取權。
 
 ## 快速入門
 
-探索兩項專為對AEM Assets和GenStudio for Performance Marketing有基本瞭解的使用者設計的全面逐步說明。 第一個逐步解說會引導您完成設定程式，內容涵蓋Adobe GenStudio與AEM Assetsas a Cloud Service無縫整合所需的一切。 第二個深入探討關鍵工作流程，展示運用整合有效建立、管理和發佈績效行銷內容的主要動作。
+探索兩項專為對AEM Assets和GenStudio for Performance Marketing有基本瞭解的使用者設計的全面逐步說明。 第一個逐步解說會引導您完成設定程式，涵蓋將Adobe GenStudio與AEM Assets as a Cloud Service無縫整合所需的一切。 第二個深入探討關鍵工作流程，展示運用整合有效建立、管理和發佈績效行銷內容的主要動作。
 
 <!-- CARDS 
 
@@ -119,8 +119,8 @@ AEM Assets與GenStudio for Performance Marketing之間的整合需要您從根�
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/integrations-learn/experience-cloud/tutorials/genstudio-for-performance-marketing-experience-manager/use-cases/use-case-1" title="Adobe GenStudio中的輕量級稽核和核准" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3439265/?format=jpeg&nocache=1733416518715" alt="Adobe GenStudio中的輕量級稽核和核准"
+                    <a href="https://experienceleague.adobe.com/en/docs/integrations-learn/experience-cloud/tutorials/genstudio-for-performance-marketing-experience-manager/use-cases/use-case-1" title="Adobe GenStudio中的輕量級檢閱和核准" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3439265/?format=jpeg&nocache=1733416518715" alt="Adobe GenStudio中的輕量級檢閱和核准"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -128,7 +128,7 @@ AEM Assets與GenStudio for Performance Marketing之間的整合需要您從根�
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/integrations-learn/experience-cloud/tutorials/genstudio-for-performance-marketing-experience-manager/use-cases/use-case-1" target="_blank" rel="referrer" title="Adobe GenStudio中的輕量級稽核和核准">Adobe GenStudio</a>中的輕量型稽核與核准
+                        <a href="https://experienceleague.adobe.com/en/docs/integrations-learn/experience-cloud/tutorials/genstudio-for-performance-marketing-experience-manager/use-cases/use-case-1" target="_blank" rel="referrer" title="Adobe GenStudio中的輕量級檢閱和核准">Adobe GenStudio中的輕量型稽核與核准</a>
                     </p>
                     <p class="is-size-6">探索在AEM Assets中上傳、檢閱和核准資產的使用案例，好讓這些資產可用於GenStudio for Performance Marketing。</p>
                 </div>
@@ -151,9 +151,9 @@ AEM Assets與GenStudio for Performance Marketing之間的整合需要您從根�
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/integrations-learn/experience-cloud/tutorials/genstudio-for-performance-marketing-experience-manager/use-cases/use-case-2" target="_blank" rel="referrer" title="使用Adobe GenStudio建立變體">使用Adobe GenStudio</a>建立變體
+                        <a href="https://experienceleague.adobe.com/en/docs/integrations-learn/experience-cloud/tutorials/genstudio-for-performance-marketing-experience-manager/use-cases/use-case-2" target="_blank" rel="referrer" title="使用Adobe GenStudio建立變體">使用Adobe GenStudio建立變體</a>
                     </p>
-                    <p class="is-size-6">探索使用AEM Assets和Adobe Express來建立資產變體的使用案例，以用於電子郵件和用於促銷相同行銷體驗的中繼廣告。</p>
+                    <p class="is-size-6">探索使用AEM Assets和Adobe Express建立資產變體的使用案例，以用於電子郵件和用來促銷相同行銷體驗的中繼廣告。</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/en/docs/integrations-learn/experience-cloud/tutorials/genstudio-for-performance-marketing-experience-manager/use-cases/use-case-2" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">觀看</span>
