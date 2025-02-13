@@ -1,6 +1,6 @@
 ---
-title: 使用GenStudio for Performance Marketing和AEM Assets設定Adobe GenStudio
-description: 瞭解如何設定AEM Assets與GenStudio for Performance Marketing之間的整合。
+title: 設定GenStudio for Performance Marketing和AEM Assets
+description: 使用GenStudio for Performance Marketing和AEM Assets設定Adobe GenStudio以簡化內容建立並確保品牌一致性。
 solution: Experience Manager, GenStudio for Performance Marketing
 version: Cloud Service
 feature-set: Experience Manager Assets, GenStudio for Performance Marketing
@@ -14,20 +14,20 @@ index: true
 hidefromtoc: true
 jira: KT-16484
 exl-id: b63cfe6e-a530-4ca4-9e8e-16c54478054f
-source-git-commit: 153f3ba3b335748d35be9a5dea0a3ec6f1c0e346
+source-git-commit: 8e3adf228592b60b2a226326e885f9e7359ff232
 workflow-type: tm+mt
-source-wordcount: '270'
+source-wordcount: '272'
 ht-degree: 7%
 
 ---
 
 # 設定GenStudio for Performance Marketing和AEM Assets
 
-[&#39;返回AEM資產和GenStudio for Performance Marketing概覽](./overview.md)
+[&#39;返回AEM Assets和GenStudio for Performance Marketing概覽](./overview.md)
 
-若要開始搭配AEM Assets as a Cloud Service和GenStudio for Performance Marketing使用Adobe GenStudio，請確定已布建、啟用和設定必要的產品。 具體來說，您需要存取以下專案：
+若要開始將Adobe GenStudio與AEM Assets as a Cloud Service和GenStudio for Performance Marketing搭配使用，請確定已布建、啟用和設定必要的產品。 具體來說，您需要存取以下專案：
 
-* AEM Assetsas a Cloud Service
+* AEM Assets as a Cloud Service
 * AEM Assets Content Hub
 * GenStudio for Performance Marketing
 
@@ -35,7 +35,7 @@ ht-degree: 7%
 
 ## 設定指南
 
-如果這些Adobe產品尚未設定和啟用，請參閱下列指南以瞭解詳細的設定步驟：
+如果尚未設定及啟用這些Adobe產品，請參閱下列指南以瞭解詳細的設定步驟：
 
 <!-- CARDS 
 
@@ -65,7 +65,7 @@ ht-degree: 7%
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/video-playlists/assets-view" target="_blank" rel="referrer" title="設定AEM Assets">設定AEM Assets</a>
                     </p>
-                    <p class="is-size-6">透過這精選旨在提升產品知識的影片播放清單，瞭解如何在Assets檢視中導覽AEM Assetsas a Cloud Service。</p>
+                    <p class="is-size-6">透過這精選旨在提升產品知識的影片播放清單，瞭解如何在Assets檢視中導覽AEM Assets as a Cloud Service。</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/video-playlists/assets-view" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">進一步瞭解</span>
