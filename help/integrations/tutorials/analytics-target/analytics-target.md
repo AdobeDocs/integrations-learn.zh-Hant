@@ -29,7 +29,7 @@ ht-degree: 1%
 
 >[!NOTE]
 >
->這些影片示範[!DNL Target] at.js和[!DNL Analytics] appMeasurement.js的實作和驗證。 請參閱[檔案](https://experienceleague.adobe.com/docs/target/using/integrate/a4t/a4timplementation.html)，瞭解這兩種工具中所需的程式庫版本。
+>這些影片示範[!DNL Target] at.js和[!DNL Analytics] appMeasurement.js的實作和驗證。 請參閱[檔案](https://experienceleague.adobe.com/docs/target/using/integrate/a4t/a4timplementation.html?lang=zh-Hant)，瞭解這兩種工具中所需的程式庫版本。
 
 ### 正在設定A4T （[!DNL Target]的[!DNL Analytics]）
 
@@ -73,7 +73,7 @@ ht-degree: 1%
 
 自動分配活動會從兩個或多個體驗中識別獲勝者，並自動重新分配更多流量給獲勝者，同時測試會繼續執行和學習。 自動分配的[!DNL Target] (A4T)整合[!DNL Analytics]可讓您在Adobe[!DNL Analytics]中檢視報表資料，甚至針對[!DNL Analytics]中定義的自訂事件或量度進行最佳化。
 
-<a href="https://experienceleague.adobe.com/docs/target-learn/tutorials/integrations/set-up-a4t-reports-in-analysis-workspace-for-auto-allocate-activities.html" class="spectrum-Button spectrum-Button--primary spectrum-Button--sizeM" target="_blank">
+<a href="https://experienceleague.adobe.com/docs/target-learn/tutorials/integrations/set-up-a4t-reports-in-analysis-workspace-for-auto-allocate-activities.html?lang=zh-Hant" class="spectrum-Button spectrum-Button--primary spectrum-Button--sizeM" target="_blank">
   <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">為自動分配活動設定A4T報告</span>
 </a>
 
@@ -83,6 +83,6 @@ ht-degree: 1%
 
 雖然Adobe[!DNL Analytics] Analysis Workspace中有豐富的分析功能，但由於實驗活動（手動A/B測試和自動分配）和個人化活動（自動[!DNL Target]）之間的差異，需要對[!DNL Target]面板的預設[!DNL Analytics]進行一些修改，才能正確解譯Auto-[!DNL Target]活動。
 
-<a href="https://experienceleague.adobe.com/docs/target-learn/tutorials/integrations/set-up-a4t-reports-in-analysis-workspace-for-auto-target-activities.html" class="spectrum-Button spectrum-Button--primary spectrum-Button--sizeM" target="_blank">
+<a href="https://experienceleague.adobe.com/docs/target-learn/tutorials/integrations/set-up-a4t-reports-in-analysis-workspace-for-auto-target-activities.html?lang=zh-Hant" class="spectrum-Button spectrum-Button--primary spectrum-Button--sizeM" target="_blank">
   <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">為自動[!DNL Target]活動設定A4T報告</span>
 </a>

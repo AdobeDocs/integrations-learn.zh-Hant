@@ -57,7 +57,7 @@ ht-degree: 0%
         </tr>        
         <tr>
             <td>
-                <a href="https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html" target="_blank" rel="noreferrer">Audience Manager將資料傳回[!DNL Analytics]</a>
+                <a href="https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html?lang=zh-Hant" target="_blank" rel="noreferrer">Audience Manager將資料傳回[!DNL Analytics]</a>
             </td>
             <td>Adobe[!DNL Analytics]標籤延伸或AppMeasurement.js，並啟用伺服器端轉送</td>
             <td>

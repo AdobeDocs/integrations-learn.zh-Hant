@@ -23,29 +23,29 @@ ht-degree: 2%
 # 將Adobe[!DNL Analytics]和即時客戶資料[!DNL Platform]與體驗[!DNL Platform] Edge教學課程整合
 
 <ol>
-    <li><a href="https://experienceleague.adobe.com/?lang=en#dashboard/learning" _target="_blank" rel="noopener noreferrer">為要擷取的資料建立結構描述</a>。</li>
-    <li><a href="https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-ingestion/create-datasets-and-ingest-data.html" _target="_blank" rel="noopener noreferrer">建立要擷取的資料集</a>。</a></li>
-    <li><a href="https://experienceleague.adobe.com/docs/platform-learn/tutorials/identities/label-ingest-and-verify-identity-data.html?lang=en" _target="_blank" rel="noopener noreferrer">在結構描述</a>上設定正確的身分識別與身分識別名稱空間，以確定擷取的資料可以拼接到統一的設定檔。</li>
+    <li><a href="https://experienceleague.adobe.com/zh-hant?lang=en#dashboard/learning" _target="_blank" rel="noopener noreferrer">為要擷取的資料建立結構描述</a>。</li>
+    <li><a href="https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-ingestion/create-datasets-and-ingest-data.html?lang=zh-Hant" _target="_blank" rel="noopener noreferrer">建立要擷取的資料集</a>。</a></li>
+    <li><a href="https://experienceleague.adobe.com/docs/platform-learn/tutorials/identities/label-ingest-and-verify-identity-data.html?lang=zh-Hant" _target="_blank" rel="noopener noreferrer">在結構描述</a>上設定正確的身分識別與身分識別名稱空間，以確定擷取的資料可以拼接到統一的設定檔。</li>
     <li><a href="https://experienceleague.adobe.com/docs/platform-learn/tutorials/profiles/bring-data-into-the-real-time-customer-profile.html?lang=zh-Hant" _target="_blank" rel="noopener noreferrer">啟用設定檔</a>的結構描述和資料集。</li>
     <li>使用下列其中一種方法將資料內嵌至體驗[!DNL Platform]：</li>
         <ul>
            <li>體驗[!DNL Platform] Web SDK：</li>
                 <ul>
                     <li><a href="https://experienceleague.adobe.com/docs/platform-learn/implement-web-sdk/overview.html?lang=zh-Hant" _target="_blank" rel="noopener noreferrer">教學課程</a></li>
-                    <li><a href="https://experienceleague.adobe.com/docs/analytics/implementation/aep-edge/web-sdk/overview.html" _target="_blank" rel="noopener noreferrer">檢查清單</a></li>
+                    <li><a href="https://experienceleague.adobe.com/docs/analytics/implementation/aep-edge/web-sdk/overview.html?lang=zh-Hant" _target="_blank" rel="noopener noreferrer">檢查清單</a></li>
                 </ul>
             <li>體驗[!DNL Platform] Mobile SDK：</li>
                 <ul>
-                    <li><a href="https://experienceleague.adobe.com/docs/platform-learn/data-collection/mobile-sdk/create-mobile-properties.html" _target="_blank" rel="noopener noreferrer">教學課程</a></li>
-                    <li><a href="https://experienceleague.adobe.com/docs/analytics/implementation/aep-edge/mobile-sdk/overview.html" _target="_blank" rel="noopener noreferrer">檢查清單</a></li>
+                    <li><a href="https://experienceleague.adobe.com/docs/platform-learn/data-collection/mobile-sdk/create-mobile-properties.html?lang=zh-Hant" _target="_blank" rel="noopener noreferrer">教學課程</a></li>
+                    <li><a href="https://experienceleague.adobe.com/docs/analytics/implementation/aep-edge/mobile-sdk/overview.html?lang=zh-Hant" _target="_blank" rel="noopener noreferrer">檢查清單</a></li>
                 </ul></li>
             <li>Edge Network伺服器API：</li>
                 <ul>
                     <li><a href="https://experienceleague.adobe.com/docs/experience-platform/edge-network-server-api/interacting-other-adobe-solutions/interacting-adobe-analytics.html" _target="_blank" rel="noopener noreferrer">教學課程</a></li>
                 </ul>
        </ul>
-    <li><a href="https://experienceleague.adobe.com/docs/platform-learn/tutorials/segments/create-segments.html" _target="_blank" rel="noopener noreferrer">在體驗[!DNL Platform]中建立區段。</a>系統會自動判斷區段是評估為批次（資料聯結器）還是串流(Edge網路)。</li>
-    <li><a href="https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/create-destinations-and-activate-data.html" _target="_blank" rel="noopener noreferrer">設定目的地，以將設定檔屬性和對象成員資格共用至所需目的地。</a></li>
+    <li><a href="https://experienceleague.adobe.com/docs/platform-learn/tutorials/segments/create-segments.html?lang=zh-Hant" _target="_blank" rel="noopener noreferrer">在體驗[!DNL Platform]中建立區段。</a>系統會自動判斷區段是評估為批次（資料聯結器）還是串流(Edge網路)。</li>
+    <li><a href="https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/create-destinations-and-activate-data.html?lang=zh-Hant" _target="_blank" rel="noopener noreferrer">設定目的地，以將設定檔屬性和對象成員資格共用至所需目的地。</a></li>
 </ol>
 
 >[!NOTE]

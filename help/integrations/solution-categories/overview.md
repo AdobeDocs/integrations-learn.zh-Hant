@@ -18,21 +18,21 @@ ht-degree: 11%
 <table>
 <tr>
     <td>
-      <a  href="./b2b.md"><img alt="B2b行銷" src="https://cdn.experienceleague.adobe.com/thumb/b2b.png"/></a>
+      <a  href="./b2b.md"><img alt="B2b行銷" src="https://cdn.experienceleague.adobe.com/thumb/b2b.png?lang=zh-Hant"/></a>
       <div><strong><a href="./b2b.md">B2B行銷</a></strong></div>
       <p>
         行銷自動化與銷售合作關係
       </p>
     </td>
    <td>
-      <a  href="./commerce.md"><img alt="商務" src="https://cdn.experienceleague.adobe.com/thumb/commerce.png"/></a>
+      <a  href="./commerce.md"><img alt="商務" src="https://cdn.experienceleague.adobe.com/thumb/commerce.png?lang=zh-Hant"/></a>
       <div><strong><a href="./commerce.md">Commerce</a></strong></div>
       <p>
         B2B和B2C數位商務
       </p>
    </td>    
    <td>
-      <a  href="./content-management.md"><img alt="內容管理" src="https://cdn.experienceleague.adobe.com/thumb/content-management.png"/></a>
+      <a  href="./content-management.md"><img alt="內容管理" src="https://cdn.experienceleague.adobe.com/thumb/content-management.png?lang=zh-Hant"/></a>
       <div><strong><a href="./content-management.md">內容管理</a></strong></div>
       <p>
         內容與資產管理
@@ -41,21 +41,21 @@ ht-degree: 11%
 </tr>
 <tr>
    <td>
-      <a  href="./content-supply-chain.md"><img alt="內容供應鏈" src="https://cdn.experienceleague.adobe.com/thumb/content-supply-chain.png"/></a>
+      <a  href="./content-supply-chain.md"><img alt="內容供應鏈" src="https://cdn.experienceleague.adobe.com/thumb/content-supply-chain.png?lang=zh-Hant"/></a>
       <div><strong><a href="./content-supply-chain.md">內容供應鏈</a></strong></div>
       <p>
         加速內容建立和傳遞
       </p> 
     </td>
    <td>
-      <a  href="./customer-journeys.md"><img alt="客戶歷程" src="https://cdn.experienceleague.adobe.com/thumb/customer-journeys.png"/></a>
+      <a  href="./customer-journeys.md"><img alt="客戶歷程" src="https://cdn.experienceleague.adobe.com/thumb/customer-journeys.png?lang=zh-Hant"/></a>
       <div><strong><a href="./customer-journeys.md">客戶歷程</a></strong></div>
       <p>
         全通路協調與傳遞
       </p> 
     </td>
    <td>
-      <a  href="./data-insights.md"><img alt="資料深入解析和啟用" src="https://cdn.experienceleague.adobe.com/thumb/data-insights.png"/></a>
+      <a  href="./data-insights.md"><img alt="資料深入解析和啟用" src="https://cdn.experienceleague.adobe.com/thumb/data-insights.png?lang=zh-Hant"/></a>
       <div><strong><a href="./data-insights.md">資料深入分析和啟用</a></strong></div>
       <p>
         [!DNL Analytics]和對象管理
@@ -64,7 +64,7 @@ ht-degree: 11%
 </tr>
 <tr>
    <td>
-      <a  href="./personalization.md"><img alt="大規模Personalization" src="https://cdn.experienceleague.adobe.com/thumb/personalization.png"/></a>
+      <a  href="./personalization.md"><img alt="大規模Personalization" src="https://cdn.experienceleague.adobe.com/thumb/personalization.png?lang=zh-Hant"/></a>
       <div><strong><a href="./personalization.md">Personalization做為比例</a></strong></div>
       <p>
         如何讓每個連線都成為個人的

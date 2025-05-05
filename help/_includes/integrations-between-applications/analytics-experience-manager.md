@@ -35,7 +35,7 @@ ht-degree: 2%
     <tbody>
         <tr>
             <td rowspan="2">[!DNL Analytics] 使用AEM Sites</a></td>
-            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/sites/integrations/experience-platform/analytics-using-web-sdk.html" target="_blank" rel="noreferrer">Experience [!DNL Platform] Web SDK標籤擴充功能或alloy.js</a></td>
+            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/sites/integrations/experience-platform/analytics-using-web-sdk.html?lang=zh-Hant" target="_blank" rel="noreferrer">Experience [!DNL Platform] Web SDK標籤擴充功能或alloy.js</a></td>
             <td>
                 <ul style="margin-top: 0;">
                     <li>當您想要報告Adobe[!DNL Analytics]中的AEM網站分析資料時，並為將來整合其他Experience Cloud應用程式做好準備。</li>
@@ -50,7 +50,7 @@ ht-degree: 2%
             </td>
         </tr>
         <tr>
-            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/sites/integrations/analytics/collect-data-analytics.html" target="_blank" rel="noreferrer">Adobe[!DNL Analytics]標籤延伸或AppMeasurement.js</a></td>
+            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/sites/integrations/analytics/collect-data-analytics.html?lang=zh-Hant" target="_blank" rel="noreferrer">Adobe[!DNL Analytics]標籤延伸或AppMeasurement.js</a></td>
             <td>
                 <ul style="margin-top: 0;">
                     <li>當您想要報告Adobe[!DNL Analytics]中的AEM網站分析資料，但不打算在其他Experience Cloud應用程式中使用資料時</li>
@@ -67,7 +67,7 @@ ht-degree: 2%
             </td>
         </tr>
         <tr>
-            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/forms-and-analytics/introduction.html" target="_blank" rel="noreferrer">[!DNL Analytics] 和AEM Forms作為Cloud Service</a></td>
+            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/forms-and-analytics/introduction.html?lang=zh-Hant" target="_blank" rel="noreferrer">[!DNL Analytics] 和AEM Forms作為Cloud Service</a></td>
             <td>體驗[!DNL Platform] Web SDK標籤延伸模組</td>
             <td>
               <ul style="margin-top: 0;">

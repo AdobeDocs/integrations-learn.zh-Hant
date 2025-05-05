@@ -33,7 +33,7 @@ Adobe[!DNL Analytics]與Adobe[!DNL Campaign]的整合可啟用順暢的資料共
      <tbody>
         <tr>
             <td rowspan="2">[!DNL Campaign] 標準搭配 [!DNL Analytics]</td>
-            <td><a href="https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/integrations/track-the-success-of-your-deliveries-in-analytics.html" target="_blank" rel="noreferrer">連結至Adobe[!DNL Analytics]的外部[!DNL Campaign]帳戶以及中的管理員設定 [!DNL Analytics]</a></td>
+            <td><a href="https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/integrations/track-the-success-of-your-deliveries-in-analytics.html?lang=zh-Hant" target="_blank" rel="noreferrer">連結至Adobe[!DNL Analytics]的外部[!DNL Campaign]帳戶以及中的管理員設定 [!DNL Analytics]</a></td>
             <td>
                 <ul style="margin-top: 0;">
                     <li>當您想要直接在Adobe[!DNL Analytics]中從[!DNL Campaign]追蹤電子郵件傳送的成功時。</li>

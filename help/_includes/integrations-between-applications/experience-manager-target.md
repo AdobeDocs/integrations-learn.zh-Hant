@@ -35,7 +35,7 @@ Adobe Experience Manager和Adobe[!DNL Target]搭配使用時，可建立強大�
     </thead>
     <tbody>
         <tr>
-            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/integrations/target.html" target="_blank" rel="noreferrer">AEM Headlessas a Cloud Service和 [!DNL Target]</a></td>
+            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/integrations/target.html?lang=zh-Hant" target="_blank" rel="noreferrer">AEM Headlessas a Cloud Service和 [!DNL Target]</a></td>
             <td>Experience [!DNL Platform] Web SDK標籤擴充功能或alloy.js</td>
             <td>
               <ul style="margin-top: 0;">
@@ -52,7 +52,7 @@ Adobe Experience Manager和Adobe[!DNL Target]搭配使用時，可建立強大�
             </td>
         </tr>
         <tr>
-            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/sites/integrations/target/overview.html" target="_blank" rel="noreferrer">AEM Sites和 [!DNL Target]</a></td>
+            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/sites/integrations/target/overview.html?lang=zh-Hant" target="_blank" rel="noreferrer">AEM Sites和 [!DNL Target]</a></td>
             <td>原生聯結器</td>
             <td>
                 <ul style="margin-top: 0;">

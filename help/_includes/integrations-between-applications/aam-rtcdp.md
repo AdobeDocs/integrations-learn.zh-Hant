@@ -35,7 +35,7 @@ ht-degree: 2%
     <tbody>
         <tr>
             <td>
-                <a href="https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-aam.html" target="_blank" rel="noreferrer">Audience Manager和Real-Time CDP</a>
+                <a href="https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-aam.html?lang=zh-Hant" target="_blank" rel="noreferrer">Audience Manager和Real-Time CDP</a>
             </td>
             <td>Adobe Audience Manager資料聯結器</td>
             <td>

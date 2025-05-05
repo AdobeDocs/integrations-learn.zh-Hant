@@ -32,7 +32,7 @@ ht-degree: 2%
     </thead>
     <tbody>
         <tr>
-            <td><a href="https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/integrations/adobe-creative-cloud/use-adobe-workfront-extensions-for-creative-cloud.html" target="_blank" rel="noreferrer">Creative Cloud與Workfront</a></td>
+            <td><a href="https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/integrations/adobe-creative-cloud/use-adobe-workfront-extensions-for-creative-cloud.html?lang=zh-Hant" target="_blank" rel="noreferrer">Creative Cloud與Workfront</a></td>
             <td>原生聯結器</td>
             <td>
                 <ul style="margin-top: 0;">

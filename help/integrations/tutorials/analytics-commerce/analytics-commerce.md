@@ -29,7 +29,7 @@ ht-degree: 0%
 1. 在您的本機環境中檢視程式碼
 1. 使用撰寫器並安裝模組
 1. 請依照這裡的個別指示進行，完成後請返回，以完成其餘步驟
-   [安裝及設定Experience [!DNL Platform] 聯結器](https://experienceleague.adobe.com/docs/commerce-merchant-services/experience-platform-connector/fundamentals/install.html){target="_blank"}
+   [安裝及設定Experience [!DNL Platform] 聯結器](https://experienceleague.adobe.com/docs/commerce-merchant-services/experience-platform-connector/fundamentals/install.html?lang=zh-Hant){target="_blank"}
 
 
 1. 認可composer.json，如果位於雲端，則認可composer.lock檔案
@@ -45,17 +45,17 @@ ht-degree: 0%
 
      ![體驗[!DNL Platform]聯結器](./assets/analytics-commerce/experience-platform-connector.png)
 
-如需入門流程每個階段和步驟的詳細資訊，請依照[Experience [!DNL Platform] 聯結器總覽](https://experienceleague.adobe.com/docs/commerce-merchant-services/experience-platform-connector/overview.html){target="_blank"}的說明操作。 Experience [!DNL Platform]聯結器教學課程會深入涵蓋每個區段，並回答您可能遇到的任何問題。 使用本教學課程瞭解其他快速設定步驟。
+如需入門流程每個階段和步驟的詳細資訊，請依照[Experience [!DNL Platform] 聯結器總覽](https://experienceleague.adobe.com/docs/commerce-merchant-services/experience-platform-connector/overview.html?lang=zh-Hant){target="_blank"}的說明操作。 Experience [!DNL Platform]聯結器教學課程會深入涵蓋每個區段，並回答您可能遇到的任何問題。 使用本教學課程瞭解其他快速設定步驟。
 
 ## Experience Edge和Adobe[!DNL Analytics]的設定
 
 1. 確認您的組織具有（且您擁有）Adobe[!DNL Analytics]的存取權。 您可以前往[Adobe Experience Cloud首頁](https://experience.adobe.com/)，然後按一下頂端導覽列中的應用程式切換器（九個點），確認此問題。
 
-1. 在Adobe[!DNL Analytics]中建立新的報表套裝，或識別您將[!DNL Commerce]資料推送至的報表套裝識別碼。 如需詳細資訊，請觀看有關[建立新報表套裝](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/analytics-basics/understanding-and-creating-report-suites.html)的教學課程。 您需要在下列資料流步驟中使用此報表套裝ID。
+1. 在Adobe[!DNL Analytics]中建立新的報表套裝，或識別您將[!DNL Commerce]資料推送至的報表套裝識別碼。 如需詳細資訊，請觀看有關[建立新報表套裝](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/analytics-basics/understanding-and-creating-report-suites.html?lang=zh-Hant)的教學課程。 您需要在下列資料流步驟中使用此報表套裝ID。
 
 1. 如果您有體驗[!DNL Platform]的存取權，請瀏覽至[Adobe體驗 [!DNL Platform] 介面](https://platform.adobe.com)。 如果您無法存取該介面，則可以在Adobe體驗[!DNL Platform] [資料收集介面](https://experience.adobe.com/#/data-collection)中執行下面列出的所有必要步驟。
 
-1. 使用[!DNL Commerce]特定欄位群組建立或更新您的XDM結構描述。 如需如何建立結構描述的詳細資訊，請參閱[「建立結構描述」](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/create-schemas.html)教學課程。
+1. 使用[!DNL Commerce]特定欄位群組建立或更新您的XDM結構描述。 如需如何建立結構描述的詳細資訊，請參閱[「建立結構描述」](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/create-schemas.html?lang=zh-Hant)教學課程。
    * 您將需要從以下資料流步驟中的選項中選取此結構描述。 若要建立結構描述，請檢視&#x200B;**資料管理**&#x200B;下的左欄，並找到&#x200B;**結構描述**。 現在在介面的右上方，按一下&#x200B;**建立結構描述**。 選取XDM ExperienceEvent。
    * 建立新結構描述後，您將新增[!DNL Commerce]欄位群組。 在UI左側，尋找[欄位群組]，然後按一下[新增] **&#x200B;**
       * 在搜尋中，您可以輸入`ExperienceEvent Commerce`進行篩選
@@ -87,9 +87,9 @@ ht-degree: 0%
 
    以下是有助於您在Analysis Workspace中運作的其他資源：
 
-   * [Analysis Workspace 概觀](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/analysis-workspace-basics/analysis-workspace-overview.html)
-   * [從頭開始建立Workspace專案](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/analysis-workspace-basics/building-a-workspace-project-from-scratch.html)
-   * [在Analysis Workspace中使用表格、視覺效果和面板](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/using-panels/using-tables-visualizations-and-panels.html)
-   * [視覺效果使用案例](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/visualizations/visualization-use-cases.html)
+   * [Analysis Workspace 概觀](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/analysis-workspace-basics/analysis-workspace-overview.html?lang=zh-Hant)
+   * [從頭開始建立Workspace專案](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/analysis-workspace-basics/building-a-workspace-project-from-scratch.html?lang=zh-Hant)
+   * [在Analysis Workspace中使用表格、視覺效果和面板](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/using-panels/using-tables-visualizations-and-panels.html?lang=zh-Hant)
+   * [視覺效果使用案例](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/visualizations/visualization-use-cases.html?lang=zh-Hant)
 
-   此外，Experience League上還提供免費課程。 檢視[這裡](https://experienceleague.adobe.com/?lang=en&amp;Solution=Analytics#courses)可用的[!DNL Analytics]課程。
+   此外，Experience League上還提供免費課程。 檢視[這裡](https://experienceleague.adobe.com/zh-hant?lang=en&amp;Solution=Analytics#courses)可用的[!DNL Analytics]課程。
