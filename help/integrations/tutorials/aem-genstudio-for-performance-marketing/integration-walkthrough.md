@@ -28,4 +28,4 @@ ht-degree: 0%
 
 瞭解使用AEM Assets as a Cloud Service與GenStudio for Performance Marketing整合、將資產上傳至AEM Assets、在AEM Assets中核准資產，以及在GenStudio for Performance Marketing中使用核准資產的基本知識。
 
->[!VIDEO](https://video.tv.adobe.com/v/3439264/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3439288/?learn=on&enablevpops&captions=chi_hant)
