@@ -41,7 +41,7 @@ ht-degree: 3%
                 </ul></li>
             <li>Edge Network伺服器API：</li>
                 <ul>
-                    <li><a href="https://experienceleague.adobe.com/docs/experience-platform/edge-network-server-api/interacting-other-adobe-solutions/interacting-adobe-analytics.html" _target="_blank" rel="noopener noreferrer">教學課程</a></li>
+                    <li><a href="https://experienceleague.adobe.com/docs/experience-platform/edge-network-server-api/interacting-other-adobe-solutions/interacting-adobe-analytics.html?lang=zh-Hant" _target="_blank" rel="noopener noreferrer">教學課程</a></li>
                 </ul>
        </ul>
     <li><i>（選擇性）</i>。 如果使用多個資料集，請將人員ID拼接在一起，以<a href="https://experienceleague.adobe.com/docs/analytics-platform/using/cja-connections/combined-dataset.html?lang=zh-Hant" _target="_blank" rel="noopener noreferrer">產生合併的資料集</a>。 如果使用單一[!DNL Analytics]資料集，或如果您打算在Customer Journey [!DNL Analytics]中使用的所有資料集都存在通用識別碼，請略過此步驟。</li>

@@ -41,7 +41,7 @@ ht-degree: 2%
                 </ul></li>
             <li>Edge Network伺服器API：</li>
                 <ul>
-                    <li><a href="https://experienceleague.adobe.com/docs/experience-platform/edge-network-server-api/interacting-other-adobe-solutions/interacting-adobe-analytics.html" _target="_blank" rel="noopener noreferrer">教學課程</a></li>
+                    <li><a href="https://experienceleague.adobe.com/docs/experience-platform/edge-network-server-api/interacting-other-adobe-solutions/interacting-adobe-analytics.html?lang=zh-Hant" _target="_blank" rel="noopener noreferrer">教學課程</a></li>
                 </ul>
        </ul>
     <li><a href="https://experienceleague.adobe.com/docs/platform-learn/tutorials/segments/create-segments.html?lang=zh-Hant" _target="_blank" rel="noopener noreferrer">在體驗[!DNL Platform]中建立區段。</a>系統會自動判斷區段是評估為批次（資料聯結器）還是串流(Edge網路)。</li>
