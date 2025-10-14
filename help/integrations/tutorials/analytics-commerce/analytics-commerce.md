@@ -92,4 +92,4 @@ ht-degree: 0%
    * [在Analysis Workspace中使用表格、視覺效果和面板](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/using-panels/using-tables-visualizations-and-panels.html?lang=zh-Hant)
    * [視覺效果使用案例](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/visualizations/visualization-use-cases.html?lang=zh-Hant)
 
-   此外，Experience League上還提供免費課程。 檢視[這裡](https://experienceleague.adobe.com/zh-hant?lang=en&amp;Solution=Analytics#courses)可用的[!DNL Analytics]課程。
+   此外，Experience League上還提供免費課程。 檢視[這裡](https://experienceleague.adobe.com/zh-hant?lang=en&Solution=Analytics#courses)可用的[!DNL Analytics]課程。
