@@ -3,10 +3,10 @@ user-guide-title: Experience Cloud 整合教學課程
 breadcrumb-title: Experience Cloud 整合
 user-guide-description: 整合學習。
 mini-toc-levels: 1
-source-git-commit: 2e76baa106c833668b7d966e4cfdbfaef8aabbd2
+source-git-commit: 132c892723d29d415d07093ef8514ff8c9b7b1db
 workflow-type: tm+mt
-source-wordcount: '120'
-ht-degree: 20%
+source-wordcount: '142'
+ht-degree: 26%
 
 ---
 
@@ -14,12 +14,12 @@ ht-degree: 20%
 # [!DNL Experience Cloud]整合教學課程 {#experience-cloud}
 
 + [[!DNL Experience Cloud]整合](./overview.md)
-+ 方案類別{#solution-categories}
++ 解決方案類別{#solution-categories}
    + [概觀](./solution-categories/overview.md)
    + [B2B行銷](./solution-categories/b2b.md)
    + [Commerce](./solution-categories/commerce.md)
    + [內容管理](./solution-categories/content-management.md)
-   + [內容供應鏈](./solution-categories/content-supply-chain.md)
+   + [內容supply chain](./solution-categories/content-supply-chain.md)
    + [客戶歷程](./solution-categories/customer-journeys.md)
    + [資料深入解析與啟用](./solution-categories/data-insights.md)
    + [大規模Personalization](./solution-categories/personalization.md)
@@ -85,16 +85,16 @@ ht-degree: 20%
    + [!DNL Analytics] 和 [!DNL Commerce]{#analytics-commerce}
       + [[!DNL Analytics]和 [!DNL Commerce]](./tutorials/analytics-commerce/analytics-commerce.md)
    + [!DNL Analytics]與CJA{#analytics-cja}
-      + [[!DNL Analytics]和CJA](./tutorials/analytics-cja/experience-platform-edge.md)
-      + [[!DNL Analytics]和CJA](./tutorials/analytics-cja/experience-platform-source-connector.md)
+      + [[!DNL Analytics]與CJA](./tutorials/analytics-cja/experience-platform-edge.md)
+      + [[!DNL Analytics]與CJA](./tutorials/analytics-cja/experience-platform-source-connector.md)
    + [!DNL Analytics]與Real-Time CDP{#analytics-real-time-cdp}
       + [[!DNL Analytics]與Real-Time CDP](./tutorials/analytics-rtcdp/experience-platform-edge.md)
       + [[!DNL Analytics]與Real-Time CDP](./tutorials/analytics-rtcdp/experience-platform-source-connector.md)
    + [!DNL Analytics] 和 [!DNL Target]{#analytics-target}
       + [[!DNL Analytics]和 [!DNL Target]](./tutorials/analytics-target/analytics-target.md)
    + [!DNL Campaign] 和 [!DNL Analytics]{#campaign-analytics}
-      + [使用Triggers教學課程整合 [!DNL Campaign] Standard與 [!DNL Analytics] &#x200B;](./tutorials/campaign-analytics/campaign-analytics-trigger.md)
-   + [!DNL Campaign]和Experience Manager{#campaign-experience-manager}
+      + [使用Triggers教學課程整合 [!DNL Campaign] Standard與 [!DNL Analytics] ](./tutorials/campaign-analytics/campaign-analytics-trigger.md)
+   + [!DNL Campaign]與Experience Manager {#campaign-experience-manager}
       + [[!DNL Campaign] v8和Experience Manager](./tutorials/campaign-aem/campaign-v8-with-experience-manager.md)
    + [!DNL Campaign]與Real-Time CDP{#campaign-real-time-cdp}
       + [[!DNL Campaign] v8和Real-Time CDP](./tutorials/campaign-rtcdp/campaign-v8-real-time-cdp.md)
@@ -102,10 +102,17 @@ ht-degree: 20%
       + [Real-Time CDP和 [!DNL Target]](./tutorials/rtcdp-target/web-sdk-and-target-destination.md)
       + [Real-Time CDP和 [!DNL Target]](./tutorials/rtcdp-target/mobile-sdk-and-target-destination.md)
       + [Real-Time CDP和 [!DNL Target]](./tutorials/rtcdp-target/atjs-and-target-destination.md)
-   + GenStudio for Performance Marketing與Experience Manager{#genstudio-for-performance-marketing-experience-manager}
+   + GenStudio for Performance Marketing和Experience Manager {#genstudio-for-performance-marketing-experience-manager}
       + [概觀](./tutorials/aem-genstudio-for-performance-marketing/overview.md)
       + [設定](./tutorials/aem-genstudio-for-performance-marketing/setup.md)
       + [整合逐步說明](./tutorials/aem-genstudio-for-performance-marketing/integration-walkthrough.md)
       + 使用案例{#use-cases}
          + [Adobe GenStudio中的檢閱和核准](./tutorials/aem-genstudio-for-performance-marketing/use-case-1.md)
          + [使用Adobe GenStudio建立變體](./tutorials/aem-genstudio-for-performance-marketing/use-case-2.md)
+   + Experience Manager和Target{#experience-manager-target}
+      + [概觀](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/personalization/overview)
+      + [設定](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/personalization/setup/integrate-adobe-target)
+      + 使用案例{#use-cases}
+         + [實驗（A/B測試）](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/personalization/use-cases/experimentation)
+         + [行為定向](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-learn/cloud-service/personalization/use-cases/behavioral-targeting)
+         + [已知使用者Personalization](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/personalization/use-cases/known-user-personalization)
