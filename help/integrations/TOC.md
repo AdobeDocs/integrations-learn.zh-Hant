@@ -93,7 +93,7 @@ ht-degree: 26%
    + [!DNL Analytics] 和 [!DNL Target]{#analytics-target}
       + [[!DNL Analytics]和 [!DNL Target]](./tutorials/analytics-target/analytics-target.md)
    + [!DNL Campaign] 和 [!DNL Analytics]{#campaign-analytics}
-      + [使用Triggers教學課程整合 [!DNL Campaign] Standard與 [!DNL Analytics] ](./tutorials/campaign-analytics/campaign-analytics-trigger.md)
+      + [使用Triggers教學課程整合 [!DNL Campaign] Standard與 [!DNL Analytics] &#x200B;](./tutorials/campaign-analytics/campaign-analytics-trigger.md)
    + [!DNL Campaign]與Experience Manager {#campaign-experience-manager}
       + [[!DNL Campaign] v8和Experience Manager](./tutorials/campaign-aem/campaign-v8-with-experience-manager.md)
    + [!DNL Campaign]與Real-Time CDP{#campaign-real-time-cdp}
