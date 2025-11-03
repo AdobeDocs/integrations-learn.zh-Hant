@@ -3,10 +3,10 @@ user-guide-title: Experience Cloud 整合教學課程
 breadcrumb-title: Experience Cloud 整合
 user-guide-description: 整合學習。
 mini-toc-levels: 1
-source-git-commit: 132c892723d29d415d07093ef8514ff8c9b7b1db
+source-git-commit: a5f6fdd10569618e495750e1bcd4cf604cbf142c
 workflow-type: tm+mt
-source-wordcount: '142'
-ht-degree: 26%
+source-wordcount: '145'
+ht-degree: 25%
 
 ---
 
@@ -93,7 +93,7 @@ ht-degree: 26%
    + [!DNL Analytics] 和 [!DNL Target]{#analytics-target}
       + [[!DNL Analytics]和 [!DNL Target]](./tutorials/analytics-target/analytics-target.md)
    + [!DNL Campaign] 和 [!DNL Analytics]{#campaign-analytics}
-      + [使用Triggers教學課程整合 [!DNL Campaign] Standard與 [!DNL Analytics] &#x200B;](./tutorials/campaign-analytics/campaign-analytics-trigger.md)
+      + [使用Triggers教學課程整合 [!DNL Campaign] Standard與 [!DNL Analytics] ](./tutorials/campaign-analytics/campaign-analytics-trigger.md)
    + [!DNL Campaign]與Experience Manager {#campaign-experience-manager}
       + [[!DNL Campaign] v8和Experience Manager](./tutorials/campaign-aem/campaign-v8-with-experience-manager.md)
    + [!DNL Campaign]與Real-Time CDP{#campaign-real-time-cdp}
@@ -110,9 +110,10 @@ ht-degree: 26%
          + [Adobe GenStudio中的檢閱和核准](./tutorials/aem-genstudio-for-performance-marketing/use-case-1.md)
          + [使用Adobe GenStudio建立變體](./tutorials/aem-genstudio-for-performance-marketing/use-case-2.md)
    + Experience Manager和Target{#experience-manager-target}
-      + [概觀](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-learn/cloud-service/personalization/overview)
-      + [設定](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-learn/cloud-service/personalization/setup/integrate-adobe-target)
+      + [概觀](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/personalization/overview)
+      + [即時示範](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/personalization/live-demo)
+      + [設定](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/personalization/setup/integrate-adobe-target)
       + 使用案例{#use-cases}
-         + [實驗（A/B測試）](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-learn/cloud-service/personalization/use-cases/experimentation)
+         + [實驗（A/B測試）](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/personalization/use-cases/experimentation)
          + [行為定向](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-learn/cloud-service/personalization/use-cases/behavioral-targeting)
-         + [已知使用者Personalization](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-learn/cloud-service/personalization/use-cases/known-user-personalization)
+         + [已知使用者Personalization](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/personalization/use-cases/known-user-personalization)
