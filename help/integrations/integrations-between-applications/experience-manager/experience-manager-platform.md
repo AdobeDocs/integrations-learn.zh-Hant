@@ -1,18 +1,18 @@
 ---
-title: 將AEM與體驗整合 [!DNL Platform]
-description: 將Adobe Experience Manager (AEM)與Experience [!DNL Platform] 整合，以最大化您資料的價值。
-solution: Experience Manager, Experience Manager Sites, Experience [!DNL Platform]
+title: 將AEM與Experience [!DNL Platform]整合
+description: 將Adobe Experience Manager (AEM)與Experience [!DNL Platform] 整合，以發揮資料的最大價值。
+solution: Experience Manager, Experience Manager Sites, Experience Platform
 feature: Integrations
 topic: Integrations
-role: Leader, Architect, Admin, Developer
+role: Leader, Admin, Developer
 level: Beginner
 kt: null
 thumbnail: experience-platform-experience-manager.png
 badgeIntegration: label="整合" type="positive"
 last-substantial-update: 2023-07-31T00:00:00Z
-source-git-commit: 509b227f360718e81fb19d3a4d30aebf9de49e5a
+source-git-commit: 2d898df7e49f6a14c162973145592f0d3fdd1646
 workflow-type: tm+mt
-source-wordcount: '24'
+source-wordcount: '23'
 ht-degree: 4%
 
 ---

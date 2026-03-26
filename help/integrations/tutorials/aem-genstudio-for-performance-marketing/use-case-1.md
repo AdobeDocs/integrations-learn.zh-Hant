@@ -15,9 +15,9 @@ index: true
 hidefromtoc: false
 badgeIntegration: label="AEM資產與GenStudio for Performance Marketing" type="positive"
 exl-id: 635c1a73-4abe-4e22-8755-f3fbc8f0b46e
-source-git-commit: 20e988c078ee926bbcf79f581ad9a60d5c478a83
+source-git-commit: 7fffc0b887164645ab16fe94d2f82a657fcc9d64
 workflow-type: tm+mt
-source-wordcount: '91'
+source-wordcount: '92'
 ht-degree: 0%
 
 ---
@@ -28,4 +28,4 @@ ht-degree: 0%
 
 瞭解如何在AEM Assets as a Cloud Service中上傳、稽核及核准資產，以簡化您的內容工作流程。 在核准後，這些資產會順暢地整合到GenStudio for Performance Marketing中，以確保您的行銷活動可以輕鬆存取品牌核准的材料。
 
->[!VIDEO](https://video.tv.adobe.com/v/3439299/?learn=on&enablevpops&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/3439265/?learn=on&enablevpops)

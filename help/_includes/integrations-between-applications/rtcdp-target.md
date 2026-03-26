@@ -1,13 +1,13 @@
 ---
-source-git-commit: 94b074c17e976e4f4acbb1ff41aacfc9bf74744c
+source-git-commit: 7fffc0b887164645ab16fe94d2f82a657fcc9d64
 workflow-type: tm+mt
-source-wordcount: '129'
+source-wordcount: '138'
 ht-degree: 2%
 
 ---
 
 
-# Adobe即時客戶資料[!DNL Platform]與Adobe[!DNL Target]整合
+# Adobe Real-Time Customer Data [!DNL Platform]與Adobe [!DNL Target]整合
 
 {{real-time-cdp-description}}
 
@@ -16,7 +16,7 @@ ht-degree: 2%
 將Real-Time CDP與[!DNL Target]整合可讓您使用已知的客戶資料個人化內容。 此外，Real-Time CDP的資料控管和同意功能可協助確保您負責任地使用已知的客戶資料，並遵守法律、合約和法規限制，以及尊重客戶偏好設定。 整合Real-Time CDP和[!DNL Target]的主要優點包括：
 
 + 在您的網站和行動應用程式上&#x200B;**提供個人化體驗**。
-+ **從Adobe Real-Time CDP將區段和設定檔屬性**&#x200B;共用至Adobe[!DNL Target]。
++ **從Adobe Real-Time CDP將區段和設定檔屬性**&#x200B;共用至Adobe [!DNL Target]。
 + **[!DNL Target]內容**&#x200B;至區段並顯示屬性值。
 
 <table>
@@ -43,7 +43,8 @@ ht-degree: 2%
             </ul>
         </td>
     </tr>
-    <!--<tr>
+    <!--
+    <tr>
         <td>Real-Time CDP and [!DNL Target]</a></td>
         <td><a href="../../integrations/tutorials/rtcdp-target/mobile-sdk-and-target-destination.md" target="_blank" rel="noreferrer">Mobile SDK and [!DNL Target] destination</td>
         <td>
@@ -70,6 +71,7 @@ ht-degree: 2%
                 <li>Supports next-session personalization.</li>
             </ul>
         </td>
-    </tr>    -->
+    </tr>    
+    -->
     </tbody>
 </table>
