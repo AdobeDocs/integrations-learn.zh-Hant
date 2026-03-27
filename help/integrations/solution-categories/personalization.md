@@ -2,9 +2,9 @@
 title: 大規模個人化的應用程式整合
 description: 將個人化體驗融入每個時刻。
 exl-id: 6d18813d-950c-40ae-8d5b-80bf389358fc
-source-git-commit: 132c892723d29d415d07093ef8514ff8c9b7b1db
+source-git-commit: fc60646e49dcd32f833669e05e82397386eb68d9
 workflow-type: tm+mt
-source-wordcount: '533'
+source-wordcount: '610'
 ht-degree: 1%
 
 ---
@@ -175,7 +175,7 @@ ht-degree: 1%
       </td>
     </tr>
     <tr>
-      <td rowspan="2"><strong>個人化網站體驗</strong></td>
+      <td rowspan="3"><strong>個人化網站體驗</strong></td>
       <td>
         有效率地自訂單頁應用程式(SPA)體驗
         搭配Adobe [!DNL Target]使用AEM Headless。
@@ -219,6 +219,29 @@ ht-degree: 1%
         >
       </td>
     </tr>
+    <tr>
+      <td>
+        AEM與Adobe [!DNL Target]整合的實用秘訣
+      </td>
+      <td>
+        <ul style="margin-top: 0;">
+          <li>使用體驗片段進行可擴充的Personalization</li>
+          <li>將ContextHub區段映象至目標對象</li>
+          <li>讓體驗片段準備好目標</li>
+          <li>將Target驗證建置至Launch工作流程</li>
+          <li>結合Dynamic Media + Target for Visual Personalization</li>
+          <li>Edge Delivery作者</li>
+        </ul>
+      </td>
+      <td>
+        <a
+          href="https://experienceleague.adobe.com/en/perspectives/personalization-that-scales-practical-tips-for-aem-adobe-target-integration"
+          target="_blank"
+          rel="noopener noreferrer"
+          >AEM Sites和[!DNL Target]</a
+        >
+      </td>
+    </tr>    
     <tr>
       <td><strong>個人化數位體驗</strong></td>
       <td>
