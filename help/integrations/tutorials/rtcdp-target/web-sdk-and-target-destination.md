@@ -7,11 +7,10 @@ topic: Integrations
 role: Leader, Admin, Developer
 level: Beginner
 index: true
-hidefromtoc: true
 last-substantial-update: 2023-07-25T00:00:00Z
 badgeIntegration: label="整合" type="positive"
 exl-id: 1b589687-eebc-457f-b1fc-72768cb79006
-source-git-commit: 7fffc0b887164645ab16fe94d2f82a657fcc9d64
+source-git-commit: ae78e4a9f706ce315a87715302f561ccedc858e9
 workflow-type: tm+mt
 source-wordcount: '131'
 ht-degree: 0%
@@ -31,22 +30,22 @@ ht-degree: 0%
 
 瞭解如何在Real-Time Customer Data [!DNL Platform]中設定Adobe [!DNL Target]目的地。
 
->[!VIDEO](https://video.tv.adobe.com/v/3449804/?captions=chi_hant&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3418799/?learn=on)
 
 ## 為Adobe [!DNL Target]啟用區段和設定檔屬性
 
 瞭解如何從Adobe Real-Time Customer Data [!DNL Platform]向Adobe [!DNL Target]啟用區段和設定檔屬性。
 
->[!VIDEO](https://video.tv.adobe.com/v/3447366/?captions=chi_hant&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3419036/?learn=on)
 
 ## 在Adobe [!DNL Target]中使用即時CDP區段
 
 瞭解如何在Adobe [!DNL Target]中使用即時客戶資料[!DNL Platform]區段。
 
->[!VIDEO](https://video.tv.adobe.com/v/3446838/?captions=chi_hant&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3419149/?learn=on)
 
 ## 在Adobe [!DNL Target]中使用Real-time CDP設定檔屬性
 
 瞭解如何在Adobe [!DNL Target]中使用Adobe Real-Time Customer Data [!DNL Platform]設定檔屬性。
 
->[!VIDEO](https://video.tv.adobe.com/v/3451904/?captions=chi_hant&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3419318/?learn=on)
