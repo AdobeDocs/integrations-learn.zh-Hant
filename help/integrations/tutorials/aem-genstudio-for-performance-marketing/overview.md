@@ -43,11 +43,11 @@ AEM Assets與GenStudio for Performance Marketing之間的整合需要您從根�
 <!--
 CARDS 
 
-* https://experienceleague.adobe.com/en/docs/integrations-learn/experience-cloud/tutorials/genstudio-for-performance-marketing-experience-manager/setup
+* https://experienceleague.adobe.com/zh-hant/docs/integrations-learn/experience-cloud/tutorials/genstudio-for-performance-marketing-experience-manager/setup
     {title=Set up GenStudio for Performance Marketing and AEM Assets}
     {cta=Learn}
-    {image=https://experienceleague.adobe.com/en/docs/integrations-learn/experience-cloud/solution-categories/media_1f4cfd2b3f7e2e83862f8a00ce6fc4cd4b21650d1.png?width=2000&format=webply&optimize=medium}
-* https://experienceleague.adobe.com/en/docs/integrations-learn/experience-cloud/tutorials/genstudio-for-performance-marketing-experience-manager/integration-walkthrough
+    {image=https://experienceleague.adobe.com/zh-hant/docs/integrations-learn/experience-cloud/solution-categories/media_1f4cfd2b3f7e2e83862f8a00ce6fc4cd4b21650d1.png?width=2000&format=webply&optimize=medium}
+* https://experienceleague.adobe.com/zh-hant/docs/integrations-learn/experience-cloud/tutorials/genstudio-for-performance-marketing-experience-manager/integration-walkthrough
     {title=Get started with GenStudio for Performance Marketing and AEM Assets}
     {cta=Learn}
 
@@ -58,8 +58,8 @@ CARDS
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/integrations-learn/experience-cloud/tutorials/genstudio-for-performance-marketing-experience-manager/setup" title="設定GenStudio for Performance Marketing和AEM Assets" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/integrations-learn/experience-cloud/solution-categories/media_1f4cfd2b3f7e2e83862f8a00ce6fc4cd4b21650d1.png?width=400&format=webply&optimize=medium" alt="設定GenStudio for Performance Marketing和AEM Assets"
+                    <a href="https://experienceleague.adobe.com/zh-hant/docs/integrations-learn/experience-cloud/tutorials/genstudio-for-performance-marketing-experience-manager/setup" title="設定GenStudio for Performance Marketing和AEM Assets" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/zh-hant/docs/integrations-learn/experience-cloud/solution-categories/media_1f4cfd2b3f7e2e83862f8a00ce6fc4cd4b21650d1.png?width=400&format=webply&optimize=medium" alt="設定GenStudio for Performance Marketing和AEM Assets"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -67,11 +67,11 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/integrations-learn/experience-cloud/tutorials/genstudio-for-performance-marketing-experience-manager/setup" target="_blank" rel="referrer" title="設定GenStudio for Performance Marketing和AEM Assets">設定GenStudio for Performance Marketing和AEM Assets</a>
+                        <a href="https://experienceleague.adobe.com/zh-hant/docs/integrations-learn/experience-cloud/tutorials/genstudio-for-performance-marketing-experience-manager/setup" target="_blank" rel="referrer" title="設定GenStudio for Performance Marketing和AEM Assets">設定GenStudio for Performance Marketing和AEM Assets</a>
                     </p>
                     <p class="is-size-6">使用GenStudio for Performance Marketing和AEM Assets設定Adobe GenStudio以簡化內容建立並確保品牌一致性。</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/integrations-learn/experience-cloud/tutorials/genstudio-for-performance-marketing-experience-manager/setup" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/zh-hant/docs/integrations-learn/experience-cloud/tutorials/genstudio-for-performance-marketing-experience-manager/setup" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">學習</span>
                 </a>
             </div>
@@ -81,7 +81,7 @@ CARDS
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/integrations-learn/experience-cloud/tutorials/genstudio-for-performance-marketing-experience-manager/integration-walkthrough" title="開始使用GenStudio for Performance Marketing和AEM Assets" target="_blank" rel="referrer">
+                    <a href="https://experienceleague.adobe.com/zh-hant/docs/integrations-learn/experience-cloud/tutorials/genstudio-for-performance-marketing-experience-manager/integration-walkthrough" title="開始使用GenStudio for Performance Marketing和AEM Assets" target="_blank" rel="referrer">
                         <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3439264/?format=jpeg&nocache=1739560516243" alt="開始使用GenStudio for Performance Marketing和AEM Assets"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
@@ -90,11 +90,11 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/integrations-learn/experience-cloud/tutorials/genstudio-for-performance-marketing-experience-manager/integration-walkthrough" target="_blank" rel="referrer" title="開始使用GenStudio for Performance Marketing和AEM Assets">開始使用GenStudio for Performance Marketing和AEM Assets</a>
+                        <a href="https://experienceleague.adobe.com/zh-hant/docs/integrations-learn/experience-cloud/tutorials/genstudio-for-performance-marketing-experience-manager/integration-walkthrough" target="_blank" rel="referrer" title="開始使用GenStudio for Performance Marketing和AEM Assets">開始使用GenStudio for Performance Marketing和AEM Assets</a>
                     </p>
                     <p class="is-size-6">瞭解如何使用AEM Assets和GenStudio for Performance Marketing，包括在AEM中上傳和核准資產，以及在GenStudio for Performance Marketing中使用資產。</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/integrations-learn/experience-cloud/tutorials/genstudio-for-performance-marketing-experience-manager/integration-walkthrough" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/zh-hant/docs/integrations-learn/experience-cloud/tutorials/genstudio-for-performance-marketing-experience-manager/integration-walkthrough" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">學習</span>
                 </a>
             </div>
@@ -110,8 +110,8 @@ CARDS
 <!--
 CARDS 
 
-* https://experienceleague.adobe.com/en/docs/integrations-learn/experience-cloud/tutorials/genstudio-for-performance-marketing-experience-manager/use-cases/use-case-1
-* https://experienceleague.adobe.com/en/docs/integrations-learn/experience-cloud/tutorials/genstudio-for-performance-marketing-experience-manager/use-cases/use-case-2
+* https://experienceleague.adobe.com/zh-hant/docs/integrations-learn/experience-cloud/tutorials/genstudio-for-performance-marketing-experience-manager/use-cases/use-case-1
+* https://experienceleague.adobe.com/zh-hant/docs/integrations-learn/experience-cloud/tutorials/genstudio-for-performance-marketing-experience-manager/use-cases/use-case-2
 
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
@@ -120,7 +120,7 @@ CARDS
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/integrations-learn/experience-cloud/tutorials/genstudio-for-performance-marketing-experience-manager/use-cases/use-case-1" title="Adobe GenStudio中的輕量級檢閱和核准" target="_blank" rel="referrer">
+                    <a href="https://experienceleague.adobe.com/zh-hant/docs/integrations-learn/experience-cloud/tutorials/genstudio-for-performance-marketing-experience-manager/use-cases/use-case-1" title="Adobe GenStudio中的輕量級檢閱和核准" target="_blank" rel="referrer">
                         <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3439265/?format=jpeg&nocache=1739560516635" alt="Adobe GenStudio中的輕量級檢閱和核准"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
@@ -129,11 +129,11 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/integrations-learn/experience-cloud/tutorials/genstudio-for-performance-marketing-experience-manager/use-cases/use-case-1" target="_blank" rel="referrer" title="Adobe GenStudio中的輕量級檢閱和核准">Adobe GenStudio中的輕量型稽核與核准</a>
+                        <a href="https://experienceleague.adobe.com/zh-hant/docs/integrations-learn/experience-cloud/tutorials/genstudio-for-performance-marketing-experience-manager/use-cases/use-case-1" target="_blank" rel="referrer" title="Adobe GenStudio中的輕量級檢閱和核准">Adobe GenStudio中的輕量型稽核與核准</a>
                     </p>
                     <p class="is-size-6">探索在AEM Assets中上傳、檢閱和核准資產的使用案例，好讓這些資產可用於GenStudio for Performance Marketing。</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/integrations-learn/experience-cloud/tutorials/genstudio-for-performance-marketing-experience-manager/use-cases/use-case-1" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/zh-hant/docs/integrations-learn/experience-cloud/tutorials/genstudio-for-performance-marketing-experience-manager/use-cases/use-case-1" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">觀看</span>
                 </a>
             </div>
@@ -143,7 +143,7 @@ CARDS
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/integrations-learn/experience-cloud/tutorials/genstudio-for-performance-marketing-experience-manager/use-cases/use-case-2" title="使用Adobe GenStudio建立變體" target="_blank" rel="referrer">
+                    <a href="https://experienceleague.adobe.com/zh-hant/docs/integrations-learn/experience-cloud/tutorials/genstudio-for-performance-marketing-experience-manager/use-cases/use-case-2" title="使用Adobe GenStudio建立變體" target="_blank" rel="referrer">
                         <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3439266/?format=jpeg&nocache=1739560516573" alt="使用Adobe GenStudio建立變體"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
@@ -152,11 +152,11 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/integrations-learn/experience-cloud/tutorials/genstudio-for-performance-marketing-experience-manager/use-cases/use-case-2" target="_blank" rel="referrer" title="使用Adobe GenStudio建立變體">使用Adobe GenStudio建立變體</a>
+                        <a href="https://experienceleague.adobe.com/zh-hant/docs/integrations-learn/experience-cloud/tutorials/genstudio-for-performance-marketing-experience-manager/use-cases/use-case-2" target="_blank" rel="referrer" title="使用Adobe GenStudio建立變體">使用Adobe GenStudio建立變體</a>
                     </p>
                     <p class="is-size-6">探索使用AEM Assets和Adobe Express建立資產變體的使用案例，以用於電子郵件和用來促銷相同行銷體驗的Meta廣告。</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/integrations-learn/experience-cloud/tutorials/genstudio-for-performance-marketing-experience-manager/use-cases/use-case-2" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/zh-hant/docs/integrations-learn/experience-cloud/tutorials/genstudio-for-performance-marketing-experience-manager/use-cases/use-case-2" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">觀看</span>
                 </a>
             </div>
