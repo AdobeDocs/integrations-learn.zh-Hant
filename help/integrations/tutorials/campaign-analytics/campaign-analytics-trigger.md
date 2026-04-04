@@ -31,22 +31,22 @@ ht-degree: 46%
 >
 > Launch現在是Adobe Experience [!DNL Platform]的標籤功能。 您可以在&#x200B;**Adobe Experience [!DNL Platform]資料集合**&#x200B;下找到它。
 
->[!VIDEO](https://video.tv.adobe.com/v/332908?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3454027?captions=chi_hant&quality=12&learn=on)
 
 ## 在 Experience Cloud 中建立觸發因子
 
 了解如何在 Experience Cloud 中設定觸發程序。
 
->[!VIDEO](https://video.tv.adobe.com/v/332624?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3446149?captions=chi_hant&quality=12&learn=on)
 
 ## 在[!DNL Campaign] Standard中建立觸發程式
 
 瞭解如何在[!DNL Campaign] Standard中建立觸發程式事件。
 
->[!VIDEO](https://video.tv.adobe.com/v/332625?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3446420?captions=chi_hant&quality=12&learn=on)
 
 ## 使用即時事件資料設定異動訊息
 
 了解如何使用來自觸發程序的即時事件資料設定異動訊息。
 
->[!VIDEO](https://video.tv.adobe.com/v/332602?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3450213?captions=chi_hant&quality=12&learn=on)
