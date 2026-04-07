@@ -11,13 +11,12 @@ doc-type: Article
 duration: 416
 last-substantial-update: 2024-11-19T00:00:00Z
 index: true
-hidefromtoc: false
 jira: KT-16484
 exl-id: b63cfe6e-a530-4ca4-9e8e-16c54478054f
-source-git-commit: 2d898df7e49f6a14c162973145592f0d3fdd1646
+source-git-commit: ae78e4a9f706ce315a87715302f561ccedc858e9
 workflow-type: tm+mt
 source-wordcount: '372'
-ht-degree: 16%
+ht-degree: 15%
 
 ---
 
@@ -69,7 +68,7 @@ CARDS
                     <p class="is-size-6">透過這精選旨在提升產品知識的影片播放清單，瞭解如何在Assets檢視中導覽AEM Assets as a Cloud Service。</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/zh-hant/docs/experience-manager-learn/assets/video-playlists/assets-view" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">深入了解</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">進一步瞭解</span>
                 </a>
             </div>
         </div>
@@ -115,7 +114,7 @@ CARDS
                     <p class="is-size-6">了解如何開始使用 GenStudio for Performance Marketing 來產生符合品牌形象的新行銷內容。</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/zh-hant/docs/genstudio-for-performance-marketing/user-guide/get-started" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">深入了解</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">進一步瞭解</span>
                 </a>
             </div>
         </div>

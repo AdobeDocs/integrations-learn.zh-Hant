@@ -3,10 +3,10 @@ user-guide-title: Experience Cloud 整合教學課程
 breadcrumb-title: Experience Cloud 整合
 user-guide-description: 整合學習。
 mini-toc-levels: 1
-source-git-commit: a5f6fdd10569618e495750e1bcd4cf604cbf142c
+source-git-commit: ae78e4a9f706ce315a87715302f561ccedc858e9
 workflow-type: tm+mt
-source-wordcount: '145'
-ht-degree: 25%
+source-wordcount: '226'
+ht-degree: 32%
 
 ---
 
@@ -56,15 +56,15 @@ ht-degree: 25%
       + [[!DNL Analytics]](./integrations-between-applications/experience-manager/experience-manager-analytics.md)
       + [[!DNL Campaign]](./integrations-between-applications/experience-manager/experience-manager-campaign.md)
       + [[!DNL Commerce]](./integrations-between-applications/experience-manager/experience-manager-commerce.md)
-      + [GenStudio for Performance Marketing](./integrations-between-applications/experience-manager/experience-manager-genstudio-for-performance-marketing.md)
-      + [[!DNL Journey Optimizer]](./integrations-between-applications/experience-manager/experience-manager-journey-optimizer.md)
+      + {hide-from-toc}[GenStudio for Performance Marketing](./integrations-between-applications/experience-manager/experience-manager-genstudio-for-performance-marketing.md)
+      + {hide-from-toc}[[!DNL Journey Optimizer]](./integrations-between-applications/experience-manager/experience-manager-journey-optimizer.md)
       + [[!DNL Marketo Engage]](./integrations-between-applications/experience-manager/experience-manager-marketo.md)
       + [[!DNL Target]](./integrations-between-applications/experience-manager/experience-manager-target.md)
       + [[!DNL Workfront]](./integrations-between-applications/experience-manager/experience-manager-workfront.md)
    + 體驗[!DNL Platform]{#experience-platform}
       + [概觀](./integrations-between-applications/experience-platform/platform.md)
    + Journey Optimizer{#journey-optimizer}
-      + [[!DNL Experience Manager]](./integrations-between-applications/journey-optimizer/journey-optimizer-experience-manager.md)
+      + {hide-from-toc}[[!DNL Experience Manager]](./integrations-between-applications/journey-optimizer/journey-optimizer-experience-manager.md)
    + [!DNL Marketo Engage]{#marketo}
       + [[!DNL Experience Manager]](./integrations-between-applications/marketo/marketo-experience-manager.md)
    + [!DNL Real-Time CDP]{#rtcdp}
@@ -83,25 +83,25 @@ ht-degree: 25%
       + [[!DNL Experience Manager]](./integrations-between-applications/workfront/workfront-experience-manager.md)
 + 教學課程{#tutorials}
    + [!DNL Analytics] 和 [!DNL Commerce]{#analytics-commerce}
-      + [[!DNL Analytics]和 [!DNL Commerce]](./tutorials/analytics-commerce/analytics-commerce.md)
+      + {hide-from-toc}[[!DNL Analytics] 和 [!DNL Commerce]](./tutorials/analytics-commerce/analytics-commerce.md)
    + [!DNL Analytics]與CJA{#analytics-cja}
-      + [[!DNL Analytics]與CJA](./tutorials/analytics-cja/experience-platform-edge.md)
-      + [[!DNL Analytics]與CJA](./tutorials/analytics-cja/experience-platform-source-connector.md)
+      + {hide-from-toc}[[!DNL Analytics] 和CJA](./tutorials/analytics-cja/experience-platform-edge.md)
+      + {hide-from-toc}[[!DNL Analytics] 和CJA](./tutorials/analytics-cja/experience-platform-source-connector.md)
    + [!DNL Analytics]與Real-Time CDP{#analytics-real-time-cdp}
-      + [[!DNL Analytics]與Real-Time CDP](./tutorials/analytics-rtcdp/experience-platform-edge.md)
-      + [[!DNL Analytics]與Real-Time CDP](./tutorials/analytics-rtcdp/experience-platform-source-connector.md)
+      + {hide-from-toc}[[!DNL Analytics] 和Real-Time CDP](./tutorials/analytics-rtcdp/experience-platform-edge.md)
+      + {hide-from-toc}[[!DNL Analytics] 和Real-Time CDP](./tutorials/analytics-rtcdp/experience-platform-source-connector.md)
    + [!DNL Analytics] 和 [!DNL Target]{#analytics-target}
-      + [[!DNL Analytics]和 [!DNL Target]](./tutorials/analytics-target/analytics-target.md)
+      + {hide-from-toc}[[!DNL Analytics] 和 [!DNL Target]](./tutorials/analytics-target/analytics-target.md)
    + [!DNL Campaign] 和 [!DNL Analytics]{#campaign-analytics}
-      + [使用Triggers教學課程整合 [!DNL Campaign] Standard與 [!DNL Analytics] &#x200B;](./tutorials/campaign-analytics/campaign-analytics-trigger.md)
+      + {hide-from-toc} [Integrate [!DNL Campaign] Standard with [!DNL Analytics] using Triggers tutorial](./tutorials/campaign-analytics/campaign-analytics-trigger.md)
    + [!DNL Campaign]與Experience Manager {#campaign-experience-manager}
-      + [[!DNL Campaign] v8和Experience Manager](./tutorials/campaign-aem/campaign-v8-with-experience-manager.md)
+      + {hide-from-toc}[[!DNL Campaign] v8和Experience Manager](./tutorials/campaign-aem/campaign-v8-with-experience-manager.md)
    + [!DNL Campaign]與Real-Time CDP{#campaign-real-time-cdp}
-      + [[!DNL Campaign] v8和Real-Time CDP](./tutorials/campaign-rtcdp/campaign-v8-real-time-cdp.md)
+      + {hide-from-toc}[[!DNL Campaign] v8和Real-Time CDP](./tutorials/campaign-rtcdp/campaign-v8-real-time-cdp.md)
    + Real-Team CDP{#rtcdp-target}
-      + [Real-Time CDP和 [!DNL Target]](./tutorials/rtcdp-target/web-sdk-and-target-destination.md)
-      + [Real-Time CDP和 [!DNL Target]](./tutorials/rtcdp-target/mobile-sdk-and-target-destination.md)
-      + [Real-Time CDP和 [!DNL Target]](./tutorials/rtcdp-target/atjs-and-target-destination.md)
+      + {hide-from-toc}[Real-Time CDP和 [!DNL Target]](./tutorials/rtcdp-target/web-sdk-and-target-destination.md)
+      + {hide-from-toc}[Real-Time CDP和 [!DNL Target]](./tutorials/rtcdp-target/mobile-sdk-and-target-destination.md)
+      + {hide-from-toc}[Real-Time CDP和 [!DNL Target]](./tutorials/rtcdp-target/atjs-and-target-destination.md)
    + GenStudio for Performance Marketing和Experience Manager {#genstudio-for-performance-marketing-experience-manager}
       + [概觀](./tutorials/aem-genstudio-for-performance-marketing/overview.md)
       + [設定](./tutorials/aem-genstudio-for-performance-marketing/setup.md)
@@ -115,5 +115,5 @@ ht-degree: 25%
       + [設定](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-learn/cloud-service/personalization/setup/integrate-adobe-target)
       + 使用案例{#use-cases}
          + [實驗（A/B測試）](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-learn/cloud-service/personalization/use-cases/experimentation)
-         + [行為定向](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-learn/cloud-service/personalization/use-cases/behavioral-targeting)
+         + [行為目標定位](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-learn/cloud-service/personalization/use-cases/behavioral-targeting)
          + [已知使用者Personalization](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-learn/cloud-service/personalization/use-cases/known-user-personalization)
