@@ -2,9 +2,17 @@
 title: B2B行銷的應用程式整合
 description: 根據統一的客戶設定檔和資料，跨管道大規模協調銷售機會管理、ABM和歸因。
 exl-id: ed4fb791-7883-4f42-80a0-12ab4e3c80ab
-source-git-commit: 509b227f360718e81fb19d3a4d30aebf9de49e5a
+TQID: https://experienceleague.adobe.com/QzQkgpR9mqA5QUIa4pZiBBXnWYCafxne6bGosQhyeGA
+product_v2:
+  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+feature_v2:
+  - id: fc7979f3-56c3-43ca-9784-f1ea3dc69c4b
+topic_v2:
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+  - id: fd2e3797-f2ea-4b36-a9af-52acf5e90513
+source-git-commit: 2a324011b3d235db3d4642c2797c4fa107267e6a
 workflow-type: tm+mt
-source-wordcount: '217'
+source-wordcount: 226
 ht-degree: 2%
 
 ---
@@ -18,7 +26,7 @@ ht-degree: 2%
 
 <thead>
     <tr>
-      <th>使用實例</th>
+      <th>使用案例</th>
       <th>說明</th>
       <th>範例</th>
       <th>應用程式</th>
@@ -35,7 +43,7 @@ ht-degree: 2%
       <li>針對網頁和行動裝置設計並發佈動態和互動式表單，以發掘潛在客戶。</li>
     </ul>
   </td>
-  <td><a href= "../integrations-between-applications/marketo/marketo-experience-manager.md"> Marketo Engage與Forms</a></td>
+  <td><a href= "../integrations-between-applications/marketo/marketo-experience-manager.md"> Marketo Engage和Forms</a></td>
 </tr>
 
 
