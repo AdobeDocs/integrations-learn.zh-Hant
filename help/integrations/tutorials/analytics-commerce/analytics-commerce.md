@@ -13,12 +13,30 @@ last-substantial-update: 2023-04-11T00:00:00.000Z
 badgeIntegration: label="整合" type="positive"
 exl-id: ef50b6b3-1e2b-4fe9-98d5-555bc14ae8d6
 TQID: https://experienceleague.adobe.com/yG4EZoiPmm3-HnjD6lZCyBDpaeseNuGb5wRhnCWqRuk
-product_v2: id: e55547f1-a1ff-40c6-8978-026e40ab7fa4id: eadea719-cf89-469b-a6fd-a236a7138047
-feature_v2: id: c153fd90-23e1-4614-81d3-3cc7571227f7id: c32adafa-ed01-4b31-997e-2413013911b0id: dac87252-6066-4d6e-a9d2-f6d84c323de7id: eb9732ab-8232-4b21-bc4c-89de86dbe4d7
-subfeature_v2: id: dcae653e-62c6-4cc8-84e6-ee110b848296id: e318d41c-1d01-4c1e-9b18-1f61d435ceeeid: e38cbddc-1633-4cd5-bed5-9f289f2a6029id: e6c28e30-8689-4bf4-8fa8-561343d308a9id: ef60b66e-5984-4336-ba72-6d978b1b6f87id: f236e2a1-90d4-477d-92e1-5996b5e92bff
-role_v2: id: c66ffd68-0f65-42bb-aa23-b4020f12e0bdid: f8a45b24-4be7-4f1b-909b-60d06b483a20id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
-level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-topic_v2: id: d3cdead0-685a-4489-9250-4bb709942f66id: ebde5b41-29c9-4f5e-9ef6-1197e85409e3
+product_v2:
+  - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+  - id: eadea719-cf89-469b-a6fd-a236a7138047
+feature_v2:
+  - id: c153fd90-23e1-4614-81d3-3cc7571227f7
+  - id: c32adafa-ed01-4b31-997e-2413013911b0
+  - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
+  - id: eb9732ab-8232-4b21-bc4c-89de86dbe4d7
+subfeature_v2:
+  - id: dcae653e-62c6-4cc8-84e6-ee110b848296
+  - id: e318d41c-1d01-4c1e-9b18-1f61d435ceee
+  - id: e38cbddc-1633-4cd5-bed5-9f289f2a6029
+  - id: e6c28e30-8689-4bf4-8fa8-561343d308a9
+  - id: ef60b66e-5984-4336-ba72-6d978b1b6f87
+  - id: f236e2a1-90d4-477d-92e1-5996b5e92bff
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+  - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: d3cdead0-685a-4489-9250-4bb709942f66
+  - id: ebde5b41-29c9-4f5e-9ef6-1197e85409e3
 source-git-commit: 2a324011b3d235db3d4642c2797c4fa107267e6a
 workflow-type: tm+mt
 source-wordcount: 932
@@ -61,7 +79,7 @@ ht-degree: 2%
 
 1. 使用[!DNL Commerce]特定欄位群組建立或更新您的XDM結構描述。 如需如何建立結構描述的詳細資訊，請參閱[「建立結構描述」](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/create-schemas.html)教學課程。
    * 您將需要從以下資料流步驟中的選項中選取此結構描述。 若要建立結構描述，請檢視&#x200B;**資料管理**&#x200B;下的左欄，並找到&#x200B;**結構描述**。 現在在介面的右上方，按一下&#x200B;**建立結構描述**。 選取XDM ExperienceEvent。
-   * 建立新結構描述後，您將新增[!DNL Commerce]欄位群組。 在UI左側，尋找[欄位群組]，然後按一下[新增] ****
+   * 建立新結構描述後，您將新增[!DNL Commerce]欄位群組。 在UI左側，尋找[欄位群組]，然後按一下[新增] **&#x200B;**
       * 在搜尋中，您可以輸入`ExperienceEvent Commerce`進行篩選
       * 核取方塊以選取&#x200B;**Adobe [!DNL Analytics] ExperienceEvent[!DNL Commerce]**
       * 然後按一下右上方的&#x200B;**新增欄位群組**&#x200B;以儲存並繼續
@@ -79,7 +97,7 @@ ht-degree: 2%
    * 提供名稱和說明（選用）。
    * 尋找並選取您在上一步中建立/識別的結構描述。
    * 新增任何需要的進階選項。 如需進階選項的詳細資訊，請瀏覽[檔案](https://experienceleague.adobe.com/docs/experience-platform/datastreams/configure.html)。
-   * 按一下[儲存]以繼續。****
+   * 按一下[儲存]以繼續。**&#x200B;**
    * 按一下&#x200B;**新增服務**，然後在下拉式欄位中選擇&#x200B;**Adobe[!DNL Analytics]**。
    * 按一下&#x200B;**新增報表套裝**，然後輸入您在上一步中建立/識別的報表套裝ID。 如果您希望資料流入多個報表套裝，可以新增多個報表套裝。
    * 或者，如果您在上一步中建立了資料集，請從下拉式欄位中選擇&#x200B;**Adobe Experience[!DNL Platform]**，再按一下&#x200B;**新增服務**。 在「事件資料集」欄位中，選取您先前建立的資料集。
