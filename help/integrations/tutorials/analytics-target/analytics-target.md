@@ -9,12 +9,19 @@ level: Beginner
 index: true
 kt: null
 thumbnail: null
-last-substantial-update: 2023-04-11T00:00:00Z
+last-substantial-update: 2023-04-11T00:00:00.000Z
 badgeIntegration: label="整合" type="positive"
 exl-id: 4ab6c61f-f14e-408a-a700-53f7b3d0600a
-source-git-commit: ae78e4a9f706ce315a87715302f561ccedc858e9
+TQID: https://experienceleague.adobe.com/FrQDFw8oAkdz4NUMi9c9fXfyxqHod4-c-oL-GTb2a4Y
+product_v2: id: e43347a8-f2c5-4aa4-8623-6f13875d7e3aid: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+feature_v2: id: adee20bd-51f4-461d-b9db-d215f8756eebid: b069d60e-95f3-44d6-95a8-ddc862a4bc38id: b3f03848-ae12-48b2-8aab-cad18567eb32id: c153fd90-23e1-4614-81d3-3cc7571227f7id: c93393a4-e558-47e1-992e-c91ed4d480ceid: eb9732ab-8232-4b21-bc4c-89de86dbe4d7id: f7c7de77-382f-4f48-8b36-61a170f06d3did: fd307ce7-56f5-4ee3-af68-a7833ff6e85e
+subfeature_v2: id: b3a8b8a0-1cc2-48a8-ac82-ffd9c66ccab4id: ce57bdb9-8bbb-4c80-b9ab-e52598027bb9id: dcae653e-62c6-4cc8-84e6-ee110b848296id: df62f171-ac37-440f-8f0f-f41a72ebdd34id: e38cbddc-1633-4cd5-bed5-9f289f2a6029id: e6c28e30-8689-4bf4-8fa8-561343d308a9id: f1f1a2d4-0976-4881-b091-c2bb8de7ffacid: fd0ff162-b6d3-4a11-8aeb-e165a01c0f0a
+role_v2: id: c66ffd68-0f65-42bb-aa23-b4020f12e0bdid: f8a45b24-4be7-4f1b-909b-60d06b483a20id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: b5ce8718-c3af-4fdb-a1a9-fca32f83a87cid: bcc5edb5-84c3-4940-9f84-ed88b6c16274id: c2be0313-b3ae-45e0-b454-d20bf54b23f2id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1id: d3cdead0-685a-4489-9250-4bb709942f66id: e0eb8757-182f-49f3-94a4-1587d16f5094id: eb30f47f-d87a-400f-8f78-63ce7979ff56id: fd2e3797-f2ea-4b36-a9af-52acf5e90513
+source-git-commit: 2a324011b3d235db3d4642c2797c4fa107267e6a
 workflow-type: tm+mt
-source-wordcount: '437'
+source-wordcount: 437
 ht-degree: 9%
 
 ---
@@ -28,7 +35,7 @@ ht-degree: 9%
 
 >[!NOTE]
 >
->這些影片示範[!DNL Target] at.js和[!DNL Analytics] appMeasurement.js的實作和驗證。 請參閱[檔案](https://experienceleague.adobe.com/docs/target/using/integrate/a4t/a4timplementation.html?lang=zh-Hant)，瞭解這兩種工具中所需的程式庫版本。
+>這些影片示範[!DNL Target] at.js和[!DNL Analytics] appMeasurement.js的實作和驗證。 請參閱[檔案](https://experienceleague.adobe.com/docs/target/using/integrate/a4t/a4timplementation.html)，瞭解這兩種工具中所需的程式庫版本。
 
 ### 正在設定A4T （[!DNL Target]的[!DNL Analytics]）
 
@@ -72,7 +79,7 @@ ht-degree: 9%
 
 自動分配活動會從兩個或多個體驗中識別獲勝者，並自動重新分配更多流量給獲勝者，同時測試會繼續執行和學習。 自動分配的[!DNL Target] (A4T)整合[!DNL Analytics]可讓您在Adobe [!DNL Analytics]中檢視報表資料，甚至針對[!DNL Analytics]中定義的自訂事件或量度進行最佳化。
 
-<a href="https://experienceleague.adobe.com/docs/target-learn/tutorials/integrations/set-up-a4t-reports-in-analysis-workspace-for-auto-allocate-activities.html?lang=zh-Hant" class="spectrum-Button spectrum-Button--primary spectrum-Button--sizeM" target="_blank">
+<a href="https://experienceleague.adobe.com/docs/target-learn/tutorials/integrations/set-up-a4t-reports-in-analysis-workspace-for-auto-allocate-activities.html" class="spectrum-Button spectrum-Button--primary spectrum-Button--sizeM" target="_blank">
   <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">為自動分配活動設定A4T報告</span>
 </a>
 
@@ -82,6 +89,6 @@ ht-degree: 9%
 
 雖然Adobe [!DNL Analytics] Analysis Workspace提供豐富的分析功能，但由於實驗活動（手動A/B測試和自動分配）與個人化活動（自動[!DNL Target]）之間的差異，需要對[!DNL Target]面板的預設[!DNL Analytics]進行一些修改，才能正確解譯Auto-[!DNL Target]活動。
 
-<a href="https://experienceleague.adobe.com/docs/target-learn/tutorials/integrations/set-up-a4t-reports-in-analysis-workspace-for-auto-target-activities.html?lang=zh-Hant" class="spectrum-Button spectrum-Button--primary spectrum-Button--sizeM" target="_blank">
+<a href="https://experienceleague.adobe.com/docs/target-learn/tutorials/integrations/set-up-a4t-reports-in-analysis-workspace-for-auto-target-activities.html" class="spectrum-Button spectrum-Button--primary spectrum-Button--sizeM" target="_blank">
   <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">為自動[!DNL Target]活動設定A4T報告</span>
 </a>

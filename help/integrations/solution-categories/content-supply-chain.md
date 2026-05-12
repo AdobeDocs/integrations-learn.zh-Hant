@@ -1,15 +1,19 @@
 ---
-title: 內容供應鏈的應用程式整合
+title: 內容supply chain的應用程式整合
 description: 規劃、建立、個人化和發佈內容。
 exl-id: 00a15be9-612e-4210-8b2a-77274aa5713c
-source-git-commit: 03f958e6a2754b23a4a7d21ee87107a777f10406
+TQID: https://experienceleague.adobe.com/1OyoS3OaD8POo-SLGbdX2fApV4MokuigC3sM9xv2ea0
+product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+feature_v2: id: fc7979f3-56c3-43ca-9784-f1ea3dc69c4b
+topic_v2: id: beb7a3c1-66ab-4786-b879-7621375b3c40id: d00e9f03-e50b-4162-b143-0c0817c937c2id: e0eb8757-182f-49f3-94a4-1587d16f5094
+source-git-commit: 2a324011b3d235db3d4642c2797c4fa107267e6a
 workflow-type: tm+mt
-source-wordcount: '327'
+source-wordcount: 332
 ht-degree: 1%
 
 ---
 
-# 內容供應鏈
+# 內容supply chain
 
 針對每位客戶規劃、建立、個人化和發佈令人難忘的內容 — 立即掌握。
 
@@ -18,7 +22,7 @@ ht-degree: 1%
 <table>
  <thead>
     <tr>
-      <th>使用實例</th>
+      <th>使用案例</th>
       <th>說明</th>
       <th>範例</th>
       <th>應用程式</th>
@@ -27,7 +31,7 @@ ht-degree: 1%
   <tbody>
 <tr>
   <td rowspan="2"><strong>使用品牌資產建立行銷宣傳品</strong><br/></td>
-  <td>使用AEM和Adobe[!DNL Campaign]建置並監督電子郵件行銷內容和範本。</td>
+  <td>使用AEM和Adobe [!DNL Campaign]建置並監督電子郵件行銷內容和範本。</td>
   <td>
     <ul>
       <li>傳送使用AEM建立的行銷電子郵件</li>
@@ -40,7 +44,7 @@ ht-degree: 1%
   <td>
     <ul>
       <li>傳送在GenStudio for Performance Marketing中建立的行銷電子郵件，內含來自AEM Assets的品牌上影像。</li>
-      <li>使用AEM Assets中的品牌上影像在GenStudio for Performance Marketing中建立品牌上中繼廣告。</li>
+      <li>使用AEM Assets中的品牌上影像在GenStudio for Performance Marketing中建立品牌上Meta廣告。</li>
     </ul>    
   </td>
   <td><a href="../integrations-between-applications/experience-manager/experience-manager-genstudio-for-performance-marketing.md">GenStudio for Performance Marketing和AEM</a></td>
@@ -71,7 +75,7 @@ ht-degree: 1%
   <td><a href="../integrations-between-applications/experience-manager/experience-manager-workfront.md">AEM Assets Essentials和Workfront</a></td>
 </tr>
 <tr>
-  <td>跨Creative Cloud和Workfront應用程式建立和管理資產更新</td>
+  <td>在Creative Cloud和Workfront應用程式中建立和管理資產更新</td>
   <td>
     <ul style="margin-top: 0;">
       <li>跨多個平台上傳和共用資產</li>
@@ -79,11 +83,11 @@ ht-degree: 1%
       <li>檢視各平台的資產需求和意見回饋</li>
     </ul>    
   </td>
-  <td><a href="/help/integrations/integrations-between-applications/workfront/workfront-creative-cloud.md">Creative Cloud與Workfront</a></td>
+  <td><a href="/help/integrations/integrations-between-applications/workfront/workfront-creative-cloud.md">Creative Cloud和Workfront</a></td>
 </tr>
 <tr>
   <td><strong>使用品牌資產建立行銷宣傳品</strong><br/></td>
-  <td>運用Adobe Experience Manager Assets Essentials和Adobe Journey Optimizer，有效率地運用品牌資產進行行銷活動。
+  <td>利用Adobe Experience Manager Assets Essentials和Adobe Journey Optimizer，有效率地利用品牌資產進行行銷活動。
   </td>
   <td>
     <ul>

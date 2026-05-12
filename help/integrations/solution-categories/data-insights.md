@@ -2,9 +2,13 @@
 title: 資料深入分析和啟用的應用程式整合
 description: 使用整個組織的線上和離線資料分析，在任何管道上推動即時個人化。
 exl-id: 9f22085a-306e-48e8-9b86-6429d851df58
-source-git-commit: 509b227f360718e81fb19d3a4d30aebf9de49e5a
+TQID: https://experienceleague.adobe.com/zkqCV7vW8y8lOyV58jQVQImIskKiMqN2oecEKhg6Vd0
+product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+feature_v2: id: fc7979f3-56c3-43ca-9784-f1ea3dc69c4b
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: c4147b6e-073b-4d3c-9ab1-d60f2f4434efid: cdd65e7e-8839-44a2-bc21-0e03623b5dd1id: d00e9f03-e50b-4162-b143-0c0817c937c2id: e0eb8757-182f-49f3-94a4-1587d16f5094id: e1e0219c-f879-479f-8427-888ed2a6e9c2id: fc314d1d-7cb9-4a38-8dbd-8f9b6478f40did: ff2b9b37-92e0-45fc-b853-379d44c08c89
+source-git-commit: 2a324011b3d235db3d4642c2797c4fa107267e6a
 workflow-type: tm+mt
-source-wordcount: '541'
+source-wordcount: 560
 ht-degree: 1%
 
 ---
@@ -17,7 +21,7 @@ ht-degree: 1%
 
 <thead>
     <tr>
-      <th>使用實例</th>
+      <th>使用案例</th>
       <th>說明</th>
       <th>範例</th>
       <th>應用程式</th>
@@ -30,7 +34,7 @@ ht-degree: 1%
    <td rowspan="8"><b>資料分析和報告</b></td>
 
 <!--  ROW 2a  -->
-<td>使用Adobe[!DNL Target]並透過Adobe[!DNL Analytics]產生完整報告，分析最佳化測試結果（包括A/B測試）。</td>
+<td>使用Adobe [!DNL Target]並透過Adobe [!DNL Analytics]產生全面的報告，分析最佳化測試結果（包括A/B測試）。</td>
    <td><ul style="margin-top: 0;">
         <li>在豐富的Analytics報表中顯示A/B測試結果。</li>
        </ul></td>
@@ -51,7 +55,7 @@ ht-degree: 1%
 <tr>
    <td>展開個人化和廣告平台的對象。</td>
     <td><ul style="margin-top: 0;">
-        <li>使用伺服器端轉送傳送[!DNL Analytics]資料給Audience Manager以建立區段。</li>
+        <li>使用伺服器端轉送來傳送[!DNL Analytics]資料至Audience Manager以建立區段。</li>
        </ul></td>
    <td><a href="../integrations-between-applications/aam/aam-analytics.md" target="_blank" rel="noopener noreferrer">Audience Manager和 [!DNL Analytics]</a></td>
  </tr>
@@ -67,7 +71,7 @@ ht-degree: 1%
 
 <!--  ROW 2e  -->
 <tr>
-   <td>使用Adobe[!DNL Analytics]追蹤、分析和報告AEM Sites網站上的使用者活動，以進行全面的報告和深入分析。</td>
+   <td>使用Adobe [!DNL Analytics]追蹤、分析和報告AEM Sites網站上的使用者活動，以進行全面的報告和深入分析。</td>
    <td><ul style="margin-top: 0;">
         <li>追蹤、分析和報告網站頁面的關鍵量度。</li>
         <li>使用[!DNL Analytics]報告針對使用者體驗和內容策略做出資料導向式決策。</li>
@@ -78,7 +82,7 @@ ht-degree: 1%
 
 <!--  ROW 2f  -->
 <tr>
-   <td>使用點按前的量度和轉換率，取得有關Adobe[!DNL Campaign]電子郵件行銷活動的完整深入分析。</td>
+   <td>使用點按前量度和轉換率，深入瞭解Adobe [!DNL Campaign]電子郵件行銷活動。</td>
    <td><ul style="margin-top: 0;">
         <li>追蹤、分析和報告電子郵件促銷活動的點按後轉換量度。</li>
         <li>深入分析行銷活動至[!DNL Analytics]中收集的其他維度。</li>
@@ -89,17 +93,17 @@ ht-degree: 1%
 
 <!--  ROW 2g  -->
 <tr>
-   <td>使用您選取的關鍵量度和維度，取得有關Adobe[!DNL Commerce]存放區效能的全面深入分析。</td>
+   <td>使用您選取的關鍵量度和維度，取得有關Adobe [!DNL Commerce]商店績效的全面深入分析。</td>
    <td><ul style="margin-top: 0;">
         <li>商業活動的資料分析和報表。</li>
-        <li>使用您選取的關鍵量度和維度，取得有關Adobe[!DNL Commerce]存放區效能的全面深入分析。</li>
+        <li>使用您選取的關鍵量度和維度，取得有關Adobe [!DNL Commerce]商店績效的全面深入分析。</li>
        </ul></td>
    <td><a href="../integrations-between-applications/commerce/commerce-analytics.md" target="_blank" rel="noopener noreferrer">[!DNL Commerce] 和 [!DNL Analytics]</a></td>
  </tr>
 
 <!--  ROW 2h  -->
 <tr>
-   <td>在Customer Journey [!DNL Analytics]的Analysis Workspace中使用Adobe[!DNL Analytics]行為資料。</td>
+   <td>在客戶歷程[!DNL Analytics]的Analysis Workspace中使用Adobe [!DNL Analytics]行為資料。</td>
    <td><ul style="margin-top: 0;">
         <li>分析管道參與和轉換。</li>
         <li>了解熱門產品類別和產品。</li>
@@ -126,7 +130,7 @@ ht-degree: 1%
 <tr>
   <td>使用受眾和設定檔資料增強行銷活動。</td>
   <td><ul style="margin-top: 0;">
-        <li>使用AEP資料進行對象細分，強化您的行銷活動。</li>
+        <li>使用AEP資料進行受眾細分，強化您的行銷活動。</li>
       </ul></td>
    <td><a href="../integrations-between-applications/campaign/campaign-rtcdp.md">[!DNL Campaign] v8和即時客戶資料 [!DNL Platform]</a></td>
  </tr>
@@ -154,7 +158,7 @@ ht-degree: 1%
 <!--  ROW 4  -->
 <tr>
    <td><b>測量行銷影像使用情況和效能</b></td>
-   <td>整合AEM Assets和Adobe[!DNL Analytics]，以追蹤和分析行銷影像的成效。</td>
+   <td>整合AEM Assets和Adobe [!DNL Analytics]，以追蹤和分析行銷影像的成效。</td>
    <td><ul style="margin-top: 0;"><li>追蹤和分析資產績效。</li>
            <li>分析使用者參與。</li>
            <li>最佳化內容策略。</li>
