@@ -1,8 +1,8 @@
 ---
 source-git-commit: 94b074c17e976e4f4acbb1ff41aacfc9bf74744c
 workflow-type: tm+mt
-source-wordcount: '133'
-ht-degree: 3%
+source-wordcount: '149'
+ht-degree: 2%
 
 ---
 
@@ -13,10 +13,10 @@ ht-degree: 3%
 
 {{analytics-description}}
 
-Adobe[!DNL Analytics]與Adobe[!DNL Campaign]的整合可啟用順暢的資料共用和電子郵件追蹤：
+Adobe [!DNL Analytics]與Adobe [!DNL Campaign]的整合可讓您順暢地共用資料及追蹤電子郵件：
 
-+ 從Adobe[!DNL Campaign]共用KPI資料&#x200B;**至Adobe[!DNL Analytics]。**
-+ **使用Adobe[!DNL Analytics]引數擴充追蹤公式**。
++ 從Adobe [!DNL Campaign]將KPI資料&#x200B;**共用至Adobe [!DNL Analytics]。**
++ 使用Adobe [!DNL Analytics]引數擴充追蹤公式&#x200B;**。**
 + 使用觸發器，根據特定追蹤行為&#x200B;**傳送個人化電子郵件**。
 
 ## 常見整合
@@ -33,10 +33,10 @@ Adobe[!DNL Analytics]與Adobe[!DNL Campaign]的整合可啟用順暢的資料共
      <tbody>
         <tr>
             <td rowspan="2">[!DNL Campaign] 標準搭配 [!DNL Analytics]</td>
-            <td><a href="https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/integrations/track-the-success-of-your-deliveries-in-analytics.html?lang=zh-Hant" target="_blank" rel="noreferrer">連結至Adobe[!DNL Analytics]的外部[!DNL Campaign]帳戶以及中的管理員設定 [!DNL Analytics]</a></td>
+            <td><a href="https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/integrations/track-the-success-of-your-deliveries-in-analytics.html?lang=zh-Hant" target="_blank" rel="noreferrer">連結至Adobe [!DNL Analytics]的外部[!DNL Campaign]帳戶以及中的管理員設定 [!DNL Analytics]</a></td>
             <td>
                 <ul style="margin-top: 0;">
-                    <li>當您想要直接在Adobe[!DNL Analytics]中從[!DNL Campaign]追蹤電子郵件傳送的成功時。</li>
+                    <li>當您想要直接在Adobe [!DNL Analytics]中從[!DNL Campaign]追蹤電子郵件傳送的成功時。</li>
                 </ul>
             </td>
             <td>
@@ -47,7 +47,7 @@ Adobe[!DNL Analytics]與Adobe[!DNL Campaign]的整合可啟用順暢的資料共
             </td>
         </tr>
         <tr>
-            <td><a href="../../integrations/tutorials/campaign-analytics/campaign-analytics-trigger.md" target="_blank" rel="noreferrer">觸發器</a></li>
+            <td><a href="../../integrations/tutorials/campaign-analytics/campaign-analytics-trigger.md" target="_blank" rel="noreferrer">觸發程序</a></li>
             <td>
                 <ul style="margin-top: 0;">
                     <li>使用即時事件資料觸發異動訊息。</li>
