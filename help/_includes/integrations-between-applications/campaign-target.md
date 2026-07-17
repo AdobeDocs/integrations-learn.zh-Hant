@@ -1,8 +1,8 @@
 ---
 source-git-commit: 94b074c17e976e4f4acbb1ff41aacfc9bf74744c
 workflow-type: tm+mt
-source-wordcount: '105'
-ht-degree: 2%
+source-wordcount: '114'
+ht-degree: 5%
 
 ---
 
@@ -13,9 +13,9 @@ ht-degree: 2%
 
 {{target-description}}
 
-將Adobe[!DNL Campaign]與Adobe[!DNL Target]搭配使用，以個人化和最佳化您的電子郵件內容。 主要優點包括：
+搭配使用Adobe [!DNL Campaign]與Adobe [!DNL Target]，以個人化和最佳化您的電子郵件內容。 主要優勢包括：
 
-+ **Adobe[!DNL Campaign]資料**：使用Adobe[!DNL Campaign]資料超市增強Adobe[!DNL Target]中的鎖定目標。
++ **Adobe [!DNL Campaign]資料**：使用Adobe [!DNL Campaign]資料超市增強Adobe [!DNL Target]中的鎖定目標。
 + **對象細分**：將區段連結至訪客ID，以最佳化目標定位和個人化體驗。
 + **[!DNL Target]正在增強功能**：存取有價值的資料（使用者代理、IP位址、地理位置），以改進目標定位和行銷活動。
 
