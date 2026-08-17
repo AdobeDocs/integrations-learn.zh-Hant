@@ -1,7 +1,7 @@
 ---
 source-git-commit: 94b074c17e976e4f4acbb1ff41aacfc9bf74744c
 workflow-type: tm+mt
-source-wordcount: '126'
+source-wordcount: '146'
 ht-degree: 2%
 
 ---
@@ -13,10 +13,10 @@ ht-degree: 2%
 
 {{experience-manager-description}}
 
-整合Adobe[!DNL Campaign]與AEMExperience Manager的主要優點包括：
+整合Adobe [!DNL Campaign]與AEM Experience Manager的主要優點包括：
 
 + **直接在Adobe Experience Manager中管理您的電子郵件傳遞內容**&#x200B;和您的表單。
-+ **編輯來自Adobe Experience Manager Assets的Adobe[!DNL Campaign]中的電子郵件或登陸頁面**&#x200B;時使用品牌資產。
++ **在Adobe [!DNL Campaign]中，從Adobe Experience Manager Assets編輯電子郵件或登陸頁面**&#x200B;時使用品牌資產。
 
 ## 常見整合
 
@@ -35,7 +35,7 @@ ht-degree: 2%
             <td>AEM整合套件</td>
             <td>
                 <ul style="margin-top: 0;">
-                    <li>當您想要使用WYSIWYG編寫來建立電子郵件範本或登入頁面時。</li>
+                    <li>當您想要使用WYSIWYG撰寫功能建立電子郵件範本或登入頁面時。</li>
                 </ul>
             </td>
             <td>
@@ -47,7 +47,7 @@ ht-degree: 2%
             </td>
         </tr>      
         <tr>
-            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/forms/aem-forms-with-adobe-campaign/aem-forms-with-campaign-standard-getting-started-tutorial.html?lang=zh-Hant" target="_blank" rel="noreferrer">[!DNL Campaign] 使用AEM Forms的標準</a></td>
+            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/forms/aem-forms-with-adobe-campaign/aem-forms-with-campaign-standard-getting-started-tutorial.html" target="_blank" rel="noreferrer">[!DNL Campaign] 使用AEM Forms的標準</a></td>
             <td>Adobe IMS存取權杖</td>
             <td>
                 <ul style="margin-top: 0;">
