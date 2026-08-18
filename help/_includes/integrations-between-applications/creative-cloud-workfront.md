@@ -1,7 +1,7 @@
 ---
 source-git-commit: 838a4dc4cc89da5d9b3798dc62d518dac22e1d3a
 workflow-type: tm+mt
-source-wordcount: '109'
+source-wordcount: '126'
 ht-degree: 2%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 2%
 
 整合Adobe Workfront和Adobe Creative Cloud的主要優點包括：
 
-+ **創意工作流程**：整合可簡化Creative Cloud應用程式中的工作、意見反應和時間記錄。
++ **Creative工作流程**：整合可簡化Creative Cloud應用程式中的工作、意見反應和時間記錄。
 + **有效率的共同作業**： Workfront有助於創意工作稽核、核准和團隊共同作業。
 + **增強的生產力**：順暢的環境喜好設定可提升內容建立的速度和品質。
 
@@ -32,11 +32,11 @@ ht-degree: 2%
     </thead>
     <tbody>
         <tr>
-            <td><a href="https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/integrations/adobe-creative-cloud/use-adobe-workfront-extensions-for-creative-cloud.html?lang=zh-Hant" target="_blank" rel="noreferrer">Creative Cloud與Workfront</a></td>
+            <td><a href="https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/integrations/adobe-creative-cloud/use-adobe-workfront-extensions-for-creative-cloud.html?lang=zh-Hant" target="_blank" rel="noreferrer">Creative Cloud和Workfront</a></td>
             <td>原生聯結器</td>
             <td>
                 <ul style="margin-top: 0;">
-                    <li>創意人員想要在不離開Creative Cloud應用程式的情況下尋找和更新指派的工作時。</li>
+                    <li>創意人員想要在不離開Creative Cloud應用程式的情況下尋找及更新指派的工作時。</li>
                 </ul>
             </td>
             <td>
