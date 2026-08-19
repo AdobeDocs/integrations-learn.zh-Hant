@@ -1,19 +1,19 @@
 ---
 source-git-commit: 94b074c17e976e4f4acbb1ff41aacfc9bf74744c
 workflow-type: tm+mt
-source-wordcount: '135'
+source-wordcount: '150'
 ht-degree: 2%
 
 ---
 
 
-# 將Adobe[!DNL Analytics]與體驗[!DNL Platform]整合
+# 將Adobe [!DNL Analytics]與體驗[!DNL Platform]整合
 
 {{analytics-description}}
 
 {{experience-platform-description}}
 
-整合Adobe[!DNL Analytics]與Adobe體驗[!DNL Platform]可為企業提供多項優點：
+整合Adobe [!DNL Analytics]與Adobe Experience [!DNL Platform]可為企業提供多項優點：
 
 + 簡單明瞭，**使用者介面已啟動工作流程**
 + **對應使用者介面**&#x200B;以將[!DNL Analytics]個prop和eVar複製到新的XDM欄位
