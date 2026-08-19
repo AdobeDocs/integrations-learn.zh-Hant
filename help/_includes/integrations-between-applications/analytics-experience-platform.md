@@ -34,7 +34,7 @@ ht-degree: 2%
     </thead>
     <tbody>
         <tr>
-            <td><a href="https://experienceleague.adobe.com/docs/experience-platform/sources/ui-tutorials/create/adobe-applications/analytics.html" target="_blank" rel="noreferrer">[!DNL Analytics] 和體驗 [!DNL Platform]</a></td>
+            <td><a href="https://experienceleague.adobe.com/docs/experience-platform/sources/ui-tutorials/create/adobe-applications/analytics.html?lang=zh-Hant" target="_blank" rel="noreferrer">[!DNL Analytics] 和體驗 [!DNL Platform]</a></td>
             <td>體驗[!DNL Platform]來源聯結器</td>
             <td>
                 <ul style="margin-top: 0;">

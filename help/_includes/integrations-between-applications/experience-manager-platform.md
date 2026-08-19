@@ -32,7 +32,7 @@ ht-degree: 2%
     </thead>
     <tbody>
         <tr>
-            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/sites/integrations/experience-platform/web-sdk.html" target="_blank" rel="noreferrer">Experience Manager與Experience [!DNL Platform]</a></td>
+            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/sites/integrations/experience-platform/web-sdk.html?lang=zh-Hant" target="_blank" rel="noreferrer">Experience Manager與Experience [!DNL Platform]</a></td>
             <td>體驗[!DNL Platform]網頁SDK</td>
             <td>
                 <ul style="margin-top: 0;">
