@@ -1,23 +1,23 @@
 ---
 source-git-commit: 94b074c17e976e4f4acbb1ff41aacfc9bf74744c
 workflow-type: tm+mt
-source-wordcount: '135'
+source-wordcount: '150'
 ht-degree: 2%
 
 ---
 
 
-# 將Adobe[!DNL Analytics]與體驗[!DNL Platform]整合
+# 將Adobe [!DNL Analytics]與體驗[!DNL Platform]整合
 
 {{analytics-description}}
 
 {{experience-platform-description}}
 
-整合Adobe[!DNL Analytics]與Adobe體驗[!DNL Platform]可為企業提供多項優點：
+整合Adobe [!DNL Analytics]與Adobe Experience [!DNL Platform]可為企業提供多項優點：
 
 + 簡單明瞭，**使用者介面已啟動工作流程**
 + **對應使用者介面**&#x200B;以將[!DNL Analytics]個prop和eVar複製到新的XDM欄位
-+ 從即時客戶個人檔案和客戶歷程&#x200B;[!DNL Analytics]&#x200B;**取得**&#x200B;值的最快方式
++ 從即時客戶個人檔案和客戶歷程&#x200B;[!DNL Analytics]**取得**&#x200B;值的最快方式
 
 透過整合這些平台，企業可以利用資料獲得卓越的客戶體驗、有效的行銷和競爭優勢。
 
@@ -34,7 +34,7 @@ ht-degree: 2%
     </thead>
     <tbody>
         <tr>
-            <td><a href="https://experienceleague.adobe.com/docs/experience-platform/sources/ui-tutorials/create/adobe-applications/analytics.html?lang=zh-Hant" target="_blank" rel="noreferrer">[!DNL Analytics] 和體驗 [!DNL Platform]</a></td>
+            <td><a href="https://experienceleague.adobe.com/docs/experience-platform/sources/ui-tutorials/create/adobe-applications/analytics.html" target="_blank" rel="noreferrer">[!DNL Analytics] 和體驗 [!DNL Platform]</a></td>
             <td>體驗[!DNL Platform]來源聯結器</td>
             <td>
                 <ul style="margin-top: 0;">

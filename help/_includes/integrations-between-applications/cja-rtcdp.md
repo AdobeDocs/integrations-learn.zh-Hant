@@ -1,8 +1,8 @@
 ---
 source-git-commit: 94b074c17e976e4f4acbb1ff41aacfc9bf74744c
 workflow-type: tm+mt
-source-wordcount: '227'
-ht-degree: 1%
+source-wordcount: '258'
+ht-degree: 6%
 
 ---
 
@@ -36,13 +36,13 @@ ht-degree: 1%
     </thead>
     <tbody>
         <tr>
-            <td><a href="https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/components/audiences/audience-publishing-for-cja.html?lang=zh-Hant" target="_blank" rel="noreferrer">客戶歷程[!DNL Analytics]與Real-Time CDP</a></td>
+            <td><a href="https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/components/audiences/audience-publishing-for-cja.html" target="_blank" rel="noreferrer">客戶歷程[!DNL Analytics]與Real-Time CDP</a></td>
             <td>Adobe體驗 [!DNL Platform]</td>
             <td>
                 <ul style="margin-top: 0;">
-                    <li>當您想要使用Customer Journey [!DNL Analytics] (CJA)對象在Adobe Journey Optimizer中的歷程時。</li>
+                    <li>當您想要將客戶歷程[!DNL Analytics] (CJA)對象用於Adobe Journey Optimizer中的歷程時。</li>
                     <li>當您想要透過Experience [!DNL Platform]目的地將CJA對象匯出至第三方時。</li>
-                    <li>當您想要利用衍生自CJA中事件型資料的有用屬性來擴充即時客戶設定檔時。</li>
+                    <li>當您想要使用衍生自CJA中事件型資料的有用屬性來擴充即時客戶設定檔時。</li>
                     <li>在發佈對象至Real-Time CDP後，以最小的延遲完成所有這些動作。</li>
                     <li>當您想要發佈一次性對象或週期性對象時。</li>
                 </ul>
