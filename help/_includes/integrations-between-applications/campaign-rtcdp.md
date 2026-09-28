@@ -1,11 +1,9 @@
 ---
 source-git-commit: 94b074c17e976e4f4acbb1ff41aacfc9bf74744c
 workflow-type: tm+mt
-source-wordcount: '122'
+source-wordcount: '124'
 ht-degree: 2%
-
 ---
-
 
 # [!DNL Campaign]和即時客戶資料[!DNL Platform]
 
@@ -13,9 +11,9 @@ ht-degree: 2%
 
 {{real-time-cdp-description}}
 
-Adobe[!DNL Campaign]受管理的Cloud Service目的地和Source聯結器允許Adobe[!DNL Campaign]與Adobe體驗[!DNL Platform]之間無縫整合。 這項整合的主要優點包括：
+Adobe [!DNL Campaign] Managed Cloud Service目的地和Source聯結器可讓Adobe [!DNL Campaign]與Adobe Experience [!DNL Platform]緊密整合。 這項整合的主要優點包括：
 
-+ **利用Adobe體驗[!DNL Platform]支援的受眾，增強[!DNL Campaign]的區段功能**，並在[!DNL Campaign]中啟用該資料。
++ **利用Adobe Experience [!DNL Platform]支援的受眾，增強[!DNL Campaign]的區段功能**，並在[!DNL Campaign]中啟用該資料。
 
 ## 常見整合
 
@@ -31,10 +29,10 @@ Adobe[!DNL Campaign]受管理的Cloud Service目的地和Source聯結器允許Ad
     <tbody>
         <tr>
             <td><a href="../../integrations/tutorials/campaign-rtcdp/campaign-v8-real-time-cdp.md" target="_blank" rel="noreferrer">[!DNL Campaign] 使用Real-Time CDP的v8</a></td>
-            <td>[!DNL Campaign] 受管理的Cloud Service目的地</td>
+            <td>[!DNL Campaign] 受管理的雲端服務目的地</td>
             <td>
                 <ul style="margin-top: 0;">
-                    <li>運用Adobe Experience [!DNL Platform]支援的智慧區段，並使用Adobe[!DNL Campaign]加以啟用，以便透過Adobe[!DNL Campaign]支援的不同管道聯絡其客戶基礎。</li>
+                    <li>運用Adobe Experience [!DNL Platform]支援的智慧型區段，並使用Adobe [!DNL Campaign]加以啟用，以便透過Adobe [!DNL Campaign]支援的不同管道與其客戶群聯絡。</li>
                 </ul>
             </td>
             <td>
