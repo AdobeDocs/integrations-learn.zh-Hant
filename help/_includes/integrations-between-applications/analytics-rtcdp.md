@@ -1,25 +1,23 @@
 ---
 source-git-commit: 94b074c17e976e4f4acbb1ff41aacfc9bf74744c
 workflow-type: tm+mt
-source-wordcount: '305'
+source-wordcount: '319'
 ht-degree: 0%
-
 ---
 
-
-# 將Adobe[!DNL Analytics]與即時客戶資料[!DNL Platform]整合
+# 將Adobe [!DNL Analytics]與即時客戶資料[!DNL Platform]整合
 
 {{analytics-description}}
 
 {{real-time-cdp-description}}
 
-將Adobe[!DNL Analytics]與Adobe即時客戶資料[!DNL Platform] (Real-Time CDP)整合可讓想要改善客戶體驗與行銷工作的企業獲得幾項好處。 以下是一些主要優點：
+將Adobe [!DNL Analytics]與Adobe Real-Time Customer Data [!DNL Platform] (Real-Time CDP)整合後，可為想要改善客戶體驗與行銷工作的企業提供數項優點。 以下是一些主要優點：
 
 + **增強的受眾目標定位與個人化**：裝置和管道上的精確行銷，針對最佳化的參與量身打造訊息。
 + **已改善登陸頁面最佳化**：根據裝置和行為量身打造的體驗，可提升使用者滿意度和轉換率。
 + **順暢的受眾啟用**：利用客戶設定檔，透過偏好的管道進行有效目標定位，並傳送相關訊息。
 
-結合Adobe[!DNL Analytics]和Real-Time CDP，企業可以將行銷工作提升到新的境界，提供個人化體驗、提升客戶參與度，並最佳化各種數位接觸點的轉換。
+結合Adobe [!DNL Analytics]和Real-Time CDP，企業可以將行銷工作提升到新的境界，提供個人化體驗、提升客戶參與度並最佳化各種數位接觸點的轉換。
 
 <table>
     <thead>
@@ -35,7 +33,7 @@ ht-degree: 0%
         <td><a href="../../integrations/tutorials/analytics-rtcdp/experience-platform-source-connector.md" target="_blank" rel="noreferrer">體驗[!DNL Platform]來源聯結器</a></td>
         <td>
             <ul style="margin-top: 0;">
-                <li>已實作Adobe[!DNL Analytics]且想要以最快方式將此資料擷取至體驗[!DNL Platform]，以便用於即時客戶設定檔的客戶，建議使用此方法。</li>
+                <li>已實作Adobe [!DNL Analytics]且想要以最快方式將此資料擷取至體驗[!DNL Platform]，以便用於即時客戶設定檔的客戶，建議使用此方法。</li>
                 <li>當即時客戶設定檔的資料可用性從資料收集時間開始2到30分鐘之間，並且資料湖的可用性最高可達90分鐘時。</li>
             </ul>
         </td>
