@@ -1,39 +1,52 @@
 ---
-title: 將 [!DNL Campaign] v8與Experience Manager教學課程整合
-description: 瞭解如何連結Adobe [!DNL Campaign] 與Adobe Experience Manager，以在Experience Manager中管理電子郵件傳遞範本、資產和表單。
+title: 將[!DNL Campaign] v8與Experience Manager教學課程整合
+description: 瞭解如何連結Adobe [!DNL Campaign]與Adobe Experience Manager，以在Experience Manager中管理電子郵件傳遞範本、資產和表單。
 solution: Campaign, Campaign v8 Client Console, Campaign v8 Web User Interface, Experience Manager
 feature: Integrations
 topic: Integrations
 role: Admin, Developer
 level: Experienced
 index: true
-kt: null
-thumbnail: null
+kt:
+thumbnail:
 last-substantial-update: 2023-07-26T00:00:00.000Z
 badgeIntegration: label="整合" type="positive"
 exl-id: 040f992e-029c-44a2-ac2b-10f2995a6c75
-TQID: https://experienceleague.adobe.com/pLNl9UefpDvhC5rfd4RiWWVAzYeLM0llgbbxHV1syxg
+TQID: 'https://experienceleague.adobe.com/pLNl9UefpDvhC5rfd4RiWWVAzYeLM0llgbbxHV1syxg'
 product_v2:
   - id: dfc56824-e8b9-499e-85d4-21aedb507314
+    internal-label: Campaign
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
+  - id: ccdd4c6f-8203-4e89-85f0-79883f86f5fd
+    internal-label: Campaign v8 Web User Interface
 feature_v2:
   - id: a075b2c1-7748-4328-b7f6-343aa314616a
+    internal-label: Campaigns
   - id: ae478996-b206-4712-9b0c-dc78a2644453
+    internal-label: Integrations
   - id: d5ef99fa-df0c-4153-bf94-105ad0724167
+    internal-label: Integrations
   - id: eb3ad9f8-54a2-45f3-abb1-d3976415a718
+    internal-label: Personalization
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+    internal-label: Personalization
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 2a324011b3d235db3d4642c2797c4fa107267e6a
+    internal-label: Administration
+source-git-commit: 4c51eef6f89060dc633dede5ea23e0f3ab445d0b
 workflow-type: tm+mt
-source-wordcount: 134
+source-wordcount: '136'
 ht-degree: 0%
-
 ---
-
 # 將[!DNL Campaign] v8與Experience Manager教學課程整合
 
 瞭解如何連結Adobe [!DNL Campaign]與Adobe Experience Manager，以在Experience Manager中管理電子郵件傳遞範本、資產和表單。
@@ -46,16 +59,16 @@ ht-degree: 0%
 
 瞭解如何設定Experience Manager與[!DNL Campaign]之間的整合，包括要尋找的重要設定及要避免的潛在「疑問」。
 
->[!VIDEO](https://video.tv.adobe.com/v/3445907?captions=chi_hant&quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/340121?quality=12&learn=on)
 
 ## 核准Experience Manager頁面並發佈到[!DNL Campaign]
 
 瞭解如何在Experience Manager中建立電子報，以及如何核准並發佈到[!DNL Campaign]。
 
->[!VIDEO](https://video.tv.adobe.com/v/3447582?captions=chi_hant&quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/340678?quality=12&learn=on)
 
 ## 在[!DNL Campaign]中同步並傳送Experience Manager電子郵件傳遞
 
 瞭解如何在[!DNL Campaign]中測試並傳送在Experience Manager中建立的電子報。
 
->[!VIDEO](https://video.tv.adobe.com/v/3444759?captions=chi_hant&quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/340151?quality=12&learn=on)
