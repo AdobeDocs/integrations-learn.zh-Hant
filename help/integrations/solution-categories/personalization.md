@@ -5,26 +5,33 @@ exl-id: 6d18813d-950c-40ae-8d5b-80bf389358fc
 TQID: https://experienceleague.adobe.com/vZyhtRi9XnWPLZww56VbOGNYzSMD0xxcXYPfa9PGrkw
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+    internal-label: CX Enterprise
 feature_v2:
   - id: fc7979f3-56c3-43ca-9784-f1ea3dc69c4b
+    internal-label: Integrations
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
   - id: c4147b6e-073b-4d3c-9ab1-d60f2f4434ef
+    internal-label: Behavioral data
   - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+    internal-label: Optimization
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+    internal-label: Personalization
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
   - id: e9001ce2-5245-4a8e-8601-dd958009072f
+    internal-label: Web experience
   - id: fd2e3797-f2ea-4b36-a9af-52acf5e90513
-source-git-commit: 2a324011b3d235db3d4642c2797c4fa107267e6a
+    internal-label: Customer profiles
+source-git-commit: 4c51eef6f89060dc633dede5ea23e0f3ab445d0b
 workflow-type: tm+mt
-source-wordcount: 610
+source-wordcount: '612'
 ht-degree: 1%
-
 ---
-
 # 大規模Personalization
 
-在當今高度競爭和數位化的環境內，客戶期待能根據自己獨特的偏好和需求量身打造的體驗。 運用Adobe Experience Cloud的功能，我們得以收集和分析廣泛的客戶資料，針對行為、興趣和偏好提供寶貴的見解。 這種深入的瞭解有助於在各種接觸點之間傳遞個人化體驗，確保有意義且吸引人的互動。 運用Adobe Experience Cloud的強大功能，釋放個人化的全部潛力，建立更強大的客戶連線，培養忠誠度，並帶動業務增長。
+在當今高度競爭和數位化的環境內，客戶期待能根據自己獨特的偏好和需求量身打造的體驗。 運用Adobe Experience Cloud的功能，我們得以收集和分析廣泛的客戶資料，針對行為、興趣和偏好提供寶貴的深入分析。 這種深入的瞭解有助於在各種接觸點之間傳遞個人化體驗，確保有意義且吸引人的互動。 運用Adobe Experience Cloud的強大功能，釋放個人化的全部潛力，建立更強大的客戶連線，培養忠誠度，並帶動業務增長。
 
 <table>
  <thead>

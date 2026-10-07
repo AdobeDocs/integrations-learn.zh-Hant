@@ -5,18 +5,20 @@ exl-id: ffd78652-e828-4a2c-97ce-0da777d9db2c
 TQID: https://experienceleague.adobe.com/apKwbItmCVvmkJ-gx580ymdP7M1FGNieIorzOSHo374
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+    internal-label: CX Enterprise
 feature_v2:
   - id: fc7979f3-56c3-43ca-9784-f1ea3dc69c4b
+    internal-label: Integrations
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: 2a324011b3d235db3d4642c2797c4fa107267e6a
+    internal-label: Insights
+source-git-commit: 4c51eef6f89060dc633dede5ea23e0f3ab445d0b
 workflow-type: tm+mt
-source-wordcount: 174
+source-wordcount: '174'
 ht-degree: 3%
-
 ---
-
 # [!DNL Commerce]
 
 使用我們靈活的AI支援商務解決方案，在單一平台上建立多管道商務體驗。 建立數位店面，為客戶隨時隨地探索、瀏覽及購買產品或服務提供順暢的線上購物體驗，藉此擴大您的市場觸角、提升客戶便利性，並推動銷售增長。
