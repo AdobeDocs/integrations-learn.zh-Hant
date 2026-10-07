@@ -1,11 +1,9 @@
 ---
 source-git-commit: 838a4dc4cc89da5d9b3798dc62d518dac22e1d3a
 workflow-type: tm+mt
-source-wordcount: '206'
-ht-degree: 1%
-
+source-wordcount: '237'
+ht-degree: 2%
 ---
-
 
 # Experience Manager與Workfront整合
 
@@ -13,7 +11,7 @@ ht-degree: 1%
 
 {{workfront-description}}
 
-AEM和Workfront可簡化內容製作，讓受管理的內容從Workfront無縫匯入至AEM，以有效率地組織和存取，確保及時且高品質的數位資產交付。 主要優點包括：
+AEM和Workfront可簡化內容製作，將受管理的內容從Workfront無縫匯入AEM，以有效率地組織和存取，確保及時且高品質的數位資產交付。 主要優勢包括：
 
 + **簡化內容製作**： AEM和Adobe Workfront整合可最佳化端對端內容建立程式。
 + **增強型共同作業**：團隊可以在內容專案上順暢地共同作業，增進溝通與效率。
@@ -34,7 +32,7 @@ AEM和Workfront可簡化內容製作，讓受管理的內容從Workfront無縫�
     </thead>
     <tbody>
         <tr>
-            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/configure.html?lang=zh-Hant" target="_blank" rel="noreferrer">Workfront和AEM Assets Essentials</a></td>
+            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/configure.html" target="_blank" rel="noreferrer">Workfront和AEM Assets Essentials</a></td>
             <td>原生聯結器</td>
             <td>
               <ul style="margin-top: 0;">
@@ -50,7 +48,7 @@ AEM和Workfront可簡化內容製作，讓受管理的內容從Workfront無縫�
             </td>
         </tr>
         <tr>
-            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/workfront/enhanced-connector/aem-experts-series/overview.html?lang=zh-Hant" target="_blank" rel="noreferrer">Workfront和AEM Assets</a></td>
+            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/workfront/enhanced-connector/aem-experts-series/overview.html" target="_blank" rel="noreferrer">Workfront和AEM Assets</a></td>
             <td>增強型聯結器</td>
             <td>
                 <ul style="margin-top: 0;">
