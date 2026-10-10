@@ -32,7 +32,7 @@ ht-degree: 8%
     <tbody>
         <tr>
             <td rowspan="3">AEM Sites as Cloud Service和 [!DNL Commerce]</td>
-            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/content-and-commerce/storefront/getting-started.html" target="_blank" rel="noreferrer">使用[!DNL Commerce]整合架構(CIF)建立單一店面</a></td>
+            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/content-and-commerce/storefront/getting-started.html?lang=zh-Hant" target="_blank" rel="noreferrer">使用[!DNL Commerce]整合架構(CIF)建立單一店面</a></td>
             <td>
                 <ul style="margin-top: 0;">
                     <li>當您想要AEM中的單一店面時。</li>
@@ -48,7 +48,7 @@ ht-degree: 8%
             </td>
         </tr>
         <tr>
-            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/content-and-commerce/storefront/administering/multi-store-setup.html" target="_blank" rel="noreferrer">使用[!DNL Commerce]整合架構(CIF)建立多個店面</a></td>
+            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/content-and-commerce/storefront/administering/multi-store-setup.html?lang=zh-Hant" target="_blank" rel="noreferrer">使用[!DNL Commerce]整合架構(CIF)建立多個店面</a></td>
             <td>
                 <ul style="margin-top: 0;">
                     <li>當您想要在AEM中使用多個店面時。</li>
@@ -62,7 +62,7 @@ ht-degree: 8%
             </td>
         </tr>
         <tr>
-            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/content-and-commerce/storefront/administering/multiple-commerce-systems-setup.html" target="_blank" rel="noreferrer">使用[!DNL Commerce]整合架構(CIF)的多個商務系統</a></td>
+            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/content-and-commerce/storefront/administering/multiple-commerce-systems-setup.html?lang=zh-Hant" target="_blank" rel="noreferrer">使用[!DNL Commerce]整合架構(CIF)的多個商務系統</a></td>
             <td>
                 <ul style="margin-top: 0;"><li>當您想要使用許多商務系統的多區域或多品牌店面時。</li></ul>
             </td>
