@@ -1,23 +1,21 @@
 ---
 source-git-commit: 94b074c17e976e4f4acbb1ff41aacfc9bf74744c
 workflow-type: tm+mt
-source-wordcount: '175'
-ht-degree: 2%
-
+source-wordcount: '226'
+ht-degree: 8%
 ---
 
-
-# Experience Manager和Adobe[!DNL Commerce]
+# Experience Manager和Adobe [!DNL Commerce]
 
 {{experience-manager-description}}
 
 {{commerce-description}}
 
-使用[!DNL Commerce] Integration Framework (CIF)整合AEM和Adobe[!DNL Commerce]可提供幾項優點，包括：
+使用[!DNL Commerce] Integration Framework (CIF)整合AEM和Adobe [!DNL Commerce]可提供幾項優點，包括：
 
 + **使用現成可用的商務元件加速創新**，減少自訂程式碼需求。
-+ 使用Adobe的使用者端資料層，透過個人化體驗推動轉換&#x200B;**。**
-+ **使用AEM的CIF工具快速建置豐富、可擴充的商務體驗**。
++ **使用Adobe的使用者端資料層，透過個人化體驗推動轉換**。
++ **使用AEM的CIF工具快速建立豐富、可擴充的商務體驗**。
 + **簡化撰寫**，並有效管理全通路接觸點上的產品內容。
 
 ## 常見整合
@@ -33,7 +31,7 @@ ht-degree: 2%
     </thead>
     <tbody>
         <tr>
-            <td rowspan="3">AEM Sites作為Cloud Service和 [!DNL Commerce]</td>
+            <td rowspan="3">AEM Sites as Cloud Service和 [!DNL Commerce]</td>
             <td><a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/content-and-commerce/storefront/getting-started.html?lang=zh-Hant" target="_blank" rel="noreferrer">使用[!DNL Commerce]整合架構(CIF)建立單一店面</a></td>
             <td>
                 <ul style="margin-top: 0;">
@@ -50,7 +48,7 @@ ht-degree: 2%
             </td>
         </tr>
         <tr>
-            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/content-and-commerce/storefront/administering/multi-store-setup.html?lang=zh-Hant" target="_blank" rel="noreferrer">使用[!DNL Commerce] Integration Framework (CIF)建立多個店面</a></td>
+            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/content-and-commerce/storefront/administering/multi-store-setup.html?lang=zh-Hant" target="_blank" rel="noreferrer">使用[!DNL Commerce]整合架構(CIF)建立多個店面</a></td>
             <td>
                 <ul style="margin-top: 0;">
                     <li>當您想要在AEM中使用多個店面時。</li>
