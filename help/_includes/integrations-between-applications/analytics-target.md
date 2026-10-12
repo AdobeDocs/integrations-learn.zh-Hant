@@ -1,11 +1,9 @@
 ---
 source-git-commit: 94b074c17e976e4f4acbb1ff41aacfc9bf74744c
 workflow-type: tm+mt
-source-wordcount: '126'
-ht-degree: 6%
-
+source-wordcount: '134'
+ht-degree: 5%
 ---
-
 
 # [!DNL Analytics]與[!DNL Target]整合
 
@@ -13,9 +11,9 @@ ht-degree: 6%
 
 {{target-description}}
 
-整合Adobe[!DNL Analytics]與Adobe[!DNL Target] (A4T)的主要優點如下：
+整合Adobe [!DNL Analytics]與Adobe [!DNL Target] (A4T)的主要優點包括：
 
-+ **資料驅動的個人化**：將[!DNL Analytics]用於Adobe[!DNL Target]中的目標活動，以強化個人化策略。
++ **資料導向個人化**：將[!DNL Analytics]用於Adobe [!DNL Target]中的目標定位活動，以強化個人化策略。
 + **整合式報告**： A4T整合結合了[!DNL Target]和[!DNL Analytics]報告，以進行全面分析。
 + **已最佳化目標**：根據[!DNL Analytics]資料進行決策，以實現精確的對象細分和內容最佳化。
 + **共用對象**：使用[!DNL Analytics]建立詳細的區段，並共用給[!DNL Target]做為測試的對象。
@@ -39,7 +37,7 @@ ht-degree: 6%
             </td>
             <td>
                 <ul style="margin-top: 0;">
-                    <li>您想要使用Adobe[!DNL Analytics]豐富報告功能來顯示和分析[!DNL Target]活動結果。</li>
+                    <li>您想要使用Adobe [!DNL Analytics]豐富報告功能來顯示和分析[!DNL Target]活動結果。</li>
                 </ul>
             </td>
             <td>
