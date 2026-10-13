@@ -1,11 +1,9 @@
 ---
 source-git-commit: 838a4dc4cc89da5d9b3798dc62d518dac22e1d3a
 workflow-type: tm+mt
-source-wordcount: '118'
+source-wordcount: '131'
 ht-degree: 2%
-
 ---
-
 
 # Experience Manager和Marketo Engage
 
@@ -13,11 +11,11 @@ ht-degree: 2%
 
 {{marketo-description}}
 
-整合Experience Manager和Marketo Engage可提供數個優點，包括：
+整合Experience Manager和Marketo Engage具備數個優點，包括：
 
-+ **表單建立與管理**： AEM Forms可讓您輕鬆建立互動式表單，並整合銷售機會產生的Marketo Engage。
-+ **資料同步**： AEM Forms將表單提交同步至Marketo Engage，確保有效率地擷取及管理銷售機會。
-+ **潛在客戶培養與行銷活動自動化**：整合AEM Forms與Marketo Engage，以順暢地轉移潛在客戶、自動後續追蹤、目標電子郵件及追蹤潛在客戶。
++ **表單建立與管理**： AEM Forms可讓您輕鬆建立互動式表單，並與Marketo Engage整合以產生潛在客戶。
++ **資料同步**： AEM Forms會將表單提交同步至Marketo Engage，確保有效率地擷取及管理銷售機會。
++ **潛在客戶培養與行銷活動自動化**：整合AEM Forms與Marketo Engage，以進行無縫的潛在客戶轉移、自動化後續追蹤、目標電子郵件以及潛在客戶追蹤。
 
 ## 常見整合
 
@@ -31,7 +29,7 @@ ht-degree: 2%
     </thead>
     <tbody>
         <tr>
-            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/forms/aem-forms-with-marketo/part1.html?lang=zh-Hant" target="_blank" rel="noreferrer">Experience Manager Forms和Marketo Engage</a></td>
+            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/forms/aem-forms-with-marketo/part1.html" target="_blank" rel="noreferrer">Experience Manager Forms和Marketo Engage</a></td>
             <td>
                 <ul style="margin-top: 0;">
                     <li>當您想要根據使用者的數位表格提交來產生潛在客戶時。</li>
